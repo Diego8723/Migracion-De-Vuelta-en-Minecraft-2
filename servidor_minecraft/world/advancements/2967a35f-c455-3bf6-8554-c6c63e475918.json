@@ -1,0 +1,502 @@
+{
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2024-11-27 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/root": {
+    "criteria": {
+      "salt": "2024-11-27 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2024-11-27 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-27 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2024-11-27 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2024-11-27 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-27 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:main/welcome_to_youkais_homecoming": {
+    "criteria": {
+      "0": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2024-11-27 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-27 05:32:15 +0000",
+      "minecraft:plains": "2024-11-27 05:33:55 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-11-27 05:34:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-11-27 05:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-27 05:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-27 05:36:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-27 05:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-11-27 05:36:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/tengu_tango": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_honeycomb": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/sparrow_sake": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_honey": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/scarlet_mist": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/wind_priestesses": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/dassai": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/cooking/tea_curry": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/daiginjo": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candelabra": {
+    "criteria": {
+      "has_honey": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/rice_dough_from_eggs": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/full_moons_eve": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/rice_dough_from_water": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_honey": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/mio": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/simple_fermentation/mead": {
+    "criteria": {
+      "has_rice": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-11-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/food/black_cod": {
+    "criteria": {
+      "has_cod": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/hardtack": {
+    "criteria": {
+      "has_wheat": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/dandelion_beer_bottle": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "cuisinedelight:recipes/misc/cuisine_skillet": {
+    "criteria": {
+      "has_skillet": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/misc/straw_from_wheat_drying": {
+    "criteria": {
+      "has_wheat": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-11-27 05:36:13 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
