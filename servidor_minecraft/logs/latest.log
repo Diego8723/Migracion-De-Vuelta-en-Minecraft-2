@@ -1,0 +1,108 @@
+[27Nov2024 05:11:44.984] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[27Nov2024 05:11:44.989] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[27Nov2024 05:11:47.786] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[27Nov2024 05:11:47.854] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[27Nov2024 05:11:48.384] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[27Nov2024 05:11:48.386] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[27Nov2024 05:11:48.389] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[27Nov2024 05:11:48.390] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[27Nov2024 05:11:48.839] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[27Nov2024 05:11:53.619] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Nov2024 05:11:53.665] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
+[27Nov2024 05:11:53.723] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[27Nov2024 05:11:53.725] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[27Nov2024 05:11:53.890] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[27Nov2024 05:11:54.131] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[27Nov2024 05:11:54.151] [main/WARN] [mixin/]: Reference map 'mixins.ice_and_fire_delight.refmap.json' for mixins.ice_and_fire_delight.json could not be read. If this is a development environment you can ignore this message
+[27Nov2024 05:11:54.172] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Nov2024 05:11:54.239] [main/INFO] [Puzzles Lib/]: Loading 80 mods:
+	- alexscaves 2.0.2
+	- alexsmobs 1.22.9
+	- aqua_creepers 3.0.0
+	- aquamirae 6.API15
+	- argentinas_delight 1.1
+	- astikorcarts 1.1.8
+	- azurelib 2.0.39
+	- bookshelf 20.2.13
+	- born_in_chaos_v1 1.5.2
+	- butcher 2.7.5
+	- caelus 3.2.0+1.20.1
+	- call_of_yucutan 1.0.13
+	- carryon 2.1.2.7
+	- citadel 2.6.0
+	- cloth_config 11.1.136
+	- corgilib 4.0.3.2
+	- corpse 1.20.1-1.0.17
+	- cosmeticarmorreworked 1.20.1-v1a
+	- crittersandcompanions 2.2.2
+	- cucumber 7.0.13
+	- cuisinedelight 1.1.16
+		\-- mixinextras 0.2.0-beta.8
+	- cupboard 1.20.1-2.7
+	- curios 5.11.0+1.20.1
+	- duclib 1.1.4
+	- dungeoncrawl 2.3.14
+	- dungeons_arise 2.1.58-1.20.x
+	- dungeons_arise_seven_seas 1.0.2
+	- efm_compat 2.0
+	- enchdesc 17.1.19
+	- epicfight 20.9.6
+	- farmersdelight 1.20.1-1.2.5
+	- farmersrespite 1.20.1-2.1
+	- forge 47.3.0
+	- geckolib 4.4.9
+	- horsecombatcontrols 1.20.1-1.0.2
+	- horsestonks 1.0.1
+	- ice_and_fire_delight 0.1.9
+	- iceandfire 2.1.13-1.20.1
+	- irons_spellbooks 1.20.1-3.4.0.4
+	- jei 15.20.0.105
+	- journeymap 5.10.3
+	- lionfishapi 2.4-Fix
+	- lootintegrations 1.20.1-3.7
+	- lootintegrations_dungeoncrawl 1
+	- mahoutsukai 1.20.1-v1.34.78
+	- minecraft 1.20.1
+	- mowziesdelight 1.1.1-1.20.1
+	- mowziesmobs 1.6.4
+	- mysticalagriculture 7.0.14
+	- nethersdelight 1.20.1-4.0
+	- obscure_api 15
+	- patchouli 1.20.1-84-FORGE
+	- placebo 8.6.2
+	- playeranimator 1.0.2-rc1+1.20
+	- polymorph 0.49.5+1.20.1
+		\-- spectrelib 0.13.15+1.20.1
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- pylons 4.2.1
+	- roundabout 0.4.4
+	- samurai_dynasty 0.0.48-1.20.1-neo
+	- securitycraft 1.9.11
+	- sophisticatedbackpacks 3.20.17.1150
+	- sophisticatedcore 0.7.9.791
+	- stalwart_dungeons 1.2.8
+	- tameablebeasts 6.2
+	- tectonic 2.4.1
+	- terrablender 3.0.1.7
+	- torchmaster 20.1.9
+	- unusual_delight 1.0.0
+	- vampiresdelight 0.1.7c
+	- vampiresneedumbrellas 1.0.1
+	- vampirism 1.10.11
+		\-- teamlapenlib 1.10.11
+	- vintagedelight 0.1.6
+	- wildwestguns2_3d 1.0.0
+	- wom 20.1.8.5.6
+	- youkaishomecoming 2.2.16
+		|-- l2damagetracker 0.3.7
+		\-- l2library 2.4.25
+[27Nov2024 05:11:54.259] [main/WARN] [mixin/]: Reference map 'cuisinedelight.refmap.json' for cuisinedelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Nov2024 05:11:54.262] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Nov2024 05:11:55.465] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[27Nov2024 05:11:55.494] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[27Nov2024 05:11:55.781] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class de/teamlapen/vampirism/client/renderer/RenderHandler for invalid dist DEDICATED_SERVER
+[27Nov2024 05:11:55.783] [main/WARN] [mixin/]: Error loading class: de/teamlapen/vampirism/client/renderer/RenderHandler (java.lang.RuntimeException: Attempted to load class de/teamlapen/vampirism/client/renderer/RenderHandler for invalid dist DEDICATED_SERVER)
+[27Nov2024 05:11:55.785] [main/WARN] [mixin/]: @Mixin target de.teamlapen.vampirism.client.renderer.RenderHandler was not found vampiresdelight.mixins.json:MixinRenderHandler
+[27Nov2024 05:11:58.413] [main/WARN] [net.minecraft.server.Eula/]: Failed to load eula.txt
+[27Nov2024 05:11:58.444] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
