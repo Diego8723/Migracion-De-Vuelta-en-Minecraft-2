@@ -4339,3 +4339,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 19:44:01.255] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
 [29Nov2024 19:44:22.231] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
 [29Nov2024 19:45:31.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[29Nov2024 19:51:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[29Nov2024 19:53:52.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
+[29Nov2024 20:01:59.082] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
+[29Nov2024 20:02:02.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
+[29Nov2024 20:02:04.837] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
+[29Nov2024 20:02:12.510] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
+[29Nov2024 20:02:26.477] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
