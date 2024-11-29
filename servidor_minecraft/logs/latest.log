@@ -4036,3 +4036,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 19:16:14.458] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [polymorph:main] rejected their client side version number
 [29Nov2024 19:16:14.459] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [29Nov2024 19:16:14.462] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c7f3078[id=f5a3bd91-ab51-4edb-937c-7867814d8d3a,name=Diego919,properties={textures=[com.mojang.authlib.properties.Property@1d5b3763]},legacy=false] (/127.82.200.191:41041) lost connection: Connection closed - mismatched mod channel list
+[29Nov2024 19:24:52.682] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[29Nov2024 19:24:57.078] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Nov2024 19:24:57.428] [Server thread/INFO] [roundabout/]: true 55
+[29Nov2024 19:24:57.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.82.200.191:50911] logged in with entity id 102 at (2225.319903047566, 105.0, -2113.5608207803307)
+[29Nov2024 19:24:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[29Nov2024 19:25:05.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8516ms or 170 ticks behind
+[29Nov2024 19:25:22.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
