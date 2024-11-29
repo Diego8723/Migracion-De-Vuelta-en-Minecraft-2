@@ -4346,3 +4346,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 20:02:04.837] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
 [29Nov2024 20:02:12.510] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
 [29Nov2024 20:02:26.477] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
+[29Nov2024 20:10:38.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
+[29Nov2024 20:24:53.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
+[29Nov2024 20:25:00.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the weather to clear]
+[29Nov2024 20:32:44.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Timed out
+[29Nov2024 20:32:44.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
+[29Nov2024 20:33:07.747] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[29Nov2024 20:33:11.110] [Server thread/INFO] [roundabout/]: true 55
+[29Nov2024 20:33:11.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.82.200.191:47203] logged in with entity id 12319 at (5308.880648583357, 77.0, 5002.507659113191)
+[29Nov2024 20:33:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[29Nov2024 20:33:15.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[29Nov2024 20:33:15.190] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
