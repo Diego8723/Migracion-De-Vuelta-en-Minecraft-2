@@ -5896,6 +5896,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/food/rose_hip_pie_from_slices": {
+    "criteria": {
+      "has_rose_hip_pie_slice": "2024-11-29 22:32:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-11-29 22:11:38 +0000"
@@ -6010,6 +6016,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2024-11-29 22:24:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cake_from_slices": {
     "criteria": {
       "has_cake_slice": "2024-11-29 22:23:38 +0000"
@@ -6088,6 +6100,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chocolate_pie_from_slices": {
+    "criteria": {
+      "has_chocolate_pie_slice": "2024-11-29 22:23:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2024-11-29 22:22:36 +0000"
@@ -6121,6 +6139,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-11-29 22:11:41 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/food/coffee_cake_from_slices": {
+    "criteria": {
+      "has_cake_slice": "2024-11-29 22:32:13 +0000"
     },
     "done": true
   },

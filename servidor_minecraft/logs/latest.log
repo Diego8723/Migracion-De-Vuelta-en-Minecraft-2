@@ -4025,3 +4025,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 22:04:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
 [29Nov2024 22:04:25.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6236ms or 124 ticks behind
 [29Nov2024 22:04:43.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[29Nov2024 22:35:20.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [Cheese]
