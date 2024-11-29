@@ -4328,3 +4328,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 19:33:35.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2030, l='ServerLevel[world]', x=21.50, y=-4.00, z=53.50] died, message: 'Villager suffocated in a wall'
 [29Nov2024 19:35:18.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
 [29Nov2024 19:36:03.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[29Nov2024 19:38:47.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
+[29Nov2024 19:39:31.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
+[29Nov2024 19:43:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[29Nov2024 19:43:13.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 died
+[29Nov2024 19:43:25.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[29Nov2024 19:43:48.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Teleported Diego919 to 5000.500000, 70.000000, 5000.500000]
+[29Nov2024 19:43:55.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[29Nov2024 19:43:58.091] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[29Nov2024 19:44:01.255] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[29Nov2024 19:44:22.231] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4729, l='ServerLevel[world]', x=5314.38, y=76.00, z=5026.04, removed=DISCARDED]
+[29Nov2024 19:45:31.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]

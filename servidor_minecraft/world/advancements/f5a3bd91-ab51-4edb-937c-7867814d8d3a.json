@@ -5806,5 +5806,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-11-29 19:39:53 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/daisy_tea": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-11-29 19:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-11-29 19:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-11-29 19:39:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
