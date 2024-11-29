@@ -5944,6 +5944,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-11-29 22:37:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2024-11-29 22:11:54 +0000"
@@ -6064,6 +6070,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/glow_display_case": {
+    "criteria": {
+      "has_item_frame": "2024-11-29 22:37:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-11-29 22:12:28 +0000"
@@ -6079,6 +6091,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-11-29 22:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-11-29 22:37:12 +0000"
     },
     "done": true
   },
@@ -6109,6 +6127,12 @@
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2024-11-29 22:22:36 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/cheese_item": {
+    "criteria": {
+      "cheese_wheel": "2024-11-29 22:35:20 +0000"
     },
     "done": true
   },
