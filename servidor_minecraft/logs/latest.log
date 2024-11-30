@@ -4040,3 +4040,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 20:37:10.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Emiliano1239 is now a Hunter level 1]
 [30Nov2024 20:37:33.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Emiliano1239 is now a Hunter level 2]
 [30Nov2024 20:38:23.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Emiliano1239 is now a Hunter level 1]
+[30Nov2024 20:41:51.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Cover Me with Diamonds]
+[30Nov2024 20:43:35.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Acquire Hardware]
+[30Nov2024 20:43:43.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Diamonds!]
