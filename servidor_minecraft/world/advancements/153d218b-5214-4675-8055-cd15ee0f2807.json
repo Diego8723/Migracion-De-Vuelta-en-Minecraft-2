@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-11-30 20:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -23,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/hunter_coat_head_normal": {
     "criteria": {
       "has_skill": "2024-11-30 20:37:40 +0000"
@@ -32,6 +50,30 @@
   "roundabout:scissors": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -149,9 +191,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
     "criteria": {
       "has_gold": "2024-11-30 20:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
     },
     "done": true
   },
@@ -167,9 +221,21 @@
     },
     "done": true
   },
+  "youkaishomecoming:recipes/building_blocks/crimson_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 20:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -185,15 +251,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-30 20:44:51 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
     },
     "done": true
   },
@@ -221,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
@@ -233,9 +329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:46 +0000"
     },
     "done": true
   },
@@ -248,6 +356,18 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-11-30 20:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -281,6 +401,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/dark_oak_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-30 20:44:45 +0000"
@@ -293,15 +425,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
     },
     "done": true
   },
+  "youkaishomecoming:recipes/building_blocks/oak_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/hunter_coat_legs_normal": {
     "criteria": {
       "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
     },
     "done": true
   },
@@ -323,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-11-30 20:44:51 +0000"
@@ -332,6 +488,12 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
     },
     "done": true
   },
@@ -365,9 +527,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/tombstone2": {
+    "criteria": {
+      "has_coble": "2024-11-30 20:50:46 +0000"
+    },
+    "done": true
+  },
   "youkaishomecoming:recipes/misc/oak_handrail_from_oak_planks_stonecutting": {
     "criteria": {
       "has_oak_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -392,6 +566,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
     },
     "done": true
   },
@@ -455,9 +635,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
     },
     "done": true
   },
@@ -482,6 +680,12 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -521,6 +725,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/birch_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
@@ -533,9 +749,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candle_stick": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2024-11-30 20:48:12 +0000"
     },
     "done": true
   },
@@ -563,6 +797,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/cherry_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
@@ -572,6 +818,30 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2024-11-30 20:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/warped_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -617,6 +887,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/chandelier": {
     "criteria": {
       "has_string": "2024-11-30 20:44:45 +0000"
@@ -635,6 +911,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-11-30 20:48:00 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/combat/weapontable/alchemical_cocktail": {
     "criteria": {
       "has_skill": "2024-11-30 20:37:40 +0000"
@@ -647,15 +929,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
+    },
+    "done": true
+  },
   "roundabout:golden_glaive": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 20:44:14 +0000"
     },
     "done": true
   },
+  "youkaishomecoming:recipes/building_blocks/spruce_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -671,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-11-30 20:42:56 +0000"
@@ -680,6 +986,18 @@
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-11-30 20:47:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:46 +0000"
     },
     "done": true
   },
@@ -731,9 +1049,33 @@
     },
     "done": true
   },
+  "youkaishomecoming:recipes/building_blocks/mangrove_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "roundabout:stone_glaive": {
+    "criteria": {
+      "has_stone_block": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-11-30 20:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -761,9 +1103,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-11-30 20:43:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -773,9 +1127,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:46 +0000"
     },
     "done": true
   },
@@ -797,9 +1169,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2024-11-30 20:33:39 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/bamboo_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -839,6 +1223,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-11-30 20:56:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-11-30 20:33:39 +0000"
@@ -866,6 +1274,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:46 +0000"
     },
     "done": true
   },
@@ -929,6 +1343,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/stake": {
+    "criteria": {
+      "has_sticks": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
@@ -938,6 +1358,18 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-11-30 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/acacia_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -959,9 +1391,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2024-11-30 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
     },
     "done": true
   },
@@ -986,6 +1442,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -1055,6 +1517,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-11-30 20:44:14 +0000"
@@ -1079,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2024-11-30 20:43:54 +0000"
@@ -1100,6 +1574,30 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-11-30 20:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2024-11-30 20:48:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
     },
     "done": true
   },
@@ -1133,9 +1631,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-11-30 20:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
     },
     "done": true
   },
@@ -1169,6 +1685,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/transportation/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_iron": "2024-11-30 20:43:35 +0000"
@@ -1181,9 +1709,51 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-30 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-11-30 20:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -1199,9 +1769,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -1241,15 +1823,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-30 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2024-11-30 20:43:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -1283,6 +1895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-11-30 20:43:54 +0000"
@@ -1307,9 +1925,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "roundabout:knife_bundle": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/jungle_dining_table": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -1379,6 +2021,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2024-11-30 20:43:54 +0000"
@@ -1391,9 +2039,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/garlic_finder": {
     "criteria": {
       "has_redstone": "2024-11-30 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -1421,9 +2087,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "roundabout:knife": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },
@@ -1445,9 +2123,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2024-11-30 20:33:05 +0000"
+      "minecraft:river": "2024-11-30 20:57:21 +0000",
+      "minecraft:forest": "2024-11-30 20:33:05 +0000",
+      "minecraft:plains": "2024-11-30 20:57:18 +0000"
     },
     "done": false
   },
@@ -1469,9 +2155,21 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
+    },
+    "done": true
+  },
   "roundabout:barbed_wire_bundle": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:46 +0000"
     },
     "done": true
   },
@@ -1481,9 +2179,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-11-30 20:57:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-11-30 20:50:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
       "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 20:50:29 +0000"
     },
     "done": true
   },
@@ -1505,9 +2227,21 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-30 20:56:22 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2024-11-30 20:56:31 +0000"
     },
     "done": true
   },
@@ -1532,6 +2266,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-30 20:52:56 +0000"
     },
     "done": true
   },

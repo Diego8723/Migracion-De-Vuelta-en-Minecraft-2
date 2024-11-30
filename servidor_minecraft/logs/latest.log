@@ -4043,3 +4043,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 20:41:51.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Cover Me with Diamonds]
 [30Nov2024 20:43:35.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Acquire Hardware]
 [30Nov2024 20:43:43.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Diamonds!]
+[30Nov2024 20:50:29.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Stone Age]
+[30Nov2024 20:54:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Set the weather to clear]
+[30Nov2024 20:54:11.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Set the time to 1000]
+[30Nov2024 20:54:17.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Set own game mode to Survival Mode]
+[30Nov2024 20:55:01.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Emiliano1239 is now a Hunter level 11]
+[30Nov2024 20:55:19.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Emiliano1239 is now a Hunter level 5]
+[30Nov2024 20:55:39.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Emiliano1239 is now a Hunter level 1]
+[30Nov2024 20:57:19.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 8.969108829122838,-0.8322033533667508,5.049646440923539
+[30Nov2024 20:58:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2024 20:58:25.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unop Emiliano1239<--[HERE]
+[30Nov2024 20:59:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[30Nov2024 20:59:20.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2024 20:59:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: remove op emilipi1239<--[HERE]
