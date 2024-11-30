@@ -4337,3 +4337,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 22:18:10.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire Baron Level 4
 [30Nov2024 22:20:01.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has completed the challenge [Regicide]
 [30Nov2024 22:20:01.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/36059, l='ServerLevel[world]', x=469.10, y=107.00, z=-2708.47] died: Vampire Baron Level 4 was pierced through the heart by Emiliano1239
+[30Nov2024 22:22:12.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Disconnected
+[30Nov2024 22:22:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game

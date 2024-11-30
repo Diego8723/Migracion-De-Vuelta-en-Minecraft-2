@@ -2499,6 +2499,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 22:20:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-11-30 22:00:17 +0000"
@@ -2532,6 +2538,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/weird_jelly_block": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 22:20:03 +0000"
     },
     "done": true
   },
@@ -2574,6 +2586,12 @@
     },
     "done": true
   },
+  "vampiresdelight:recipes/cooking/black_mushroom_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 22:18:41 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cursed_spruce_stairs": {
     "criteria": {
       "has_planks": "2024-11-30 22:15:34 +0000"
@@ -2589,6 +2607,12 @@
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2024-11-30 21:55:07 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/pure_sorbet": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 22:20:03 +0000"
     },
     "done": true
   },
@@ -2631,6 +2655,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-11-30 21:18:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 22:20:03 +0000"
     },
     "done": true
   },
@@ -2694,6 +2724,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 22:20:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cursed_spruce_planks": {
     "criteria": {
       "has_log": "2024-11-30 21:55:54 +0000"
@@ -2736,6 +2778,12 @@
     },
     "done": true
   },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2024-11-30 22:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-11-30 21:33:35 +0000"
@@ -2745,6 +2793,12 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-11-30 21:42:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 22:20:03 +0000"
     },
     "done": true
   },
@@ -2835,6 +2889,12 @@
   "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
     "criteria": {
       "has_planks": "2024-11-30 22:15:34 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/black_mushroom_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 22:18:41 +0000"
     },
     "done": true
   },
@@ -2949,6 +3009,12 @@
   "youkaishomecoming:recipes/building_blocks/hay_slab": {
     "criteria": {
       "has_hay_block": "2024-11-30 21:39:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 22:20:03 +0000"
     },
     "done": true
   },

@@ -10688,3 +10688,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 22:20:01.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has completed the challenge [Regicide]
 [30Nov2024 22:20:01.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/36059, l='ServerLevel[world]', x=469.10, y=107.00, z=-2708.47] died: Vampire Baron Level 4 was pierced through the heart by Emiliano1239
 [30Nov2024 22:21:16.992] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 3
+[30Nov2024 22:22:12.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Disconnected
+[30Nov2024 22:22:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[30Nov2024 22:23:20.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 22:23:20.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 22:28:20.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 22:28:20.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
