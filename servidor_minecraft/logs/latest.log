@@ -4339,3 +4339,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 22:20:01.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/36059, l='ServerLevel[world]', x=469.10, y=107.00, z=-2708.47] died: Vampire Baron Level 4 was pierced through the heart by Emiliano1239
 [30Nov2024 22:22:12.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Disconnected
 [30Nov2024 22:22:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[30Nov2024 23:43:12.847] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Emiliano1239 is 153d218b-5214-4675-8055-cd15ee0f2807
+[30Nov2024 23:43:16.511] [Server thread/INFO] [roundabout/]: true 55
+[30Nov2024 23:43:16.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliano1239[/127.77.107.194:38615] logged in with entity id 38762 at (541.295475449648, 127.0, -2690.0398483613653)
+[30Nov2024 23:43:16.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 joined the game
+[30Nov2024 23:49:08.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Disconnected
+[30Nov2024 23:49:08.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
