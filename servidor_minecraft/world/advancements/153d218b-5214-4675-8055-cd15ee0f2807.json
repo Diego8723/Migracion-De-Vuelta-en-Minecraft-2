@@ -2467,6 +2467,18 @@
     },
     "done": true
   },
+  "youkaishomecoming:recipes/building_blocks/hay_stairs": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/hay_vertical_slab": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-11-30 21:32:32 +0000"
@@ -2503,15 +2515,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-11-30 21:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-11-30 21:32:36 +0000"
+      "minecraft:skeleton": "2024-11-30 21:32:36 +0000",
+      "minecraft:vindicator": "2024-11-30 21:41:25 +0000"
     },
     "done": false
+  },
+  "pylons:recipes/misc/harvester_pylon": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-11-30 21:42:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-30 21:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-11-30 21:42:00 +0000"
     },
     "done": true
   },
@@ -2530,6 +2567,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-11-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-11-30 21:38:24 +0000"
     },
     "done": true
   },
@@ -2599,9 +2642,21 @@
     },
     "done": true
   },
+  "youkaishomecoming:recipes/building_blocks/hay_stairs_from_hay_block_stonecutting": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-11-30 21:33:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-11-30 21:42:23 +0000"
     },
     "done": true
   },
@@ -2617,9 +2672,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-30 21:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-11-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-30 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-11-30 21:41:42 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-11-30 21:42:23 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/hay_slab_from_hay_block_stonecutting": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-30 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-30 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2024-11-30 21:39:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2024-11-30 21:42:00 +0000"
     },
     "done": true
   },
@@ -2656,6 +2765,12 @@
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-11-30 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/hay_slab": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
     },
     "done": true
   },
@@ -2731,9 +2846,21 @@
     },
     "done": true
   },
+  "youkaishomecoming:recipes/building_blocks/hay_vertical_slab_from_hay_block_stonecutting": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-30 21:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
     },
     "done": true
   },
@@ -2752,6 +2879,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2024-11-30 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/hay_trap_door": {
+    "criteria": {
+      "has_hay_block": "2024-11-30 21:39:27 +0000"
     },
     "done": true
   },

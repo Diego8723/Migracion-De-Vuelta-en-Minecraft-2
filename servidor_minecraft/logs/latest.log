@@ -4183,3 +4183,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 21:40:33.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vindicator
 [30Nov2024 21:40:43.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vindicator
 [30Nov2024 21:40:47.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[30Nov2024 21:41:03.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vindicator
+[30Nov2024 21:41:04.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[30Nov2024 21:41:11.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Set own game mode to Creative Mode]
+[30Nov2024 21:41:23.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[30Nov2024 21:41:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Set own game mode to Survival Mode]
+[30Nov2024 21:41:42.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Tools of the Trade]
+[30Nov2024 21:42:23.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has reached the goal [Quaint Scribe]
+[30Nov2024 21:43:15.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was caught by Archevoker's fangs
+[30Nov2024 21:43:22.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Set own game mode to Creative Mode]
+[30Nov2024 21:43:30.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[30Nov2024 21:43:43.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Set own game mode to Survival Mode]
+[30Nov2024 21:44:36.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was eviscerated by Archevoker's vexes
+[30Nov2024 21:44:46.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Nov2024 21:46:54.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was eviscerated by Archevoker's vexes
+[30Nov2024 21:47:05.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[30Nov2024 21:47:40.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was eviscerated by Archevoker's vexes
+[30Nov2024 21:48:13.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was eviscerated by Archevoker's vexes
+[30Nov2024 21:48:22.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
