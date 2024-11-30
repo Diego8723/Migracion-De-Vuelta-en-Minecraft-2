@@ -4056,3 +4056,83 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 20:59:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
 [30Nov2024 20:59:20.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Nov2024 20:59:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: remove op emilipi1239<--[HERE]
+[30Nov2024 21:03:38.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.2584103873699064
+[30Nov2024 21:03:38.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.5335429894467438
+[30Nov2024 21:03:38.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.8069214536099025
+[30Nov2024 21:03:39.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.5783026387628922
+[30Nov2024 21:03:39.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.5783026387628922
+[30Nov2024 21:03:39.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.5783026387628922
+[30Nov2024 21:03:39.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.28491223455679915
+[30Nov2024 21:03:54.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Nov2024 21:03:54.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.5132115774248405,0.0,7.046958319700934
+[30Nov2024 21:03:54.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.799213630681265,0.0,7.323651200866379
+[30Nov2024 21:03:54.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.086126994294943,0.0,7.599673251336526
+[30Nov2024 21:03:54.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.372551816649548,0.0,7.876455891477235
+[30Nov2024 21:03:54.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.656787658003964,0.0,8.155561254986878
+[30Nov2024 21:03:54.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.936844757084998,0.0,8.438568639029654
+[30Nov2024 21:03:54.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 9.210461025554764,0.0,8.726962314405228
+[30Nov2024 21:03:54.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 9.475747164823133,0.0,9.021697198963693
+[30Nov2024 21:03:54.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 9.731165351795653,0.0,9.323322111492757
+[30Nov2024 21:03:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 9.975505473008695,0.0,9.632076562736756
+[30Nov2024 21:03:54.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.207856840770773,0.0,9.947969042098748
+[30Nov2024 21:03:54.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.427571334576896,0.0,10.270841660492238
+[30Nov2024 21:03:54.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.634907048436617,0.0,10.600258813296136
+[30Nov2024 21:03:54.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.830870863770201,0.0,10.935622403105071
+[30Nov2024 21:03:54.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 11.017069060187055,0.0,11.276221817789747
+[30Nov2024 21:03:54.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 11.195574422361403,0.0,11.621238811725675
+[30Nov2024 21:05:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Tie me to the Mast]
+[30Nov2024 21:05:51.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Nov2024 21:06:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Sea Serpent
+[30Nov2024 21:09:30.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.168050374369386,0.0,7.325568308413153
+[30Nov2024 21:09:30.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.48512663234078,0.0,7.564566271501803
+[30Nov2024 21:09:30.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.800475949967847,0.0,7.806140946177834
+[30Nov2024 21:09:30.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.113627799664698,0.0,8.05074564032509
+[30Nov2024 21:09:30.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.424211276049391,0.0,8.29870113315826
+[30Nov2024 21:09:30.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.731939199333567,0.0,8.550223872094875
+[30Nov2024 21:09:30.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 9.036597906193037,0.0,8.805444948028253
+[30Nov2024 21:09:30.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 9.338544071457989,0.0,9.06394667209139
+[30Nov2024 21:09:30.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 9.638593439645263,0.0,9.324866213970779
+[30Nov2024 21:09:30.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 9.937894392103487,0.0,9.58696836680059
+[30Nov2024 21:09:30.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.237812592825094,0.0,9.84868098737428
+[30Nov2024 21:09:30.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.539385739543036,0.0,10.108683191797013
+[30Nov2024 21:09:30.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.84338749820364,0.0,10.365880250037662
+[30Nov2024 21:09:30.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 11.150375140306153,0.0,10.619385519116406
+[30Nov2024 21:09:30.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 11.460363445129872,0.0,10.869085758531753
+[30Nov2024 21:09:30.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 11.772956986350039,0.0,11.115509890631529
+[30Nov2024 21:09:30.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 12.087421565878174,0.0,11.359702186397158
+[30Nov2024 21:09:30.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 12.403129817580805,0.0,11.602523249037063
+[30Nov2024 21:09:30.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 12.719550199981256,0.0,11.844677112848842
+[30Nov2024 21:09:30.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 13.036238482949841,0.0,12.086732128558992
+[30Nov2024 21:09:30.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 13.353248633266446,0.0,12.328590961537316
+[30Nov2024 21:09:30.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 13.67103435752756,0.0,12.569611823395633
+[30Nov2024 21:09:30.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 13.990334335501643,0.0,12.808699164451184
+[30Nov2024 21:09:30.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 14.311695998790697,0.0,13.044959213302207
+[30Nov2024 21:09:30.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 14.635155482870971,0.0,13.27827893743381
+[30Nov2024 21:09:30.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 14.960357372839667,0.0,13.50919147155787
+[30Nov2024 21:09:30.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 15.286620237242857,0.0,13.738742098716784
+[30Nov2024 21:09:30.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 15.61336570120892,0.0,13.967779994812417
+[30Nov2024 21:09:30.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 15.940106844386833,0.0,14.196990298558205
+[30Nov2024 21:09:30.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 16.26602358876613,0.0,14.427475585860805
+[30Nov2024 21:09:30.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 16.589980018054177,0.0,14.660633305917827
+[30Nov2024 21:09:30.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.060714946697317,0.0,7.809485173456665
+[30Nov2024 21:09:30.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.376652758976036,0.0,8.052243391281252
+[30Nov2024 21:09:30.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.686951951024696,0.0,8.301158950170361
+[30Nov2024 21:09:30.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 10.990791158154991,0.0,8.556745096760608
+[30Nov2024 21:09:30.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 11.28695470057636,0.0,8.819699681235363
+[30Nov2024 21:09:30.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 11.573871592095202,0.0,9.09078176112564
+[30Nov2024 21:09:30.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 11.850279638995687,0.0,9.370382298772086
+[30Nov2024 21:09:30.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 12.115200413215632,0.0,9.658614439944358
+[30Nov2024 21:09:30.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 12.368560095153327,0.0,9.955130760723534
+[30Nov2024 21:09:30.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 12.611058286994876,0.0,10.259283318365249
+[30Nov2024 21:09:30.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 12.844016800804468,0.0,10.57021613160407
+[30Nov2024 21:09:30.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 13.069245058856438,0.0,10.886901306629738
+[30Nov2024 21:09:30.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 13.288913893130598,0.0,11.20814122287618
+[30Nov2024 21:09:30.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 13.505437877286226,0.0,11.532550245828702
+[30Nov2024 21:09:30.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 13.721355042095581,0.0,11.858532267107933
+[30Nov2024 21:10:01.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Disconnected
+[30Nov2024 21:10:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[30Nov2024 21:10:09.613] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Emiliano1239 is 153d218b-5214-4675-8055-cd15ee0f2807
+[30Nov2024 21:10:12.794] [Server thread/INFO] [roundabout/]: true 55
+[30Nov2024 21:10:12.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliano1239[/127.80.75.178:42797] logged in with entity id 8293 at (604.8550451798798, 62.073264324665075, 649.0518447917768)
+[30Nov2024 21:10:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 joined the game
+[30Nov2024 21:10:15.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
