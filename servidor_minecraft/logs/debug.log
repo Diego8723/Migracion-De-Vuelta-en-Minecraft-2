@@ -10227,3 +10227,101 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 21:10:12.804] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@f4e7d73 into net.minecraft.network.Connection@2cc6f2a4
 [30Nov2024 21:10:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 joined the game
 [30Nov2024 21:10:15.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
+[30Nov2024 21:10:26.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 6.596393898655492,0.0,7.647903189578187
+[30Nov2024 21:10:26.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 6.851094696708628,0.0,7.9432049977699535
+[30Nov2024 21:10:26.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.106449418746479,0.0,8.239264969801752
+[30Nov2024 21:10:26.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.362392672354872,0.0,8.536007289271424
+[30Nov2024 21:10:26.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.618865604362782,0.0,8.833363721419005
+[30Nov2024 21:10:26.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 7.875815246917682,0.0,9.131272854961935
+[30Nov2024 21:10:26.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.13319392895346,0.0,9.429679419747572
+[30Nov2024 21:10:26.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.390958746511842,0.0,9.728533672639855
+[30Nov2024 21:10:26.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.649071086031313,0.0,10.027790844817332
+[30Nov2024 21:10:26.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 8.907496195307544,0.0,10.327410644341967
+[30Nov2024 21:11:12.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.2833175556590959
+[30Nov2024 21:11:12.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.7881419691962037
+[30Nov2024 21:11:12.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.9586193568520684
+[30Nov2024 21:11:12.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.939470036059106
+[30Nov2024 21:11:12.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.9171222409694337
+[30Nov2024 21:11:12.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.325000349545121
+[30Nov2024 21:11:12.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.4284642934713929
+[30Nov2024 21:12:16.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 2.3233814958616676,0.0,-10.137152117573919
+[30Nov2024 21:12:16.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 2.412742322625604,0.0,-10.527042583634454
+[30Nov2024 21:12:16.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 2.5021031493895407,0.0,-10.91693304969499
+[30Nov2024 21:12:16.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 2.5914639761534772,0.0,-11.306823515755525
+[30Nov2024 21:12:16.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 2.6808248029174138,0.0,-11.69671398181606
+[30Nov2024 21:12:16.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved too quickly! 2.7701856296813503,0.0,-12.086604447876596
+[30Nov2024 21:13:00.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:13:00.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:14:08.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -26.739564677300137,-0.2534999880790707,-8.416881105177595
+[30Nov2024 21:15:13.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -0.6113811579162127,8.975706820626556,4.4527500745776365
+[30Nov2024 21:15:57.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8, y=2, z=-209} BlockPos{x=8, y=4, z=-208}
+[30Nov2024 21:16:10.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 drowned
+[30Nov2024 21:16:13.799] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 1
+[30Nov2024 21:17:59.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:17:59.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:18:27.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Best Friends Forever]
+[30Nov2024 21:18:27.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Free Willy]
+[30Nov2024 21:18:56.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -7.367383676606554,6.855854354288148,-0.1524797635736661
+[30Nov2024 21:20:55.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Emiliano1239) moved wrongly! 0.2676360030296223
+[30Nov2024 21:22:29.972] [Worker-Main-24/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[30Nov2024 21:22:59.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:22:59.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:26:31.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Nov2024 21:27:14.399] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:crow
+[30Nov2024 21:27:19.435] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:komainu
+[30Nov2024 21:27:23.256] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.42 and blood value 2 for entity tameablebeasts:tameable_racoon
+[30Nov2024 21:27:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Sea? Not a Problem]
+[30Nov2024 21:27:38.882] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 21:27:38.884] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Nov2024 21:27:41.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Betrayal]
+[30Nov2024 21:27:48.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Vampire Diaries]
+[30Nov2024 21:27:59.346] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[30Nov2024 21:27:59.347] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[30Nov2024 21:27:59.348] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[30Nov2024 21:27:59.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:27:59.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:28:22.524] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:sugar_glider
+[30Nov2024 21:28:26.743] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[30Nov2024 21:28:26.744] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[30Nov2024 21:28:36.108] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 21:29:33.809] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[30Nov2024 21:30:38.050] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:kawauso
+[30Nov2024 21:31:22.363] [Worker-Main-20/DEBUG] [mixin/]: Mixing ZVillagerMakeLove from roundabout.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[30Nov2024 21:31:23.298] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[30Nov2024 21:31:23.787] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (132 | 46 | -3148).
+[30Nov2024 21:31:23.791] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[30Nov2024 21:31:23.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[30Nov2024 21:31:23.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[30Nov2024 21:31:23.796] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[30Nov2024 21:31:23.796] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[30Nov2024 21:31:23.797] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 2(8) Nodes and 6(0) Rooms
+[30Nov2024 21:31:23.797] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[30Nov2024 21:31:23.800] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(6) Nodes and 5(0) Rooms
+[30Nov2024 21:31:23.800] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[30Nov2024 21:31:23.800] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 5(4) Nodes and 5(0) Rooms
+[30Nov2024 21:31:30.651] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[30Nov2024 21:31:30.652] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md887291$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[30Nov2024 21:31:31.125] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[30Nov2024 21:31:44.812] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[30Nov2024 21:31:53.294] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:blue_jay
+[30Nov2024 21:31:53.295] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[30Nov2024 21:31:53.296] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[30Nov2024 21:31:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has reached the goal [Exorcism]
+[30Nov2024 21:32:32.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Not Today, Thank You]
+[30Nov2024 21:32:36.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Monster Hunter]
+[30Nov2024 21:32:59.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:32:59.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:33:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has completed the challenge [Through the Heart]
+[30Nov2024 21:35:45.467] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Nov2024 21:35:45.469] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Nov2024 21:35:45.481] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[30Nov2024 21:36:09.513] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Nov2024 21:36:09.517] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[30Nov2024 21:37:59.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:37:59.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:38:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Hot Stuff]
+[30Nov2024 21:40:33.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vindicator
+[30Nov2024 21:40:36.357] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 21:40:43.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vindicator
+[30Nov2024 21:40:45.547] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 21:40:47.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
