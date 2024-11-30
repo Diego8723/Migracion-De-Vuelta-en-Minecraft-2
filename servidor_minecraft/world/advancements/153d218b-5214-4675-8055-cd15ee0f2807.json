@@ -1,0 +1,447 @@
+{
+  "vampirism:recipes/combat/weapontable/hunter_coat_head_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_feet_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2024-11-30 20:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "main": "2024-11-30 20:37:10 +0000"
+    },
+    "done": false
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "roundabout:wooden_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/kill_resurrected_vampire": {
+    "criteria": {
+      "main": "2024-11-30 20:37:10 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/max_lord": {
+    "criteria": {
+      "main": "2024-11-30 20:37:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_legs_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/basic_crossbow": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/misc/oak_handrail_from_oak_planks_stonecutting": {
+    "criteria": {
+      "has_oak_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/root": {
+    "criteria": {
+      "salt": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/throne": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/fire_place": {
+    "criteria": {
+      "has_logs": "2024-11-30 20:33:39 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "faction": "2024-11-30 20:37:10 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/wheel": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-30 20:33:39 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/combat/weapontable/alchemical_cocktail": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-30 20:36:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crucifix": {
+    "criteria": {
+      "planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-30 20:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_legs_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-11-30 20:33:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_feet_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_0": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_1": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 20:33:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_spitfire": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/combat/weapontable/spirit_lantern": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_vampire_killer": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:main/welcome_to_youkais_homecoming": {
+    "criteria": {
+      "0": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/cure_vampire_villager": {
+    "criteria": {
+      "main": "2024-11-30 20:37:10 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/combat/weapontable/hunter_axe_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/pitchfork": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_inspiration": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_chest_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_head_normal": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/cross": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/bat_cage": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2024-11-30 20:33:03 +0000"
+    },
+    "done": true
+  },
+  "cuisinedelight:recipes/misc/plate_from_planks_stonecutting": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/alchemy_table": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/tech_crossbow_ammo_package": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_teleport": {
+    "criteria": {
+      "has_skill": "2024-11-30 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-30 20:33:05 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_planks": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "main": "2024-11-30 20:37:10 +0000"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing": {
+    "criteria": {
+      "has_vampire_book": "2024-11-30 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "main": "2024-11-30 20:37:10 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
