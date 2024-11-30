@@ -10442,3 +10442,249 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 21:48:13.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was eviscerated by Archevoker's vexes
 [30Nov2024 21:48:14.691] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
 [30Nov2024 21:48:22.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[30Nov2024 21:51:55.737] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:55.737] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:55.737] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:55.737] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:55.737] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:55.737] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:55.737] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:55.737] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:51:59.078] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:15.796] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:15.796] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:15.796] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:15.797] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:15.797] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:15.797] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:15.797] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:15.797] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:46.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was eviscerated by Archevoker's vexes
+[30Nov2024 21:52:48.603] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 21:52:54.139] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.140] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.140] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.140] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.140] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.140] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.140] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.140] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.143] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.143] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.143] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.143] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.143] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.144] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.144] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.144] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.473] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.473] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.478] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.478] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.478] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.478] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.478] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.478] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.542] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.542] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.542] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.542] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.542] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.542] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.542] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:54.542] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[30Nov2024 21:52:57.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[30Nov2024 21:53:16.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:53:16.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:54:35.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[30Nov2024 21:55:04.333] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (204 | 46 | -3031)
+[30Nov2024 21:55:04.352] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (204 | 46 | -3031)
+[30Nov2024 21:55:04.364] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (204 | 46 | -3031)
+[30Nov2024 21:55:04.373] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (204 | 46 | -3031)
+[30Nov2024 21:55:14.685] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (206 | 46 | -3036)
+[30Nov2024 21:55:14.687] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (206 | 46 | -3036)
+[30Nov2024 21:55:14.687] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (200 | 46 | -3053)
+[30Nov2024 21:55:14.689] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (200 | 46 | -3053)
+[30Nov2024 21:55:14.689] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (204 | 46 | -3031)
+[30Nov2024 21:55:14.695] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (204 | 46 | -3031)
+[30Nov2024 21:55:14.872] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (206 | 46 | -3036)
+[30Nov2024 21:55:14.873] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (206 | 46 | -3036)
+[30Nov2024 21:55:14.873] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (200 | 46 | -3053)
+[30Nov2024 21:55:14.874] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (200 | 46 | -3053)
+[30Nov2024 21:55:14.874] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (204 | 46 | -3031)
+[30Nov2024 21:55:14.875] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (204 | 46 | -3031)
+[30Nov2024 21:55:19.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Blood Feeders' Home]
+[30Nov2024 21:55:50.821] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity tameablebeasts:argentavis
+[30Nov2024 21:55:50.822] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity tameablebeasts:argentavis
+[30Nov2024 21:55:50.822] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.3 and blood value 9 for entity tameablebeasts:argentavis
+[30Nov2024 21:55:58.815] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.1 and blood value 0 for entity crittersandcompanions:jumping_spider
+[30Nov2024 21:57:47.955] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[30Nov2024 21:58:18.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 21:58:18.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 21:59:51.294] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[30Nov2024 22:00:18.862] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[30Nov2024 22:03:18.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 22:03:18.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 22:05:29.737] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[30Nov2024 22:05:29.738] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[30Nov2024 22:06:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Take Aim]
+[30Nov2024 22:07:58.491] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[30Nov2024 22:08:18.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 22:08:18.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 22:08:36.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[30Nov2024 22:09:57.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Junior Summoner]
+[30Nov2024 22:13:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Dread Hound
+[30Nov2024 22:13:02.188] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 22:13:05.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[30Nov2024 22:13:05.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:05.881] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:05.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.050] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.157] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.247] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.411] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.427] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.445] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.478] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.570] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.659] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.751] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.843] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.936] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:06.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.032] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.106] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.234] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.281] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.350] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.443] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.549] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.602] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.651] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.702] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.752] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.789] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.848] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.872] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.894] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.915] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.956] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.972] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:07.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.005] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.025] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.042] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.058] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.117] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.156] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.187] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.235] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.279] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.306] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.343] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.545] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.642] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.696] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.794] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.948] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:08.985] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.092] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.143] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.184] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.260] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.283] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.337] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.385] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.434] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.535] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.584] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.635] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.684] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.734] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.785] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.884] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.934] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:09.985] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.090] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.134] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.184] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.245] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.334] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.384] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.434] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.534] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.585] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.634] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.734] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.786] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.885] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.934] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:10.984] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.134] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.185] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.234] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.335] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.385] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.434] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.535] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:11.585] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35869, l='ServerLevel[world]', x=689.59, y=-7.48, z=-2735.31]
+[30Nov2024 22:13:20.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 22:13:20.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 22:14:06.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire
+[30Nov2024 22:14:08.288] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 22:14:55.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire
+[30Nov2024 22:14:56.948] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 22:16:09.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire Baron Level 4
+[30Nov2024 22:16:11.138] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 22:16:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire Baron Level 4
+[30Nov2024 22:16:35.857] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 22:16:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire Baron Level 4
+[30Nov2024 22:16:59.129] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 22:18:10.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire Baron Level 4
+[30Nov2024 22:18:12.169] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 2
+[30Nov2024 22:18:20.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 22:18:20.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 22:20:01.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has completed the challenge [Regicide]
+[30Nov2024 22:20:01.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/36059, l='ServerLevel[world]', x=469.10, y=107.00, z=-2708.47] died: Vampire Baron Level 4 was pierced through the heart by Emiliano1239
+[30Nov2024 22:21:16.992] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 3

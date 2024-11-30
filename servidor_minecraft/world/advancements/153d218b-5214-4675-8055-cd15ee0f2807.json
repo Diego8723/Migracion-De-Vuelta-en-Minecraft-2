@@ -98,11 +98,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-11-30 21:03:24 +0000",
+      "minecraft:beach": "2024-11-30 21:52:44 +0000",
       "minecraft:river": "2024-11-30 20:57:21 +0000",
       "minecraft:forest": "2024-11-30 20:33:05 +0000",
       "minecraft:ocean": "2024-11-30 21:26:25 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-30 21:03:47 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-30 21:31:33 +0000",
+      "minecraft:meadow": "2024-11-30 22:00:16 +0000",
       "minecraft:plains": "2024-11-30 20:57:18 +0000"
     },
     "done": false
@@ -2497,15 +2499,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2024-11-30 21:28:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:main/get_garlic": {
     "criteria": {
       "garlic": "2024-11-30 21:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-30 22:06:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-11-30 22:00:17 +0000"
     },
     "done": true
   },
@@ -2524,7 +2550,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-30 21:32:36 +0000",
-      "minecraft:vindicator": "2024-11-30 21:41:25 +0000"
+      "minecraft:vindicator": "2024-11-30 21:41:25 +0000",
+      "minecraft:spider": "2024-11-30 21:53:02 +0000",
+      "minecraft:stray": "2024-11-30 22:07:58 +0000"
     },
     "done": false
   },
@@ -2540,9 +2568,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-30 21:37:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-11-30 21:55:07 +0000"
     },
     "done": true
   },
@@ -2600,6 +2646,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/cursed_spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/food/general/garlic_bread": {
     "criteria": {
       "has_garlic": "2024-11-30 21:27:38 +0000"
@@ -2612,15 +2664,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-11-30 22:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-11-30 21:33:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
     "criteria": {
       "has_item": "2024-11-30 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_planks": {
+    "criteria": {
+      "has_log": "2024-11-30 21:55:54 +0000"
     },
     "done": true
   },
@@ -2639,6 +2715,18 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-11-30 21:20:29 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/orchid_tea": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 21:56:30 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
     },
     "done": true
   },
@@ -2666,9 +2754,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-11-30 22:09:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 21:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-11-30 21:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 22:00:17 +0000"
     },
     "done": true
   },
@@ -2684,6 +2790,36 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_pillar": {
+    "criteria": {
+      "has_stones": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-11-30 21:42:00 +0000"
@@ -2696,9 +2832,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2024-11-30 21:42:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 21:56:02 +0000"
     },
     "done": true
   },
@@ -2714,9 +2868,21 @@
     },
     "done": true
   },
+  "vampiresdelight:main/get_vampire_orchid": {
+    "criteria": {
+      "vampire_orchid": "2024-11-30 21:56:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-11-30 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
     },
     "done": true
   },
@@ -2750,6 +2916,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_planks": {
+    "criteria": {
+      "has_log": "2024-11-30 21:56:02 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "grilled_garlic": "2024-11-30 21:27:38 +0000"
@@ -2780,9 +2958,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-30 22:00:17 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/building_blocks/garlic_crate": {
     "criteria": {
       "has_garlic": "2024-11-30 21:27:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
     },
     "done": true
   },
@@ -2816,9 +3006,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_door": {
+    "criteria": {
+      "has_planks": "2024-11-30 22:15:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-11-30 21:36:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-11-30 21:55:19 +0000"
     },
     "done": true
   },
@@ -2831,6 +3033,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-30 21:37:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-11-30 21:55:07 +0000"
     },
     "done": true
   },
