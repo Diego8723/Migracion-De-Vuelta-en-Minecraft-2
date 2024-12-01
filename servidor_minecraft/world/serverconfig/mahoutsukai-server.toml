@@ -679,7 +679,7 @@
 		MYSTIC_STAFF_BIG_FACTOR = 0.002
 		#Explosion Size for Big Explosion
 		#Range: 0 ~ 100000000
-		MYSTIC_STAFF_BIG_SIZE = 120
+		MYSTIC_STAFF_BIG_SIZE = 100
 		#Mystic Staff Creates Rain and Thunder
 		MYSTIC_STAFF_BIG_RAIN = false
 		#Mystic Staff Scaling Mana Factor
@@ -702,7 +702,7 @@
 		MYSTIC_STAFF_AOE_FACTOR = 0.001
 		#Explosion Size for AOE Explosion
 		#Range: 0 ~ 100000000
-		MYSTIC_STAFF_AOE_SIZE = 0.1
+		MYSTIC_STAFF_AOE_SIZE = 0.01
 		#Delay between firing on AOE Mode of Explosion Staff
 		#Range: 0 ~ 10000000
 		MYSTIC_STAFF_AOE_DELAY = 12

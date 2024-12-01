@@ -109,7 +109,9 @@
       "minecraft:forest": "2024-11-30 20:33:05 +0000",
       "minecraft:ocean": "2024-11-30 21:26:25 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-30 21:03:47 +0000",
+      "minecraft:frozen_peaks": "2024-12-01 19:07:48 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-30 21:31:33 +0000",
+      "minecraft:deep_dark": "2024-12-01 19:08:06 +0000",
       "minecraft:meadow": "2024-11-30 22:00:16 +0000",
       "minecraft:plains": "2024-11-30 20:57:18 +0000"
     },
@@ -3515,6 +3517,36 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2024-12-01 02:03:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-01 19:11:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-01 19:11:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-01 19:11:23 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:bakuretsu": {
+    "criteria": {
+      "bakuretsu": "2024-12-01 19:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-01 19:11:34 +0000"
     },
     "done": true
   },
