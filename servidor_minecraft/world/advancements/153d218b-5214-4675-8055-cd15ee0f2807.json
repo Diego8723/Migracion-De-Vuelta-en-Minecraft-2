@@ -98,9 +98,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-11-30 21:03:24 +0000",
+      "minecraft:birch_forest": "2024-12-01 01:46:08 +0000",
       "minecraft:beach": "2024-11-30 21:52:44 +0000",
       "minecraft:river": "2024-11-30 20:57:21 +0000",
       "minecraft:stony_shore": "2024-12-01 01:29:08 +0000",
+      "minecraft:grove": "2024-12-01 01:44:21 +0000",
       "minecraft:forest": "2024-11-30 20:33:05 +0000",
       "minecraft:ocean": "2024-11-30 21:26:25 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-30 21:03:47 +0000",
@@ -2292,6 +2294,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-01 01:38:25 +0000",
       "cooked_beef": "2024-11-30 20:57:33 +0000",
       "bread": "2024-12-01 01:35:31 +0000"
     },
@@ -3194,6 +3197,18 @@
     },
     "done": true
   },
+  "youkaishomecoming:main/enthusiastic": {
+    "criteria": {
+      "youkaishomecoming:flesh_roll": "2024-12-01 01:34:08 +0000"
+    },
+    "done": false
+  },
+  "youkaishomecoming:main/first_time": {
+    "criteria": {
+      "0": "2024-12-01 01:34:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-01 01:35:16 +0000"
@@ -3209,12 +3224,6 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-01 01:35:16 +0000"
-    },
-    "done": true
-  },
-  "youkaishomecoming:main/first_time": {
-    "criteria": {
-      "0": "2024-12-01 01:34:10 +0000"
     },
     "done": true
   },
@@ -3236,12 +3245,6 @@
     },
     "done": true
   },
-  "youkaishomecoming:main/enthusiastic": {
-    "criteria": {
-      "youkaishomecoming:flesh_roll": "2024-12-01 01:34:08 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-01 01:35:16 +0000"
@@ -3257,6 +3260,246 @@
   "youkaishomecoming:recipes/misc/straw_from_wheat_drying": {
     "criteria": {
       "has_wheat": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-01 01:38:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-01 01:38:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-01 01:38:20 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 01:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-01 01:40:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 01:40:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 01:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 01:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-01 01:40:12 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/snow_white_ice_cream": {
+    "criteria": {
+      "has_holy_water": "2024-12-01 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-01 01:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-01 01:41:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-01 01:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-01 01:45:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/water_breathing_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-01 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/slow_falling_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/alchemy_table/alchemy_table/clothes_dissolving_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/alchemy_table/alchemy_table/fog_vision_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/jump_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/smelt_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/healing_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/regeneration_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/swiftness_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/fire_resistance_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/slowness_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-01 01:56:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/strength_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-01 01:56:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/poison_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/luck_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/night_vision_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/evasion_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/invisibility_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/teleport_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/alchemy_table/alchemy_table/blessing_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/weakness_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-01 01:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-01 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-01 01:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-01 01:53:04 +0000"
     },
     "done": true
   },

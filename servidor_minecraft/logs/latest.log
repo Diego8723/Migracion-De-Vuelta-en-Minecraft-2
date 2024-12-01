@@ -5,3 +5,78 @@
 [01Dec2024 01:34:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has completed the challenge [The First Time]
 [01Dec2024 01:40:12.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Ice Bucket Challenge]
 [01Dec2024 01:41:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Chattering Teeth]
+[01Dec2024 01:43:11.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[01Dec2024 01:45:11.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Sweet Dreams]
+[01Dec2024 01:46:54.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 burned to death
+[01Dec2024 01:46:59.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Disconnected
+[01Dec2024 01:46:59.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[01Dec2024 01:47:09.002] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Emiliano1239 is 153d218b-5214-4675-8055-cd15ee0f2807
+[01Dec2024 01:47:12.130] [Server thread/INFO] [roundabout/]: true 55
+[01Dec2024 01:47:12.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliano1239[/127.82.200.191:57829] logged in with entity id 45672 at (776.5, 134.0, -2649.5)
+[01Dec2024 01:47:12.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 joined the game
+[01Dec2024 01:47:14.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
+[01Dec2024 01:47:21.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Fire Dragon
+[01Dec2024 01:47:45.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Fire Dragon
+[01Dec2024 01:47:48.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[01Dec2024 01:47:59.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was incinerated by Fire Dragon
+[01Dec2024 01:48:15.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
+[01Dec2024 01:48:29.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 burned to death
+[01Dec2024 01:48:44.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[01Dec2024 01:48:50.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was turned into KFC by Fire Dragon
+[01Dec2024 01:49:02.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[01Dec2024 01:49:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 burned to death
+[01Dec2024 01:49:34.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[01Dec2024 01:49:39.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was incinerated by Fire Dragon
+[01Dec2024 01:49:51.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[01Dec2024 01:49:55.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was turned into KFC by Fire Dragon
+[01Dec2024 01:50:08.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -3.496938070476631,0.023088109101507825,9.588200112944833
+[01Dec2024 01:50:11.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4294ms or 85 ticks behind
+[01Dec2024 01:50:27.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 burned to death
+[01Dec2024 01:50:39.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2715ms or 54 ticks behind
+[01Dec2024 01:50:39.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -6.693654743899401,-0.001335979112141672,7.599426854709691
+[01Dec2024 01:51:03.008] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[01Dec2024 01:51:06.910] [Server thread/INFO] [roundabout/]: true 55
+[01Dec2024 01:51:06.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.82.200.191:35767] logged in with entity id 50428 at (5315.216051141678, 77.0, 5029.594402788542)
+[01Dec2024 01:51:06.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[01Dec2024 01:51:09.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2413ms or 48 ticks behind
+[01Dec2024 01:51:21.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was incinerated by Fire Dragon
+[01Dec2024 01:51:32.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01Dec2024 01:51:51.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was incinerated by Fire Dragon
+[01Dec2024 01:52:00.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[01Dec2024 01:52:06.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 8.4174352843213,-0.8378585789730266,-5.600392046410889
+[01Dec2024 01:52:06.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! -8.28982599795927,2.200000047683716,-5.298773107520901
+[01Dec2024 01:52:20.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4952ms or 99 ticks behind
+[01Dec2024 01:53:04.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Into Fire]
+[01Dec2024 01:53:52.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [Bakuretsu, Bakuretsu..]
+[01Dec2024 01:53:59.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[01Dec2024 01:55:39.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[01Dec2024 01:55:48.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! -9.50033545985525,0.0,-3.1567426385040562
+[01Dec2024 01:55:52.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 3.963233901123317,-0.023088109101550458,-9.542410814712639
+[01Dec2024 01:55:52.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! -0.4559091256423926,4.119352025579573,-9.128701195727444
+[01Dec2024 01:55:57.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 2.822656834882082,1.7967356006687112,-9.675438024187315
+[01Dec2024 01:56:00.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! -6.87351765637186,7.256562462439277,-1.056037120559722
+[01Dec2024 01:56:09.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14646ms or 292 ticks behind
+[01Dec2024 01:56:57.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Suit Up]
+[01Dec2024 01:58:39.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
+[01Dec2024 01:58:56.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[01Dec2024 01:59:03.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! 8.390553919312197,4.694813072010632,3.402678634312906
+[01Dec2024 01:59:16.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 8.95245577069386,3.15233518685055,-3.376356046561341
+[01Dec2024 01:59:16.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! 8.849141035911089,0.0,-5.230127527694549
+[01Dec2024 01:59:21.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! 4.691854024905069,-0.6840000271797209,-9.361471791794429
+[01Dec2024 01:59:26.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! -0.5135936606777705,0.07401300633740959,-10.36392232664548
+[01Dec2024 01:59:29.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18165ms or 363 ticks behind
+[01Dec2024 01:59:39.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! 8.965879432965039,-3.7639158587445394,2.51165463264806
+[01Dec2024 01:59:55.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10638ms or 212 ticks behind
+[01Dec2024 02:00:46.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[01Dec2024 02:01:10.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8817ms or 176 ticks behind
+[01Dec2024 02:01:28.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[01Dec2024 02:01:48.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Teleported Diego919 to 100000.500000, 130.000000, 100000.500000]
+[01Dec2024 02:01:48.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! 0.0,-10.856489120741102,0.0
+[01Dec2024 02:01:52.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9289ms or 185 ticks behind
+[01Dec2024 02:02:23.462] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:plains took 266 ms
+[01Dec2024 02:02:37.937] [Worker-Main-264/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 02:02:37.939] [Worker-Main-264/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 02:02:45.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Teleported Diego919 to 99685.500000, 62.000000, 99524.500000]
+[01Dec2024 02:02:45.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19587ms or 391 ticks behind
+[01Dec2024 02:02:47.301] [Worker-Main-265/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 02:02:47.302] [Worker-Main-265/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
