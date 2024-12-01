@@ -4380,3 +4380,113 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 21:00:13.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 0.16777771507884154,-0.02442408821366371,-10.102179221427832
 [01Dec2024 21:01:29.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Emiliano1239: Set the time to 1000]
 [01Dec2024 21:02:51.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Light as a Rabbit]
+[01Dec2024 21:13:51.710] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 21:13:51.712] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 21:14:56.560] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[01Dec2024 21:20:31.044] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[01Dec2024 21:20:31.047] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[01Dec2024 21:20:31.048] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[01Dec2024 21:20:31.049] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[01Dec2024 21:20:31.049] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[01Dec2024 21:20:31.212] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[01Dec2024 21:20:31.213] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[01Dec2024 21:20:31.214] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[01Dec2024 21:20:38.659] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[01Dec2024 21:20:38.663] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[01Dec2024 21:20:38.665] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[01Dec2024 21:20:38.666] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[01Dec2024 21:20:38.667] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[01Dec2024 21:20:38.672] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[01Dec2024 21:20:38.673] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[01Dec2024 21:20:39.644] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[01Dec2024 21:20:39.645] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[01Dec2024 21:20:39.646] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[01Dec2024 21:20:39.646] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[01Dec2024 21:20:39.647] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[01Dec2024 21:21:41.145] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 21:21:41.149] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Dec2024 21:21:55.284] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70dc1c3[id=<null>,name=spidycachetes,properties={},legacy=false] (/127.145.196.81:57083) lost connection: Disconnected
+[01Dec2024 21:28:04.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 6.939943949105611,3.419999986886978,-7.178915839678211
+[01Dec2024 21:28:04.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3192ms or 63 ticks behind
+[01Dec2024 21:28:09.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 3.4850904835377605,4.249187078744683,-8.583134844130655
+[01Dec2024 21:28:11.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 2.565481348748733,3.0013359791121417,-9.610336357114647
+[01Dec2024 21:28:16.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 7.650207813241082,-1.0,-6.501605952418686
+[01Dec2024 21:28:23.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 3.575750893014174,1.8583148272754784,-9.408155853978315
+[01Dec2024 21:29:08.475] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 61.10 seconds (should be max 0.05)
+[01Dec2024 21:29:08.477] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[01Dec2024 21:30:29.916] [Server Watchdog/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group processor
+java.lang.OutOfMemoryError: Java heap space
+	at java.lang.invoke.MemberName.<init>(MemberName.java:625) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.unreflectConstructor(MethodHandles.java:3530) ~[?:?]
+	at java.lang.invoke.MethodHandleImpl$1.unreflectConstructor(MethodHandleImpl.java:1627) ~[?:?]
+	at jdk.internal.reflect.MethodHandleAccessorFactory.newConstructorAccessor(MethodHandleAccessorFactory.java:106) ~[?:?]
+	at jdk.internal.reflect.ReflectionFactory.newConstructorAccessor(ReflectionFactory.java:200) ~[?:?]
+	at java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:549) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at com.sun.jna.Klass.newInstance(Klass.java:48) ~[jna-5.12.1.jar%2391!/:5.12.1 (b0)]
+	at com.sun.jna.NativeMappedConverter.defaultValue(NativeMappedConverter.java:65) ~[jna-5.12.1.jar%2391!/:5.12.1 (b0)]
+	at com.sun.jna.NativeMappedConverter.<init>(NativeMappedConverter.java:56) ~[jna-5.12.1.jar%2391!/:5.12.1 (b0)]
+	at com.sun.jna.NativeMappedConverter.getInstance(NativeMappedConverter.java:45) ~[jna-5.12.1.jar%2391!/:5.12.1 (b0)]
+	at com.sun.jna.Function.invoke(Function.java:351) ~[jna-5.12.1.jar%2391!/:5.12.1 (b0)]
+	at com.sun.jna.Library$Handler.invoke(Library.java:265) ~[jna-5.12.1.jar%2391!/:5.12.1 (b0)]
+	at jdk.proxy2.$Proxy25.udev_enumerate_get_list_entry(Unknown Source) ~[?:?]
+	at com.sun.jna.platform.linux.Udev$UdevEnumerate.getListEntry(Udev.java:142) ~[jna-platform-5.12.1.jar%2392!/:5.12.1 (b0)]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.readTopologyFromUdev(LinuxCentralProcessor.java:206) ~[oshi-core-6.2.2.jar%2371!/:6.2.2]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:172) ~[oshi-core-6.2.2.jar%2371!/:6.2.2]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:83) ~[oshi-core-6.2.2.jar%2371!/:6.2.2]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:71) ~[oshi-core-6.2.2.jar%2371!/:6.2.2]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:62) ~[oshi-core-6.2.2.jar%2371!/:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer$$Lambda/0x00007fe42c4bdc88.get(Unknown Source) ~[?:?]
+	at oshi.util.Memoizer$1.get(Memoizer.java:87) ~[oshi-core-6.2.2.jar%2371!/:6.2.2]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:68) ~[oshi-core-6.2.2.jar%2371!/:6.2.2]
+	at net.minecraft.SystemReport.m_143569_(SystemReport.java:75) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.SystemReport$$Lambda/0x00007fe42c4b1130.run(Unknown Source) ~[?:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.SystemReport.m_143535_(SystemReport.java:75) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.SystemReport$$Lambda/0x00007fe42c4b0f10.run(Unknown Source) ~[?:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+[01Dec2024 21:30:29.919] [Worker-Main-13/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure dungeons_arise:keep_kayra/keep_kayra_main_0
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Arrays.java:3482) ~[?:?]
+	at java.util.ArrayList.grow(ArrayList.java:237) ~[?:?]
+	at java.util.ArrayList.grow(ArrayList.java:244) ~[?:?]
+	at java.util.ArrayList.add(ArrayList.java:515) ~[?:?]
+	at net.minecraft.nbt.ListTag.m_7614_(ListTag.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.nbt.ListTag.add(ListTag.java:288) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.nbt.ListTag.add(ListTag.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.util.AbstractList.add(AbstractList.java:113) ~[?:?]
+	at net.minecraft.nbt.NbtOps$HeterogenousListCollector.m_246081_(NbtOps.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.nbt.NbtOps$ListCollector.m_246277_(NbtOps.java:394) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.nbt.NbtOps.m_244787_(NbtOps.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.nbt.NbtOps$$Lambda/0x00007fe42ee652e8.apply(Unknown Source) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.nbt.NbtOps.mergeToList(NbtOps.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.nbt.NbtOps.mergeToList(NbtOps.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at com.mojang.serialization.ListBuilder$Builder.lambda$build$3(ListBuilder.java:74) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.ListBuilder$Builder$$Lambda/0x00007fe42ee69f88.apply(Unknown Source) ~[?:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult$$Lambda/0x00007fe42c75b9c0.apply(Unknown Source) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.ListBuilder$Builder.build(ListBuilder.java:74) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.ListCodec.encode(ListCodec.java:19) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.encode(MapCodec.java:39) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:96) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.EitherCodec.lambda$encode$2(EitherCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.EitherCodec$$Lambda/0x00007fe42ee698e0.apply(Unknown Source) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:33) ~[datafixerupper-6.0.8.jar%2377!/:?]
+[01Dec2024 21:30:29.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Internal Exception: java.lang.OutOfMemoryError: Java heap space
+[01Dec2024 21:30:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[01Dec2024 21:30:30.167] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6546429b-d749-4d4c-9cf7-4947eb24eea4
+[01Dec2024 21:30:30.250] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 3be9c0c6-a365-4a25-8544-938dd9f50905
+[01Dec2024 21:30:30.252] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/./crash-reports/crash-2024-12-01_21.30.30-server.txt
+[01Dec2024 21:30:30.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 21:30:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 21:30:30.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
