@@ -4490,3 +4490,13 @@ java.lang.OutOfMemoryError: Java heap space
 [01Dec2024 21:30:30.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
 [01Dec2024 21:30:30.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
 [01Dec2024 21:30:30.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 21:30:38.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 21:30:39.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 21:30:39.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 21:30:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[01Dec2024 21:30:39.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 21:30:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 21:30:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 21:30:39.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[01Dec2024 21:30:39.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Dec2024 21:30:39.335] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
