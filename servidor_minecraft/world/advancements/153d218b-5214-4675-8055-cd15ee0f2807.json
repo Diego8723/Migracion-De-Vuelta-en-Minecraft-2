@@ -100,6 +100,7 @@
       "minecraft:deep_ocean": "2024-11-30 21:03:24 +0000",
       "minecraft:beach": "2024-11-30 21:52:44 +0000",
       "minecraft:river": "2024-11-30 20:57:21 +0000",
+      "minecraft:stony_shore": "2024-12-01 01:29:08 +0000",
       "minecraft:forest": "2024-11-30 20:33:05 +0000",
       "minecraft:ocean": "2024-11-30 21:26:25 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-30 21:03:47 +0000",
@@ -2291,7 +2292,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-11-30 20:57:33 +0000"
+      "cooked_beef": "2024-11-30 20:57:33 +0000",
+      "bread": "2024-12-01 01:35:31 +0000"
     },
     "done": false
   },
@@ -3189,6 +3191,72 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-11-30 23:45:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:main/first_time": {
+    "criteria": {
+      "0": "2024-12-01 01:34:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/hardtack": {
+    "criteria": {
+      "has_wheat": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:main/enthusiastic": {
+    "criteria": {
+      "youkaishomecoming:flesh_roll": "2024-12-01 01:34:08 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/dandelion_beer_bottle": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-01 01:35:16 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/misc/straw_from_wheat_drying": {
+    "criteria": {
+      "has_wheat": "2024-12-01 01:35:16 +0000"
     },
     "done": true
   },
