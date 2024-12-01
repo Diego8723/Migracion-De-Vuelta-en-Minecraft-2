@@ -104,6 +104,7 @@
       "minecraft:dark_forest": "2024-12-01 02:03:55 +0000",
       "minecraft:river": "2024-11-30 20:57:21 +0000",
       "minecraft:stony_shore": "2024-12-01 01:29:08 +0000",
+      "minecraft:dripstone_caves": "2024-12-01 19:13:34 +0000",
       "minecraft:grove": "2024-12-01 01:44:21 +0000",
       "minecraft:swamp": "2024-12-01 02:03:26 +0000",
       "minecraft:forest": "2024-11-30 20:33:05 +0000",
@@ -3520,15 +3521,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/root": {
+  "mahoutsukai:bakuretsu": {
     "criteria": {
-      "underground_cabin": "2024-12-01 19:11:16 +0000"
+      "bakuretsu": "2024-12-01 19:10:09 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "has_any_ingredient": "2024-12-01 19:11:34 +0000"
+      "underground_cabin": "2024-12-01 19:11:16 +0000"
     },
     "done": true
   },
@@ -3538,15 +3539,21 @@
     },
     "done": true
   },
-  "mahoutsukai:bakuretsu": {
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
-      "bakuretsu": "2024-12-01 19:10:09 +0000"
+      "has_any_ingredient": "2024-12-01 19:11:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2024-12-01 19:11:34 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:beam": {
+    "criteria": {
+      "beam": "2024-12-01 19:13:23 +0000"
     },
     "done": true
   },

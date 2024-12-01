@@ -699,13 +699,13 @@
 		MYSTIC_STAFF_AOE_SCALES = true
 		#Either a fraction of the max mana (if scaling) or a flat damage value
 		#Range: 0.0 ~ 1.0E8
-		MYSTIC_STAFF_AOE_FACTOR = 0.001
+		MYSTIC_STAFF_AOE_FACTOR = 0.1
 		#Explosion Size for AOE Explosion
 		#Range: 0 ~ 100000000
-		MYSTIC_STAFF_AOE_SIZE = 0.01
+		MYSTIC_STAFF_AOE_SIZE = 0.1
 		#Delay between firing on AOE Mode of Explosion Staff
 		#Range: 0 ~ 10000000
-		MYSTIC_STAFF_AOE_DELAY = 12
+		MYSTIC_STAFF_AOE_DELAY = 6
 
 	[mystic.beam]
 		#Mystic Staff Beam Mana Per Tick
