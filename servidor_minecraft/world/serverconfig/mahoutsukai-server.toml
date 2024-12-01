@@ -4,13 +4,13 @@
 	[boundary.alarm]
 		#This is the mana cost per cycle
 		#Range: 0 ~ 100000000
-		ALARM_BARRIER_MANA_COST = 1
+		ALARM_BARRIER_MANA_COST = 10
 		#This is how often the boundary drains mana
 		#Range: 0 ~ 100000000
-		ALARM_BARRIER_MANA_CYCLE = 10
+		ALARM_BARRIER_MANA_CYCLE = 1
 		#This is the range of the boundary
 		#Range: 0 ~ 100000000
-		ALARM_BARRIER_RADIUS = 10
+		ALARM_BARRIER_RADIUS = 100
 		#This is how often the boundary does it's thing
 		#Range: 0 ~ 100000000
 		ALARM_BARRIER_CYCLE = 20
@@ -20,13 +20,13 @@
 	[boundary.displacement]
 		#This is the mana cost per cycle
 		#Range: 0 ~ 100000000
-		DISPLACEMENT_BARRIER_MANA_COST = 1
+		DISPLACEMENT_BARRIER_MANA_COST = 0.1
 		#This is how often the boundary drains mana
 		#Range: 0 ~ 100000000
-		DISPLACEMENT_BARRIER_MANA_CYCLE = 5
+		DISPLACEMENT_BARRIER_MANA_CYCLE = 1
 		#This is the range of the boundary
 		#Range: 0 ~ 100000000
-		DISPLACEMENT_BARRIER_RADIUS = 11
+		DISPLACEMENT_BARRIER_RADIUS = 33
 		#This is how often the boundary does it's thing
 		#Range: 0 ~ 100000000
 		DISPLACEMENT_BARRIER_CYCLE = 4
@@ -70,13 +70,13 @@
 		GRAVITY_BARRIER_MANA_COST = 1
 		#This is how often the boundary drains mana
 		#Range: 0 ~ 100000000
-		GRAVITY_BARRIER_MANA_CYCLE = 2
+		GRAVITY_BARRIER_MANA_CYCLE = 100
 		#This is the range of the boundary
 		#Range: 0 ~ 100000000
-		GRAVITY_BARRIER_RADIUS = 50
+		GRAVITY_BARRIER_RADIUS = 100
 		#This is how often the boundary does it's thing
 		#Range: 0 ~ 100000000
-		GRAVITY_BARRIER_CYCLE = 1
+		GRAVITY_BARRIER_CYCLE = 3
 		#This is a multiplicative inrease in downward velocity
 		#Range: 0.0 ~ 1.0E8
 		GRAVITY_BARRIER_FACTOR = 4.2
@@ -138,10 +138,10 @@
 	[displacement.mental]
 		#This is the cost of using the scroll
 		#Range: 0 ~ 100000000
-		MENTAL_DISPLACEMENT_MANA_COST = 300
+		MENTAL_DISPLACEMENT_MANA_COST = 5000
 		#This is how far you can go before being sent back to your body
 		#Range: 0 ~ 100000000
-		MENTAL_DISPLACEMENT_RANGE = 20
+		MENTAL_DISPLACEMENT_RANGE = 50000
 
 	[displacement.projectile]
 		#This is the cost of using the scroll
@@ -276,7 +276,7 @@
 		STRENGTHENING_ITEM_BLACKLIST = []
 		#Max Strengthening Cap
 		#Range: 0 ~ 100000000
-		STRENGTHENING_CAP = 50
+		STRENGTHENING_CAP = 250
 
 	[projection."reality marble"]
 		#This is the cost of using the scroll
@@ -287,13 +287,13 @@
 		MARBLE_DIMENSION = -1
 		#Durability of swords spawned in the Marble Dimension
 		#Range: 0 ~ 100000000
-		MARBLE_DIMENSION_DURABILITY = 3
+		MARBLE_DIMENSION_DURABILITY = 500
 		#Distance between swords spawned in the Marble Dimension
 		#Range: 0 ~ 100000000
-		MARBLE_DIMENSION_SPAWN_RATE = 13
+		MARBLE_DIMENSION_SPAWN_RATE = 1000
 		#Probability of sword spawn
 		#Range: 0.0 ~ 1.0E8
-		MARBLE_DIMENSION_SPAWN_CHANCE = 0.8
+		MARBLE_DIMENSION_SPAWN_CHANCE = 0.2
 		#These will spawn in the Reality Marble as entities.. No guarantees on functionality if you change this.
 		MARBLE_SWORD_SPAWN_LIST = ["minecraft:iron_sword", "minecraft:diamond_sword", "minecraft:stone_sword"]
 		#Reality Marble Mob Blacklist
@@ -550,7 +550,7 @@
 	[exchange.alchemical]
 		#This is how often the circle changes a layer underneath it
 		#Range: 0 ~ 100000000
-		ALCHEMICAL_EXCHANGE_BLOCK_CYCLE = 20
+		ALCHEMICAL_EXCHANGE_BLOCK_CYCLE = 2
 		#How far down gets changed by the Alchemical Exchange
 		#Range: 0 ~ 100000000
 		ALCHEMICAL_EXCHANGE_HEIGHT = 5
@@ -671,7 +671,7 @@
 		MYSTIC_STAFF_SUMMON_MANA_COST = 100
 		#This is the cost of using the giant explosion
 		#Range: 0 ~ 100000000
-		MYSTIC_STAFF_BIG_MANA_COST = 5000
+		MYSTIC_STAFF_BIG_MANA_COST = 10000000
 		#Whether the damage is flat or scales with caster's 'level'
 		MYSTIC_STAFF_BIG_SCALES = true
 		#Either a fraction of the max mana (if scaling) or a flat damage value
@@ -679,9 +679,9 @@
 		MYSTIC_STAFF_BIG_FACTOR = 0.002
 		#Explosion Size for Big Explosion
 		#Range: 0 ~ 100000000
-		MYSTIC_STAFF_BIG_SIZE = 30
+		MYSTIC_STAFF_BIG_SIZE = 120
 		#Mystic Staff Creates Rain and Thunder
-		MYSTIC_STAFF_BIG_RAIN = true
+		MYSTIC_STAFF_BIG_RAIN = false
 		#Mystic Staff Scaling Mana Factor
 		#Range: 0.0 ~ 1.0E7
 		MYSTIC_STAFF_SCALING_MANA = 0.0
@@ -691,7 +691,7 @@
 	[mystic."aoe explosion"]
 		#This is the cost of using the multiple explosion mode
 		#Range: 0 ~ 100000000
-		MYSTIC_STAFF_AOE_MANA_COST = 600
+		MYSTIC_STAFF_AOE_MANA_COST = 100000
 		#Mystic Staff AOE Scaling Mana Factor
 		#Range: 0.0 ~ 1.0E7
 		MYSTIC_STAFF_AOE_SCALING_MANA = 0.0
@@ -702,10 +702,10 @@
 		MYSTIC_STAFF_AOE_FACTOR = 0.001
 		#Explosion Size for AOE Explosion
 		#Range: 0 ~ 100000000
-		MYSTIC_STAFF_AOE_SIZE = 4
+		MYSTIC_STAFF_AOE_SIZE = 0.1
 		#Delay between firing on AOE Mode of Explosion Staff
 		#Range: 0 ~ 10000000
-		MYSTIC_STAFF_AOE_DELAY = 3
+		MYSTIC_STAFF_AOE_DELAY = 12
 
 	[mystic.beam]
 		#Mystic Staff Beam Mana Per Tick
@@ -815,16 +815,16 @@
 	[eyes.binding]
 		#This is the cost of using the scroll
 		#Range: 0 ~ 100000000
-		MYSTIC_EYES_MANA_COST = 320
+		MYSTIC_EYES_MANA_COST = 50000
 		#This is how long the buff lasts
 		#Range: 0 ~ 100000000
-		MYSTIC_EYES_TIME = 600
+		MYSTIC_EYES_TIME = 25
 		#Entities must be within this radius of the user to be affected
 		#Range: 0 ~ 100000000
-		MYSTIC_EYES_RANGE_FROM_USER = 15
+		MYSTIC_EYES_RANGE_FROM_USER = 22
 		#Entities must be this close to the user's look vector to be affected
 		#Range: 0 ~ 100000000
-		MYSTIC_EYES_RANGE_FROM_LOOK_VEC = 4
+		MYSTIC_EYES_RANGE_FROM_LOOK_VEC = 2
 
 	[eyes.reversion]
 		#This is the cost of using the scroll
@@ -940,7 +940,7 @@
 		INSIGHT_MANA_COST = 320
 		#How long the buff lasts
 		#Range: 0 ~ 100000000
-		INSIGHT_TIME = 1200
+		INSIGHT_TIME = 3600
 
 [familiar]
 
@@ -1102,7 +1102,7 @@
 	[secret."fallen down"]
 		#Fallen Down Block Break Per Tick
 		#Range: 0 ~ 100000000
-		FALLEN_DOWN_BLOCK_BREAK_PER_TICK = 1600
+		FALLEN_DOWN_BLOCK_BREAK_PER_TICK = 1000
 		#Fallen Down Radius
 		#Range: 0 ~ 100000000
 		FALLEN_DOWN_RADIUS = 90
@@ -1121,7 +1121,7 @@
 		FALLEN_DOWN_BEAM_TARGET_HEALTH_PERCENTAGE_DAMAGE = 0.05
 		#Fallen Down Beam Growth
 		#Range: 0.0 ~ 1.0E9
-		FALLEN_DOWN_BEAM_GROWTH = 0.48
+		FALLEN_DOWN_BEAM_GROWTH = 0.36
 		#Fallen Down Beam Mana Scaled Damage
 		#Range: 0.0 ~ 1.0E9
 		FALLEN_DOWN_BEAM_MANA_SCALED_DAMAGE = 0.0
