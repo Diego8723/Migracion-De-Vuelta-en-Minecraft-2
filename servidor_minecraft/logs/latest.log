@@ -4058,3 +4058,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 21:08:55.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [standsummoned] for Diego919 to 0]
 [02Dec2024 21:08:57.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [standsummoned] for Diego919 to 1]
 [02Dec2024 21:08:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [standsummoned] for Diego919 to 0]
+[02Dec2024 21:10:45.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Disconnected
+[02Dec2024 21:10:45.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
