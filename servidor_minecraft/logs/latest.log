@@ -4129,3 +4129,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 16:34:56.219] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
 [02Dec2024 16:35:03.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Disconnected
 [02Dec2024 16:35:03.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
+[02Dec2024 16:47:22.934] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[02Dec2024 16:47:27.054] [Server thread/INFO] [roundabout/]: true 55
+[02Dec2024 16:47:27.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.234.29.138:45449] logged in with entity id 2199 at (99678.83008468605, 111.49390748022948, 99517.6685435176)
+[02Dec2024 16:47:27.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[02Dec2024 16:47:29.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[02Dec2024 16:49:08.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Disconnected
+[02Dec2024 16:49:08.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
+[02Dec2024 16:52:04.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 16:52:04.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 16:52:04.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 16:52:04.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 16:52:05.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 16:52:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 16:52:06.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[02Dec2024 16:52:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 16:52:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 16:52:06.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 16:52:06.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[02Dec2024 16:52:06.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 16:52:06.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 16:52:07.063] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

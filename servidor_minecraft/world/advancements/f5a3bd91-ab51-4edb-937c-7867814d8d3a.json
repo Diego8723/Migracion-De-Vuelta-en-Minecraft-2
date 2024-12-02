@@ -6328,15 +6328,15 @@
     },
     "done": true
   },
-  "pack:arrow_adv": {
-    "criteria": {
-      "Unlocked": "2024-12-02 16:33:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-02 16:32:42 +0000"
+    },
+    "done": true
+  },
+  "pack:arrow_adv": {
+    "criteria": {
+      "Unlocked": "2024-12-02 16:33:01 +0000"
     },
     "done": true
   },
