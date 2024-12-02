@@ -4108,3 +4108,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 16:19:06.957] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
 [02Dec2024 16:19:06.957] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [02Dec2024 16:19:35.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28009ms or 560 ticks behind
+[02Dec2024 16:28:51.577] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[02Dec2024 16:28:54.874] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02Dec2024 16:28:55.180] [Server thread/INFO] [roundabout/]: true 55
+[02Dec2024 16:28:55.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.82.200.191:36233] logged in with entity id 170 at (99677.60502950255, 109.0, 99516.92944941961)
+[02Dec2024 16:28:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[02Dec2024 16:28:57.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[02Dec2024 16:29:18.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5792ms or 115 ticks behind
+[02Dec2024 16:29:29.539] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=263, y=73, z=171}
+[02Dec2024 16:34:01.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 6400 [Dirt] to Diego919]
+[02Dec2024 16:34:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 6400 [Dirt] to Diego919]
+[02Dec2024 16:34:53.771] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:34:53.944] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:34:54.430] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:34:54.687] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:34:54.977] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:34:55.220] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:34:55.869] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:34:56.020] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:34:56.219] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
+[02Dec2024 16:35:03.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Disconnected
+[02Dec2024 16:35:03.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
