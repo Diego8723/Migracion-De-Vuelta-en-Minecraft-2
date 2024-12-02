@@ -4033,3 +4033,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 20:53:12.631] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
 [02Dec2024 20:53:12.632] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [02Dec2024 20:53:15.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[02Dec2024 21:01:26.778] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[02Dec2024 21:01:30.015] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[02Dec2024 21:01:30.425] [Server thread/INFO] [roundabout/]: true 55
+[02Dec2024 21:01:30.427] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: pack:arrowtwo removed now.
+[02Dec2024 21:01:30.430] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: pack:arrow removed now.
+[02Dec2024 21:01:30.432] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: pack:arrowtwo removed now.
+[02Dec2024 21:01:30.433] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: pack:arrow removed now.
+[02Dec2024 21:01:30.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.82.200.191:38029] logged in with entity id 118 at (2207.4955161050193, 87.0, -2080.790216729027)
+[02Dec2024 21:01:30.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[02Dec2024 21:01:35.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
+[02Dec2024 21:01:52.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[02Dec2024 21:04:02.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [Stand Arrow] to Diego919]
+[02Dec2024 21:05:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [Mandom] to Diego919]
+[02Dec2024 21:05:49.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Diego919> tag @s add mandomuserscoreboard players set @s mandomuser 1scoreboard players set @s silenced 0scoreboard players set @s standsummoned 0scoreboard players set @s idle 1scoreboard players set @s timerewindindex 0scoreboard players set @s timerewindstage 0sc
+[02Dec2024 21:06:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Added 1 to [mandomuser] for Diego919 (now 2)]
+[02Dec2024 21:06:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Diego919> '
+[02Dec2024 21:07:06.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Added 0 to [mandomuser] for Diego919 (now 2)]
+[02Dec2024 21:07:27.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Added 1 to [mandomitemstate] for Diego919 (now 1)]
+[02Dec2024 21:07:38.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Added 0 to [mandomitemstate] for Diego919 (now 1)]
+[02Dec2024 21:07:45.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [mandomitemstate] for Diego919 to 0]
+[02Dec2024 21:08:44.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [standsummoned] for Diego919 to 0]
+[02Dec2024 21:08:46.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [standsummoned] for Diego919 to 1]
+[02Dec2024 21:08:55.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [standsummoned] for Diego919 to 0]
+[02Dec2024 21:08:57.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [standsummoned] for Diego919 to 1]
+[02Dec2024 21:08:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set [standsummoned] for Diego919 to 0]
