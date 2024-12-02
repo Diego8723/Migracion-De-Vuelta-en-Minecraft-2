@@ -10784,3 +10784,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 16:34:56.219] [Server thread/ERROR] [net.minecraft.world.item.KnowledgeBookItem/]: Tag not valid: null
 [02Dec2024 16:35:03.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Disconnected
 [02Dec2024 16:35:03.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
+[02Dec2024 16:39:43.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 16:39:43.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 16:44:43.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 16:44:43.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
