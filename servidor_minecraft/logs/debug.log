@@ -10172,3 +10172,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 16:30:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by The nightmarish Krab
 [03Dec2024 16:30:19.307] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 3
 [03Dec2024 16:30:22.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[03Dec2024 16:30:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [Netherite Glaive] to Diego919]
+[03Dec2024 16:30:43.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5900ms or 118 ticks behind
+[03Dec2024 16:30:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by The nightmarish Krab
+[03Dec2024 16:30:51.532] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 3
+[03Dec2024 16:31:41.758] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.0 and blood value 7 for entity tameablebeasts:giant_grasshopper
+[03Dec2024 16:32:36.748] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[03Dec2024 16:32:48.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire
+[03Dec2024 16:32:49.858] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 3
+[03Dec2024 16:33:26.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Dark Metallurgy]
+[03Dec2024 16:33:52.386] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[03Dec2024 16:34:33.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 16:34:33.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 16:34:58.013] [Worker-Main-37/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Dec2024 16:34:58.724] [Worker-Main-37/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[03Dec2024 16:35:00.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[03Dec2024 16:35:20.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type CLIENT not found]
+[03Dec2024 16:35:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type COMMON not found]
+[03Dec2024 16:35:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type SERVER not found]
+[03Dec2024 16:35:40.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2983, l='ServerLevel[world]', x=369.35, y=60.56, z=-3690.61] died, message: 'Villager was slain by Emiliano1239'
+[03Dec2024 16:36:44.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Fletcher'/2838, l='ServerLevel[world]', x=371.37, y=60.56, z=-3692.56] died, message: 'Fletcher was slain by Emiliano1239'
+[03Dec2024 16:36:52.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2855, l='ServerLevel[world]', x=369.42, y=60.56, z=-3692.41] died, message: 'Villager was slain by Emiliano1239'
+[03Dec2024 16:37:18.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2944, l='ServerLevel[world]', x=372.88, y=60.00, z=-3687.50] died, message: 'Villager was slain by Emiliano1239'
+[03Dec2024 16:37:56.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2856, l='ServerLevel[world]', x=369.50, y=60.56, z=-3690.02] died, message: 'Villager was slain by Emiliano1239'
+[03Dec2024 16:38:11.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type CLIENT not found]
+[03Dec2024 16:39:35.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 16:39:35.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 16:44:35.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 16:44:35.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 16:44:57.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
+[03Dec2024 16:49:35.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 16:49:35.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

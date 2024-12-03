@@ -4068,3 +4068,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 16:29:06.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [DIO Visage] to Diego919]
 [03Dec2024 16:30:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by The nightmarish Krab
 [03Dec2024 16:30:22.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[03Dec2024 16:30:33.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [Netherite Glaive] to Diego919]
+[03Dec2024 16:30:43.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5900ms or 118 ticks behind
+[03Dec2024 16:30:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by The nightmarish Krab
+[03Dec2024 16:32:48.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Vampire
+[03Dec2024 16:33:26.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Dark Metallurgy]
+[03Dec2024 16:35:00.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[03Dec2024 16:35:20.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type CLIENT not found]
+[03Dec2024 16:35:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type COMMON not found]
+[03Dec2024 16:35:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type SERVER not found]
+[03Dec2024 16:35:40.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2983, l='ServerLevel[world]', x=369.35, y=60.56, z=-3690.61] died, message: 'Villager was slain by Emiliano1239'
+[03Dec2024 16:36:44.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Fletcher'/2838, l='ServerLevel[world]', x=371.37, y=60.56, z=-3692.56] died, message: 'Fletcher was slain by Emiliano1239'
+[03Dec2024 16:36:52.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2855, l='ServerLevel[world]', x=369.42, y=60.56, z=-3692.41] died, message: 'Villager was slain by Emiliano1239'
+[03Dec2024 16:37:18.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2944, l='ServerLevel[world]', x=372.88, y=60.00, z=-3687.50] died, message: 'Villager was slain by Emiliano1239'
+[03Dec2024 16:37:56.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2856, l='ServerLevel[world]', x=369.50, y=60.56, z=-3690.02] died, message: 'Villager was slain by Emiliano1239'
+[03Dec2024 16:38:11.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type CLIENT not found]
+[03Dec2024 16:44:57.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
