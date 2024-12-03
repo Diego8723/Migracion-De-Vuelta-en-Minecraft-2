@@ -4089,3 +4089,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 16:58:08.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
 [03Dec2024 17:01:18.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Disconnected
 [03Dec2024 17:01:18.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[03Dec2024 17:49:23.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Disconnected
+[03Dec2024 17:49:23.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
