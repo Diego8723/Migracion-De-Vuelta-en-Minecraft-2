@@ -4035,3 +4035,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 22:04:27.844] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
 [03Dec2024 22:04:27.845] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [03Dec2024 22:04:30.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[03Dec2024 22:32:55.694] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[03Dec2024 22:32:58.857] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03Dec2024 22:32:59.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.82.200.191:44867] logged in with entity id 128 at (2181.279298726831, 85.0, -2057.1562868610617)
+[03Dec2024 22:32:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[03Dec2024 22:33:04.274] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Diego919'/128, l='ServerLevel[world]', x=2181.28, y=85.00, z=-2057.16, removed=KILLED]
+[03Dec2024 22:33:04.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5463ms or 109 ticks behind
+[03Dec2024 22:33:31.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[03Dec2024 22:34:02.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [Zombie Villager Spawn Egg] to Diego919]
+[03Dec2024 22:34:56.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 3 [Zombie Villager Spawn Egg] to Diego919]
+[03Dec2024 22:40:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 3 [Pig Spawn Egg] to Diego919]
