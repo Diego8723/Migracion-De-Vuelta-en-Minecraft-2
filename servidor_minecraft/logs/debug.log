@@ -9832,3 +9832,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 22:39:37.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 22:39:37.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Dec2024 22:40:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 3 [Pig Spawn Egg] to Diego919]
+[03Dec2024 22:44:37.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 22:44:38.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 22:47:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[03Dec2024 22:49:37.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 22:49:37.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
