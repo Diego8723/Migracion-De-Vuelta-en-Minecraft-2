@@ -12,6 +12,6 @@
     "opacity_of_others": 100.0
   },
   "time_stop_settings": {
-    "time_stop_freezes_screen": false
+    "time_stop_freezes_screen": true
   }
 }
