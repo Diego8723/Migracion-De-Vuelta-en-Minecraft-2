@@ -4046,3 +4046,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 22:34:56.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 3 [Zombie Villager Spawn Egg] to Diego919]
 [03Dec2024 22:40:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 3 [Pig Spawn Egg] to Diego919]
 [03Dec2024 22:47:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[03Dec2024 22:54:18.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 10 [Pig Spawn Egg] to Diego919]
+[03Dec2024 22:54:49.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 3 [Zombie Villager Spawn Egg] to Diego919]
