@@ -4043,3 +4043,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 15:54:06.609] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
 [03Dec2024 15:54:06.611] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [03Dec2024 15:54:08.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Dec2024 16:11:07.660] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[03Dec2024 16:11:10.776] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03Dec2024 16:11:11.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.82.200.191:60387] logged in with entity id 128 at (2194.455795957523, 88.0, -2076.3266097572105)
+[03Dec2024 16:11:11.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[03Dec2024 16:11:15.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4981ms or 99 ticks behind
+[03Dec2024 16:15:56.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[03Dec2024 16:15:56.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 died
+[03Dec2024 16:16:04.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Dec2024 16:16:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
