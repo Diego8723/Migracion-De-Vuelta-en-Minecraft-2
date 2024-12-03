@@ -4084,3 +4084,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Dec2024 16:37:56.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Villager'/2856, l='ServerLevel[world]', x=369.50, y=60.56, z=-3690.02] died, message: 'Villager was slain by Emiliano1239'
 [03Dec2024 16:38:11.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Config for roundabout of type CLIENT not found]
 [03Dec2024 16:44:57.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
+[03Dec2024 16:55:56.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03Dec2024 16:57:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Emiliano1239> diego hace de dia
+[03Dec2024 16:58:08.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]

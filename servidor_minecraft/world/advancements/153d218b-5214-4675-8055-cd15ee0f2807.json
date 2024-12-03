@@ -2654,7 +2654,8 @@
       "minecraft:spider": "2024-11-30 21:53:02 +0000",
       "minecraft:stray": "2024-11-30 22:07:58 +0000",
       "minecraft:enderman": "2024-12-03 16:27:32 +0000",
-      "minecraft:zombie": "2024-12-01 21:44:45 +0000"
+      "minecraft:zombie": "2024-12-01 21:44:45 +0000",
+      "minecraft:drowned": "2024-12-03 16:56:32 +0000"
     },
     "done": false
   },
@@ -4365,6 +4366,12 @@
   "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
     "criteria": {
       "has_amulet": "2024-12-03 16:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-03 16:58:49 +0000"
     },
     "done": true
   },
