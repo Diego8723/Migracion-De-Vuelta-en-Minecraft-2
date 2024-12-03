@@ -17,6 +17,8 @@
   "stand_user_villager_odds": 0.02,
   "user_and_worthy_breeding_odds_bonus": 0.15,
   "multiply_above_for_villager_breeding": 2,
+  "star_platinum_scope_uses_potion_effect_for_night_vision": false,
+  "justice_fog_and_pilot_range": 100,
   "barrage_windup": 29,
   "kick_barrage_windup": 20,
   "damage_multipliers": {

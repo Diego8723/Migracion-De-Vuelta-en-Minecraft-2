@@ -1,0 +1,17 @@
+{
+  "render_justice_hands_while_piloting": true,
+  "particle_settings": {
+    "render_justice_particles_in_first_person": true,
+    "render_justice_particles_while_piloting_in_first_person": false,
+    "justice_fog_particles_per_tick": 5,
+    "justice_skin_flame_particles_per_tick": 3
+  },
+  "opacity_settings": {
+    "opacity_of_stand": 100.0,
+    "opacity_while_attacking": 100.0,
+    "opacity_of_others": 100.0
+  },
+  "time_stop_settings": {
+    "time_stop_freezes_screen": false
+  }
+}
