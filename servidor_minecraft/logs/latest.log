@@ -1,21 +1,21 @@
-[04Dec2024 16:45:29.518] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[04Dec2024 16:45:29.523] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[04Dec2024 16:45:30.684] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[04Dec2024 16:45:30.744] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04Dec2024 16:45:31.308] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[04Dec2024 16:45:31.310] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[04Dec2024 16:45:31.315] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[04Dec2024 16:45:31.319] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[04Dec2024 16:45:31.640] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[04Dec2024 16:45:36.079] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Dec2024 16:45:36.117] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
-[04Dec2024 16:45:36.179] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[04Dec2024 16:45:36.181] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[04Dec2024 16:45:36.339] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[04Dec2024 16:45:36.578] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[04Dec2024 16:45:36.598] [main/WARN] [mixin/]: Reference map 'mixins.ice_and_fire_delight.refmap.json' for mixins.ice_and_fire_delight.json could not be read. If this is a development environment you can ignore this message
-[04Dec2024 16:45:36.626] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Dec2024 16:45:36.718] [main/INFO] [Puzzles Lib/]: Loading 80 mods:
+[04Dec2024 16:50:27.312] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[04Dec2024 16:50:27.318] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[04Dec2024 16:50:28.583] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Dec2024 16:50:28.679] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04Dec2024 16:50:29.330] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[04Dec2024 16:50:29.334] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[04Dec2024 16:50:29.339] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[04Dec2024 16:50:29.349] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Migracion-De-Vuelta-en-Minecraft-2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[04Dec2024 16:50:29.799] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[04Dec2024 16:50:34.245] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Dec2024 16:50:34.281] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
+[04Dec2024 16:50:34.351] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[04Dec2024 16:50:34.353] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[04Dec2024 16:50:34.523] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[04Dec2024 16:50:34.778] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[04Dec2024 16:50:34.806] [main/WARN] [mixin/]: Reference map 'mixins.ice_and_fire_delight.refmap.json' for mixins.ice_and_fire_delight.json could not be read. If this is a development environment you can ignore this message
+[04Dec2024 16:50:34.836] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Dec2024 16:50:34.910] [main/INFO] [Puzzles Lib/]: Loading 80 mods:
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
 	- aqua_creepers 3.0.0
@@ -97,36 +97,36 @@
 	- youkaishomecoming 2.2.16
 		|-- l2damagetracker 0.3.7
 		\-- l2library 2.4.25
-[04Dec2024 16:45:36.726] [main/WARN] [mixin/]: Reference map 'cuisinedelight.refmap.json' for cuisinedelight.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Dec2024 16:45:36.730] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Dec2024 16:45:37.660] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[04Dec2024 16:45:37.710] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[04Dec2024 16:45:37.930] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class de/teamlapen/vampirism/client/renderer/RenderHandler for invalid dist DEDICATED_SERVER
-[04Dec2024 16:45:37.938] [main/WARN] [mixin/]: Error loading class: de/teamlapen/vampirism/client/renderer/RenderHandler (java.lang.RuntimeException: Attempted to load class de/teamlapen/vampirism/client/renderer/RenderHandler for invalid dist DEDICATED_SERVER)
-[04Dec2024 16:45:37.938] [main/WARN] [mixin/]: @Mixin target de.teamlapen.vampirism.client.renderer.RenderHandler was not found vampiresdelight.mixins.json:MixinRenderHandler
-[04Dec2024 16:45:43.418] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[04Dec2024 16:45:43.419] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[04Dec2024 16:45:44.588] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zmn000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04Dec2024 16:45:47.662] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[04Dec2024 16:45:47.664] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[04Dec2024 16:45:47.801] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[04Dec2024 16:45:47.802] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[04Dec2024 16:45:47.839] [main/WARN] [mixin/]: @Final field f_265994_:I in roundabout.mixins.json:ZAnvilMenu should be final
-[04Dec2024 16:45:47.840] [main/WARN] [mixin/]: @Final field f_265986_:I in roundabout.mixins.json:ZAnvilMenu should be final
-[04Dec2024 16:45:47.840] [main/WARN] [mixin/]: @Final field f_266102_:I in roundabout.mixins.json:ZAnvilMenu should be final
-[04Dec2024 16:45:47.840] [main/WARN] [mixin/]: @Final field f_38999_:Lorg/slf4j/Logger; in roundabout.mixins.json:ZAnvilMenu should be final
-[04Dec2024 16:45:47.841] [main/WARN] [mixin/]: @Final field f_150469_:Z in roundabout.mixins.json:ZAnvilMenu should be final
-[04Dec2024 16:45:47.841] [main/WARN] [mixin/]: @Final field f_150468_:I in roundabout.mixins.json:ZAnvilMenu should be final
-[04Dec2024 16:45:48.851] [main/WARN] [mixin/]: @Final field f_40615_:Ljava/util/function/Predicate; in roundabout.mixins.json:ZBoatItem should be final
-[04Dec2024 16:45:50.351] [main/WARN] [mixin/]: @Final field f_199889_:I in roundabout.mixins.json:ZNearestAttackableTargetGoal should be final
-[04Dec2024 16:45:51.165] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[04Dec2024 16:45:51.165] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[04Dec2024 16:45:51.165] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[04Dec2024 16:45:51.166] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[04Dec2024 16:45:52.681] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[04Dec2024 16:50:34.928] [main/WARN] [mixin/]: Reference map 'cuisinedelight.refmap.json' for cuisinedelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Dec2024 16:50:34.930] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Dec2024 16:50:36.057] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[04Dec2024 16:50:36.146] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[04Dec2024 16:50:36.356] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class de/teamlapen/vampirism/client/renderer/RenderHandler for invalid dist DEDICATED_SERVER
+[04Dec2024 16:50:36.357] [main/WARN] [mixin/]: Error loading class: de/teamlapen/vampirism/client/renderer/RenderHandler (java.lang.RuntimeException: Attempted to load class de/teamlapen/vampirism/client/renderer/RenderHandler for invalid dist DEDICATED_SERVER)
+[04Dec2024 16:50:36.357] [main/WARN] [mixin/]: @Mixin target de.teamlapen.vampirism.client.renderer.RenderHandler was not found vampiresdelight.mixins.json:MixinRenderHandler
+[04Dec2024 16:50:41.868] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[04Dec2024 16:50:41.869] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[04Dec2024 16:50:43.917] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zmn000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[04Dec2024 16:50:47.511] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[04Dec2024 16:50:47.512] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[04Dec2024 16:50:47.659] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[04Dec2024 16:50:47.659] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[04Dec2024 16:50:47.692] [main/WARN] [mixin/]: @Final field f_265994_:I in roundabout.mixins.json:ZAnvilMenu should be final
+[04Dec2024 16:50:47.693] [main/WARN] [mixin/]: @Final field f_265986_:I in roundabout.mixins.json:ZAnvilMenu should be final
+[04Dec2024 16:50:47.693] [main/WARN] [mixin/]: @Final field f_266102_:I in roundabout.mixins.json:ZAnvilMenu should be final
+[04Dec2024 16:50:47.694] [main/WARN] [mixin/]: @Final field f_38999_:Lorg/slf4j/Logger; in roundabout.mixins.json:ZAnvilMenu should be final
+[04Dec2024 16:50:47.694] [main/WARN] [mixin/]: @Final field f_150469_:Z in roundabout.mixins.json:ZAnvilMenu should be final
+[04Dec2024 16:50:47.695] [main/WARN] [mixin/]: @Final field f_150468_:I in roundabout.mixins.json:ZAnvilMenu should be final
+[04Dec2024 16:50:48.718] [main/WARN] [mixin/]: @Final field f_40615_:Ljava/util/function/Predicate; in roundabout.mixins.json:ZBoatItem should be final
+[04Dec2024 16:50:50.407] [main/WARN] [mixin/]: @Final field f_199889_:I in roundabout.mixins.json:ZNearestAttackableTargetGoal should be final
+[04Dec2024 16:50:51.502] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[04Dec2024 16:50:51.503] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[04Dec2024 16:50:51.504] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[04Dec2024 16:50:51.505] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[04Dec2024 16:50:52.917] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[04Dec2024 16:45:54.764] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7e1ffe70 on thread Thread[#30,modloading-worker-0,5,main]
-[04Dec2024 16:45:54.765] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[04Dec2024 16:50:55.413] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@1235151c on thread Thread[#30,modloading-worker-0,5,main]
+[04Dec2024 16:50:55.418] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -170,139 +170,32 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[04Dec2024 16:45:54.774] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[04Dec2024 16:45:55.015] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[04Dec2024 16:45:55.016] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AzureLibCompat
-[04Dec2024 16:45:55.018] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: VampirismCompat
-[04Dec2024 16:45:55.026] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
-[04Dec2024 16:45:55.357] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[04Dec2024 16:45:55.859] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[04Dec2024 16:45:55.859] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[04Dec2024 16:45:55.860] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[04Dec2024 16:45:55.865] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[04Dec2024 16:45:55.865] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[04Dec2024 16:45:55.865] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[04Dec2024 16:45:55.866] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[04Dec2024 16:45:56.597] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[04Dec2024 16:45:56.810] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[04Dec2024 16:45:56.817] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[04Dec2024 16:45:57.335] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
-[04Dec2024 16:45:57.368] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
-[04Dec2024 16:46:00.465] [modloading-worker-0/INFO] [roundabout/]: Loaded local config
-[04Dec2024 16:46:00.481] [modloading-worker-0/INFO] [roundabout/]: Loaded local config
-[04Dec2024 16:46:00.482] [modloading-worker-0/ERROR] [roundabout/]: Failed to parse defaultConfig file, using default config
-[04Dec2024 16:46:00.486] [modloading-worker-0/INFO] [roundabout/]: Loaded server config
-[04Dec2024 16:46:00.668] [modloading-worker-0/INFO] [roundabout/]: Hello Forge world!
-[04Dec2024 16:46:00.674] [modloading-worker-0/INFO] [roundabout/]: Hello to roundabout
-[04Dec2024 16:46:01.597] [modloading-worker-0/INFO] [net.permutated.pylons.Pylons/]: Registering mod: pylons
-[04Dec2024 16:46:01.644] [modloading-worker-0/INFO] [net.permutated.pylons.Pylons/]: Registered 1 network packets
-[04Dec2024 16:46:01.738] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[04Dec2024 16:46:01.749] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[04Dec2024 16:46:01.843] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[04Dec2024 16:46:17.082] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[04Dec2024 16:46:17.107] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
-[04Dec2024 16:46:17.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
-[04Dec2024 16:46:17.195] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[04Dec2024 16:46:17.235] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[04Dec2024 16:46:17.334] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:17.334] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:17.335] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:17.335] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:17.336] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:17.336] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:17.337] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:17.337] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:17.338] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[04Dec2024 16:46:18.454] [modloading-worker-0/INFO] [dev.xkmc.youkaishomecoming.init.YoukaisHomecoming/]: HashMap test result: hash=281, L2O=121
-[04Dec2024 16:46:18.589] [modloading-worker-0/INFO] [com.lootintegrations.LootintegrationsMod/]: lootintegrations mod initialized
-[04Dec2024 16:46:18.591] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[04Dec2024 16:46:18.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[04Dec2024 16:46:18.799] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
-[04Dec2024 16:46:18.799] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
-[04Dec2024 16:46:18.799] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
-[04Dec2024 16:46:18.800] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
-[04Dec2024 16:46:18.800] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
-[04Dec2024 16:46:18.831] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[04Dec2024 16:46:18.841] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[04Dec2024 16:46:18.863] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
-	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23250!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23250!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	... 6 more
-[04Dec2024 16:46:18.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[04Dec2024 16:46:18.979] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[04Dec2024 16:46:18.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[04Dec2024 16:46:19.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[04Dec2024 16:46:19.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[04Dec2024 16:46:19.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[04Dec2024 16:46:19.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Dec2024 16:46:19.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
-[04Dec2024 16:46:19.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ice_and_fire_delight] Starting version check at https://raw.githubusercontent.com/Donne431/Ice_and_Fire_Delight-1.20.1/master/update.json
-[04Dec2024 16:46:19.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ice_and_fire_delight] Found status: UP_TO_DATE Current: 0.1.9 Target: null
-[04Dec2024 16:46:19.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[04Dec2024 16:46:19.721] [main/INFO] [journeymap/]: Initializing Packet Registries
-[04Dec2024 16:46:19.967] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[04Dec2024 16:46:19.973] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[04Dec2024 16:46:19.974] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[04Dec2024 16:46:19.974] [main/INFO] [terrablender/]: Registered region vampirism:overworld to index 1 for type OVERWORLD
-[04Dec2024 16:46:19.977] [main/INFO] [de.teamlapen.vampirism.modcompat.terrablender.TerraBlenderCompat/]: TerraBlender is installed. Using it to add vampire Forest to overworld.
-[04Dec2024 16:46:20.067] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[04Dec2024 16:46:20.122] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[04Dec2024 16:46:20.123] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[04Dec2024 16:46:20.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.17 Target: null
-[04Dec2024 16:46:20.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[04Dec2024 16:46:20.272] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[04Dec2024 16:46:20.272] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[04Dec2024 16:46:20.365] [modloading-worker-0/INFO] [de.mennomax.astikorcarts.AstikorCarts/]: Automatic pull animal configuration:
-pull_animals = [
-    "minecraft:camel",
-    "minecraft:donkey",
-    "minecraft:horse",
-    "minecraft:mule",
-    "minecraft:skeleton_horse",
-    "minecraft:zombie_horse",
-    "minecraft:player",
-    "wom:lupus_rex",
-    "iceandfire:hippocampus",
-    "iceandfire:dread_horse",
-    "alexscaves:candicorn",
-    "irons_spellbooks:spectral_steed",
-    "vampirism:converted_horse",
-    "vampirism:converted_donkey",
-    "vampirism:converted_mule"
-  ]
-[04Dec2024 16:46:20.389] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[04Dec2024 16:46:20.391] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Vampirism Biomes are added via TerraBlender. Not adding them to overworld preset.
-[04Dec2024 16:46:20.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
-[04Dec2024 16:46:20.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
-[04Dec2024 16:46:20.523] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
-[04Dec2024 16:46:20.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
-[04Dec2024 16:46:20.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.11 Target: null
-[04Dec2024 16:46:20.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[04Dec2024 16:46:20.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[04Dec2024 16:46:20.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[04Dec2024 16:46:20.611] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
-	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23250!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23250!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	... 6 more
+[04Dec2024 16:50:55.430] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[04Dec2024 16:50:55.787] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[04Dec2024 16:50:55.793] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: AzureLibCompat
+[04Dec2024 16:50:55.795] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: VampirismCompat
+[04Dec2024 16:50:55.805] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[04Dec2024 16:50:56.258] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[04Dec2024 16:50:56.576] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[04Dec2024 16:50:56.580] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[04Dec2024 16:50:56.580] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[04Dec2024 16:50:56.581] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[04Dec2024 16:50:56.582] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[04Dec2024 16:50:56.582] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[04Dec2024 16:50:56.583] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[04Dec2024 16:50:57.485] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[04Dec2024 16:50:57.759] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[04Dec2024 16:50:57.760] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[04Dec2024 16:50:58.422] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[04Dec2024 16:50:58.456] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
+[04Dec2024 16:51:02.447] [modloading-worker-0/INFO] [roundabout/]: Loaded local config
+[04Dec2024 16:51:02.468] [modloading-worker-0/INFO] [roundabout/]: Loaded local config
+[04Dec2024 16:51:02.469] [modloading-worker-0/ERROR] [roundabout/]: Failed to parse defaultConfig file, using default config
+[04Dec2024 16:51:02.471] [modloading-worker-0/INFO] [roundabout/]: Loaded server config
+[04Dec2024 16:51:02.622] [modloading-worker-0/INFO] [roundabout/]: Hello Forge world!
+[04Dec2024 16:51:02.624] [modloading-worker-0/INFO] [roundabout/]: Hello to roundabout
+[04Dec2024 16:51:03.303] [modloading-worker-0/INFO] [net.permutated.pylons.Pylons/]: Registering mod: pylons
+[04Dec2024 16:51:03.344] [modloading-worker-0/INFO] [net.permutated.pylons.Pylons/]: Registered 1 network packets
+[04Dec2024 16:51:03.440] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[04Dec2024 16:51:03.503] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[04Dec2024 16:51:03.567] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main

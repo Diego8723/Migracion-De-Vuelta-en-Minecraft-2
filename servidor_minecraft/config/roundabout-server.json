@@ -62,15 +62,15 @@
     "creative_mode_refreshes_cooldowns": true
   },
   "time_stop_settings": {
-    "max_time_stop_ticks_star_platinum": 300,
-    "max_time_stop_ticks_the_world": 300,
+    "max_time_stop_ticks_star_platinum": 200,
+    "max_time_stop_ticks_the_world": 200,
     "full_charge_time_stop_ticks_the_world": 80,
     "prevents_breathing": false,
     "enable_hovering": true,
     "mobs_teleport_instead_of_stopping_time": true,
     "warden_moves_in_stopped_time": true,
-    "rate_of_charging_time_stop": 0.1,
-    "impulse_time_stop_length": 140,
+    "rate_of_charging_time_stop": 1,
+    "impulse_time_stop_length": 250,
     "player_damage_cap_health_percent": 15,
     "creative_mode_infinite_time_stop": true
   }
