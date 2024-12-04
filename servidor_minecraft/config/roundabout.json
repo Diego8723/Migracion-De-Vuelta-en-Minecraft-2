@@ -62,9 +62,9 @@
     "creative_mode_refreshes_cooldowns": true
   },
   "time_stop_settings": {
-    "max_time_stop_ticks_star_platinum": 100,
-    "max_time_stop_ticks_the_world": 100,
-    "full_charge_time_stop_ticks_the_world": 20,
+    "max_time_stop_ticks_star_platinum": 175,
+    "max_time_stop_ticks_the_world": 175,
+    "full_charge_time_stop_ticks_the_world": 0,
     "prevents_breathing": false,
     "enable_hovering": true,
     "mobs_teleport_instead_of_stopping_time": true,
