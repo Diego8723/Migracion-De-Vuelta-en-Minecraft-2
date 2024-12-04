@@ -63,7 +63,7 @@
   },
   "time_stop_settings": {
     "max_time_stop_ticks_star_platinum": 100,
-    "max_time_stop_ticks_the_world": 100,
+    "max_time_stop_ticks_the_world": 80,
     "full_charge_time_stop_ticks_the_world": 0,
     "prevents_breathing": false,
     "enable_hovering": true,
