@@ -4063,3 +4063,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 19:09:47.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
 [04Dec2024 20:06:42.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
 [04Dec2024 20:06:53.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[04Dec2024 20:09:02.414] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Emiliano1239 is 153d218b-5214-4675-8055-cd15ee0f2807
+[04Dec2024 20:09:05.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliano1239[/127.82.200.191:44253] logged in with entity id 6028 at (358.39603685229275, 63.9375, -3693.2377290531467)
+[04Dec2024 20:09:05.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 joined the game
+[04Dec2024 20:09:07.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[04Dec2024 20:11:40.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved wrongly!
+[04Dec2024 20:11:47.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 withered away
+[04Dec2024 20:12:20.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Applied effect Swap to Diego919]
+[04Dec2024 20:19:27.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[04Dec2024 20:19:37.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[04Dec2024 20:21:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 13000]
+[04Dec2024 20:21:28.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 1000]
+[04Dec2024 20:21:40.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 13000]
+[04Dec2024 20:23:12.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[04Dec2024 20:23:19.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Teleported Diego919 to Emiliano1239]
+[04Dec2024 20:26:51.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [Antitheus] to Emiliano1239]
+[04Dec2024 20:27:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [Good Demoman]
+[04Dec2024 20:29:04.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 was kicked for floating too long!
+[04Dec2024 20:29:04.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Flying is not enabled on this server
+[04Dec2024 20:29:04.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[04Dec2024 20:29:05.080] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 20:29:11.708] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Emiliano1239 is 153d218b-5214-4675-8055-cd15ee0f2807
+[04Dec2024 20:29:14.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliano1239[/127.82.200.191:52303] logged in with entity id 11904 at (313.978317571115, 64.24918707874468, -3688.936351277514)
+[04Dec2024 20:29:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 joined the game
+[04Dec2024 20:29:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set the time to 13000]
+[04Dec2024 20:31:42.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Diego919
+[04Dec2024 20:37:18.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Time caught up with Emiliano1239 whilst fighting Diego919

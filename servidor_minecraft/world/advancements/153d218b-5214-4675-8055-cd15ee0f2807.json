@@ -2307,7 +2307,10 @@
     "criteria": {
       "cooked_mutton": "2024-12-01 01:38:25 +0000",
       "cooked_beef": "2024-11-30 20:57:33 +0000",
-      "bread": "2024-12-01 01:35:31 +0000"
+      "bread": "2024-12-01 01:35:31 +0000",
+      "rotten_flesh": "2024-12-04 20:11:44 +0000",
+      "golden_carrot": "2024-12-04 20:24:23 +0000",
+      "carrot": "2024-12-04 20:11:05 +0000"
     },
     "done": false
   },
@@ -2652,6 +2655,7 @@
       "minecraft:skeleton": "2024-11-30 21:32:36 +0000",
       "minecraft:vindicator": "2024-11-30 21:41:25 +0000",
       "minecraft:spider": "2024-11-30 21:53:02 +0000",
+      "minecraft:phantom": "2024-12-04 20:34:01 +0000",
       "minecraft:stray": "2024-11-30 22:07:58 +0000",
       "minecraft:enderman": "2024-12-03 16:27:32 +0000",
       "minecraft:zombie": "2024-12-01 21:44:45 +0000",
@@ -4400,18 +4404,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-12-04 19:07:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:06:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-04 19:04:55 +0000"
@@ -4424,6 +4416,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-04 19:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-04 19:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-04 19:06:59 +0000"
@@ -4433,12 +4437,6 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-04 19:06:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2024-12-04 19:07:55 +0000"
     },
     "done": true
   },
@@ -4484,9 +4482,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_raw_copper": "2024-12-04 19:04:55 +0000"
+      "has_bone_meal": "2024-12-04 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-04 19:07:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-04 20:27:20 +0000"
     },
     "done": true
   },

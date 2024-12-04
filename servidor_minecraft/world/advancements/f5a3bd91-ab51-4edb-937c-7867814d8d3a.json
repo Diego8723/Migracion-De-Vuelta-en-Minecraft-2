@@ -220,6 +220,7 @@
       "minecraft:vindicator": "2024-11-23 23:39:35 +0000",
       "minecraft:spider": "2024-11-23 23:14:04 +0000",
       "minecraft:evoker": "2024-11-23 23:37:23 +0000",
+      "minecraft:phantom": "2024-12-04 20:25:44 +0000",
       "minecraft:husk": "2024-11-22 21:04:42 +0000",
       "minecraft:enderman": "2024-11-24 23:57:54 +0000",
       "minecraft:zombie": "2024-11-23 23:16:23 +0000",
@@ -6344,6 +6345,18 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2024-12-02 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-04 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-04 20:13:47 +0000"
     },
     "done": true
   },
