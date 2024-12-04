@@ -55,10 +55,10 @@
     "mob_throw": 30,
     "switch_stand_disc": 100,
     "switch_stand_disc_while_on_cooldowns": 300,
-    "time_stop_minimum": 100,
+    "time_stop_minimum": 1,
     "time_stop_interrupt": 30,
-    "time_stop_action_bonus_ticks": 40,
-    "time_stop_time_used_multiplier": 5,
+    "time_stop_action_bonus_ticks": 10,
+    "time_stop_time_used_multiplier": 1,
     "creative_mode_refreshes_cooldowns": true
   },
   "time_stop_settings": {
