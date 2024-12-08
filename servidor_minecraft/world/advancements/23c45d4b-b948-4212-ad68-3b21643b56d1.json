@@ -1866,6 +1866,7 @@
     "criteria": {
       "youkaishomecoming:flesh_stew": "2024-11-24 02:03:54 +0000",
       "youkaishomecoming:raw_lamprey": "2024-11-23 23:51:34 +0000",
+      "youkaishomecoming:matcha_mochi": "2024-12-08 23:43:18 +0000",
       "youkaishomecoming:cooked_flesh": "2024-11-24 02:34:20 +0000"
     },
     "done": false
@@ -4863,6 +4864,12 @@
     },
     "done": true
   },
+  "youkaishomecoming:main/sweet": {
+    "criteria": {
+      "0": "2024-12-08 23:43:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-08 23:23:37 +0000"
@@ -4872,6 +4879,12 @@
   "vampirism:recipes/building_blocks/dark_spruce_planks": {
     "criteria": {
       "has_log": "2024-12-08 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "roundabout:meteorite_ingot": {
+    "criteria": {
+      "has_meteorite": "2024-12-08 23:47:55 +0000"
     },
     "done": true
   },

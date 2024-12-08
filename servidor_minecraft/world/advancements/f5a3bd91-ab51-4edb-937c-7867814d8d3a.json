@@ -6360,5 +6360,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2024-12-08 23:51:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
