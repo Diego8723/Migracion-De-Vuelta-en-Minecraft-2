@@ -4053,3 +4053,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Dec2024 23:30:47.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: perrolucaso[/127.145.196.81:51287] logged in with entity id 3447 at (-2448.988237676276, 41.5, -440.90501696611534)
 [08Dec2024 23:30:47.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso joined the game
 [08Dec2024 23:30:50.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[08Dec2024 23:32:36.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spidycachetes was slain by Vampire
+[08Dec2024 23:34:46.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso lost connection: Disconnected
+[08Dec2024 23:34:46.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso left the game

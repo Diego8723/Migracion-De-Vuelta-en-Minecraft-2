@@ -10582,3 +10582,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Dec2024 23:30:47.643] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@99d1c3a into net.minecraft.network.Connection@6a20336b
 [08Dec2024 23:30:47.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso joined the game
 [08Dec2024 23:30:50.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[08Dec2024 23:32:36.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spidycachetes was slain by Vampire
+[08Dec2024 23:32:37.793] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: spidycachetes has new faction level vampirism:hunter 1
+[08Dec2024 23:32:39.593] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[08Dec2024 23:34:46.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso lost connection: Disconnected
+[08Dec2024 23:34:46.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso left the game
+[08Dec2024 23:35:32.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 23:35:32.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 23:40:32.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 23:40:32.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
