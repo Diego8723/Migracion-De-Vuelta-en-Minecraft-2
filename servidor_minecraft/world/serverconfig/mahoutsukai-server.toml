@@ -963,7 +963,7 @@
 		FAMILIAR_REPORT_SURROUNDINGS_TIME = 400
 		#How much health the familiar has
 		#Range: 0 ~ 100000000
-		FAMILIAR_HEALTH = 400
+		FAMILIAR_HEALTH = 750
 		#The chance that a familiar will complain about being hurt.
 		#Range: 0.0 ~ 1.0E8
 		FAMILIAR_OUCH_CHANCE = 0.3
