@@ -4046,3 +4046,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Dec2024 23:11:00.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: spidycachetes[/127.145.196.81:42905] logged in with entity id 115 at (-2457.4669426411747, 41.0, -443.1427201211841)
 [08Dec2024 23:11:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spidycachetes joined the game
 [08Dec2024 23:11:04.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3360ms or 67 ticks behind
+[08Dec2024 23:11:28.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9197ms or 183 ticks behind
+[08Dec2024 23:15:54.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spidycachetes was slain by Adrian DraxWind
+[08Dec2024 23:23:37.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spidycachetes has made the advancement [Mine? Mine? Mine?]
+[08Dec2024 23:30:43.898] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player perrolucaso is 9e935e17-0d61-40fc-b06c-deddbe438411
+[08Dec2024 23:30:47.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: perrolucaso[/127.145.196.81:51287] logged in with entity id 3447 at (-2448.988237676276, 41.5, -440.90501696611534)
+[08Dec2024 23:30:47.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso joined the game
+[08Dec2024 23:30:50.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
