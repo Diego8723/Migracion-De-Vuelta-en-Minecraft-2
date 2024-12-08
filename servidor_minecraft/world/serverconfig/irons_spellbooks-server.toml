@@ -37,7 +37,7 @@
 	scrollMerging = true
 	#Use these lists to change what items can interact with the Arcane Anvil's upgrade system. This can also be done via datapack.
 	#Upgrade Whitelist. Use an item's id to allow it to be upgraded, ex: "minecraft:iron_sword"
-	upgradeWhitelist = ["vampiresneedumbrellas:netherite_umbrella" "vampiresneedumbrellas:diamond_umbrella"]
+	upgradeWhitelist = ["vampiresneedumbrellas:netherite_umbrella", "vampiresneedumbrellas:diamond_umbrella"]
 	#Upgrade Blacklist. Use an item's id to prevent it from being upgraded, ex: "minecraft:iron_sword"
 	upgradeBlacklist = []
 
@@ -45,7 +45,7 @@
 	#Use these lists to change what items can interact with the Arcane Anvil's imbue system.
 	#/!\ Unsupported item types are not guaranteed to work out of the box.
 	#Imbue Whitelist. Use an item's id to allow it to be imbued, ex: "minecraft:iron_sword"
-	imbueWhitelist = ["vampiresneedumbrellas:netherite_umbrella" "vampiresneedumbrellas:diamond_umbrella"]
+	imbueWhitelist = ["vampiresneedumbrellas:netherite_umbrella", "vampiresneedumbrellas:diamond_umbrella"]
 	#Imbue Blacklist. Use an item's id to prevent it from being imbued, ex: "minecraft:iron_sword"
 	imbueBlacklist = []
 
