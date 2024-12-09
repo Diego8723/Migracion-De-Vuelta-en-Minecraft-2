@@ -3736,5 +3736,11 @@
     },
     "done": true
   },
+  "roundabout:meteorite_ingot": {
+    "criteria": {
+      "has_meteorite": "2024-12-08 23:57:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
