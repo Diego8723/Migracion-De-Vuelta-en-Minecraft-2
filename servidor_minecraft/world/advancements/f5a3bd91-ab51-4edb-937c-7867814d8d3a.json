@@ -6360,9 +6360,27 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-09 00:14:06 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/mangrove_cabinet": {
     "criteria": {
       "has_mangrove_trapdoor": "2024-12-08 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-09 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 00:13:57 +0000"
     },
     "done": true
   },

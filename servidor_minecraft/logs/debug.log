@@ -11920,3 +11920,79 @@ java.lang.Throwable: null
 [09Dec2024 00:12:47.372] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:lightning_dragon
 [09Dec2024 00:12:47.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9639ms or 192 ticks behind
 [09Dec2024 00:13:15.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12710ms or 254 ticks behind
+[09Dec2024 00:13:23.823] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:hunter at BlockPos{x=-2656, y=88, z=-1244} with badomen level -1
+[09Dec2024 00:13:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [We Need to Go Deeper]
+[09Dec2024 00:14:09.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39020ms or 780 ticks behind
+[09Dec2024 00:14:20.660] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[09Dec2024 00:14:28.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spidycachetes was doomed to fall by Lightning Dragon
+[09Dec2024 00:14:33.844] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: spidycachetes has new faction level vampirism:hunter 1
+[09Dec2024 00:14:33.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! 7.478498740733812,1.0869240882136921,-6.811116437266719
+[09Dec2024 00:14:37.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12965ms or 259 ticks behind
+[09Dec2024 00:14:52.994] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 26.14 and blood value 0 for entity alexsmobs:laviathan
+[09Dec2024 00:14:54.638] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[09Dec2024 00:14:54.640] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[09Dec2024 00:14:54.641] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[09Dec2024 00:14:54.642] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[09Dec2024 00:14:54.642] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[09Dec2024 00:14:54.643] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[09Dec2024 00:14:54.643] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[09Dec2024 00:14:54.644] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[09Dec2024 00:14:54.644] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.7 and blood value 0 for entity alexsmobs:rhinoceros
+[09Dec2024 00:14:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso was struck with lightning by Lightning Dragon
+[09Dec2024 00:15:08.596] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:08.597] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:08.597] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:08.599] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:08.600] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:08.600] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:08.600] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:08.603] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:08.603] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:11.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -0.05033753079555936,-0.5419241013267069,10.075714909269664
+[09Dec2024 00:15:19.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27400ms or 548 ticks behind
+[09Dec2024 00:15:29.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -2.4065269352877863,1.1767592750642422,-9.843937583935258
+[09Dec2024 00:15:35.131] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:ancient_battleground took 82 ms
+[09Dec2024 00:15:36.503] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:36.504] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:15:47.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12053ms or 241 ticks behind
+[09Dec2024 00:15:52.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[09Dec2024 00:16:07.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5489ms or 109 ticks behind
+[09Dec2024 00:16:31.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8670ms or 173 ticks behind
+[09Dec2024 00:16:40.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[09Dec2024 00:16:48.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[09Dec2024 00:16:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has reached the goal [Fighting Nightmares]
+[09Dec2024 00:17:48.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 00:17:48.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 00:17:49.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
+[09Dec2024 00:17:49.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -2.115988942335264,-0.0176875796009881,-9.969087352686074
+[09Dec2024 00:18:07.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
+[09Dec2024 00:18:25.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[09Dec2024 00:18:41.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -4.752127784169716,0.04353562014750878,-9.049219896687987
+[09Dec2024 00:18:49.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 2.572953788566849,-0.0625,10.013434951064482
+[09Dec2024 00:18:52.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12552ms or 251 ticks behind
+[09Dec2024 00:19:00.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! -3.622711054405954,-0.5800000131130219,-9.646645271123703
+[09Dec2024 00:19:17.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9974ms or 199 ticks behind
+[09Dec2024 00:19:37.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! 3.40600323767967,-5.343750274518598,-8.057375009855718
+[09Dec2024 00:19:37.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! -6.636738607797724,1.0,-7.539857970211983
+[09Dec2024 00:19:38.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
+[09Dec2024 00:19:43.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [Those Were the Days]
+[09Dec2024 00:19:57.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3787ms or 75 ticks behind
+[09Dec2024 00:20:17.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4656ms or 93 ticks behind
+[09Dec2024 00:20:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:20:18.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -4.718457136466441,-2.380023674395531,-8.639727508037254
+[09Dec2024 00:20:42.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10548ms or 210 ticks behind
+[09Dec2024 00:21:00.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spidycachetes was blown up by Aqua Creeper
+[09Dec2024 00:21:01.548] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: spidycachetes has new faction level vampirism:hunter 1
+[09Dec2024 00:21:18.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20485ms or 409 ticks behind
+[09Dec2024 00:21:40.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7487ms or 149 ticks behind
+[09Dec2024 00:21:58.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -5.278227748365225,2.419999986886978,-8.194741461398621
+[09Dec2024 00:22:15.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20293ms or 405 ticks behind
+[09Dec2024 00:22:41.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10416ms or 208 ticks behind
+[09Dec2024 00:23:02.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6495ms or 129 ticks behind
+[09Dec2024 00:23:25.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8093ms or 161 ticks behind
+[09Dec2024 00:23:38.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -8.157637012638133,0.5009966402674735,-6.2151464991957255
+[09Dec2024 00:23:49.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -4.184006223738379,-3.75945857744712,-8.822453424299965
+[09Dec2024 00:23:49.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! -9.792655155440116,0.41999998688697815,2.6238654355641984
+[09Dec2024 00:23:51.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[09Dec2024 00:23:58.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -5.286474675717727,-0.604424101326714,-9.086908969146634
+[09Dec2024 00:23:58.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! -6.175564892134389,2.0013359791121417,-8.135912614256654
