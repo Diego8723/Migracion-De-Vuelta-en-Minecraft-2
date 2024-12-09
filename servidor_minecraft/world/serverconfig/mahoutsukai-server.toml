@@ -1240,13 +1240,13 @@
 	MANA_ADDED_SCALING_REGEN_PER_TICK = 0.0
 	#How much max mana increases every time it does
 	#Range: 0 ~ 100000000
-	MANA_INCREASE = 2
+	MANA_INCREASE = 100
 	#How much mana players regen per tick
 	#Range: 0 ~ 100000000
-	MANA_REGEN_PER_TICK = 5
+	MANA_REGEN_PER_TICK = 100
 	#Percentage of max mana players get back by sleeping
 	#Range: 0.0 ~ 1.0E8
-	MANA_RECOVERY_SLEEP = 0.5
+	MANA_RECOVERY_SLEEP = 1
 	#Scaling factor for how much hunger affects regen
 	#Range: -1.0E7 ~ 1.0E7
 	MANA_REGEN_HUNGER_FACTOR = 1.0
@@ -1270,10 +1270,10 @@
 	MANA_CIRCUIT_RANGE = 10
 	#How much mana fits into an attuned diamond
 	#Range: 0 ~ 100000000
-	ATTUNED_DIAMOND_CAPACITY = 50000
+	ATTUNED_DIAMOND_CAPACITY = 2000000
 	#How much mana fits into an attuned emerald
 	#Range: 0 ~ 100000000
-	ATTUNED_EMERALD_CAPACITY = 10000
+	ATTUNED_EMERALD_CAPACITY = 500000
 
 [projector]
 	#A list of URLs to pull Magic Circle textures from

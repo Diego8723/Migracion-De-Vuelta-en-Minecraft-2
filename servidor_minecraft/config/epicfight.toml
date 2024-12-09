@@ -12,7 +12,7 @@
 	#Allowed Values: MINING, BATTLE
 	initialPlayerMode = "MINING"
 	#Range: 0 ~ 100
-	weightPenalty = 1
+	weightPenalty = 0
 	epicDrop = true
 	stiffComboAttacks = true
 	noMobsInBossfight = true
