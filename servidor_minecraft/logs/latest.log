@@ -187,3 +187,10 @@
 [09Dec2024 01:20:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [Magery]
 [09Dec2024 01:23:11.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -0.14356635635442672,0.0,-10.13215722729592
 [09Dec2024 01:25:21.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [Bonfire Lit]
+[09Dec2024 01:26:56.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[09Dec2024 01:27:21.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[09Dec2024 01:28:07.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [Rabbit Spawn Egg] to Diego919]
+[09Dec2024 01:29:45.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Gave 1 [Zombie Spawn Egg] to Diego919]
+[09Dec2024 01:31:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 was cooked alive
+[09Dec2024 01:31:12.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[09Dec2024 01:32:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
