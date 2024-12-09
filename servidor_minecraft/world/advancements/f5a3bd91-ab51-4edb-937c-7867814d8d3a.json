@@ -218,9 +218,12 @@
       "minecraft:pillager": "2024-11-23 23:36:42 +0000",
       "minecraft:skeleton": "2024-11-22 21:04:45 +0000",
       "minecraft:vindicator": "2024-11-23 23:39:35 +0000",
+      "minecraft:magma_cube": "2024-12-09 00:23:20 +0000",
       "minecraft:spider": "2024-11-23 23:14:04 +0000",
+      "minecraft:piglin_brute": "2024-12-09 00:35:02 +0000",
       "minecraft:evoker": "2024-11-23 23:37:23 +0000",
       "minecraft:phantom": "2024-12-04 20:25:44 +0000",
+      "minecraft:zombified_piglin": "2024-12-09 00:25:20 +0000",
       "minecraft:husk": "2024-11-22 21:04:42 +0000",
       "minecraft:enderman": "2024-11-24 23:57:54 +0000",
       "minecraft:zombie": "2024-11-23 23:16:23 +0000",
@@ -6362,13 +6365,74 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-09 00:14:06 +0000"
+      "minecraft:nether_wastes": "2024-12-09 00:14:06 +0000",
+      "minecraft:basalt_deltas": "2024-12-09 00:33:56 +0000"
     },
     "done": false
   },
   "farmersdelight:recipes/decorations/mangrove_cabinet": {
     "criteria": {
       "has_mangrove_trapdoor": "2024-12-08 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-09 00:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-09 00:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-09 00:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-12-09 00:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-09 00:36:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-09 00:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-09 00:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-09 00:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-09 00:36:48 +0000"
     },
     "done": true
   },
@@ -6381,6 +6445,30 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-09 00:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-09 00:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-09 00:41:20 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2024-12-09 00:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-09 00:19:43 +0000"
     },
     "done": true
   },

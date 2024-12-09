@@ -85,3 +85,47 @@
 [09Dec2024 00:23:51.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
 [09Dec2024 00:23:58.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -5.286474675717727,-0.604424101326714,-9.086908969146634
 [09Dec2024 00:23:58.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! -6.175564892134389,2.0013359791121417,-8.135912614256654
+[09Dec2024 00:24:02.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -5.136988145888154,-2.0554624345250403,-8.685336571228163
+[09Dec2024 00:24:02.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! -5.1077122009296545,1.2491870787446828,-8.737358871999163
+[09Dec2024 00:24:10.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29846ms or 596 ticks behind
+[09Dec2024 00:24:27.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! -2.6198776200108114,1.0244240882136921,-9.642528802775132
+[09Dec2024 00:24:27.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -5.784872662640737,2.2275968069717322,-8.206355424830463
+[09Dec2024 00:24:55.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso was struck with lightning by Lightning Dragon
+[09Dec2024 00:25:05.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40058ms or 801 ticks behind
+[09Dec2024 00:25:28.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso lost connection: Disconnected
+[09Dec2024 00:25:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso left the game
+[09Dec2024 00:25:28.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes lost connection: Disconnected
+[09Dec2024 00:25:28.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: spidycachetes left the game
+[09Dec2024 00:25:51.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31185ms or 623 ticks behind
+[09Dec2024 00:26:12.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was slain by Fallen Chaos Knight
+[09Dec2024 00:26:16.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[09Dec2024 00:26:27.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 was kicked for floating too long!
+[09Dec2024 00:26:27.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Flying is not enabled on this server
+[09Dec2024 00:26:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[09Dec2024 00:26:27.156] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Dec2024 00:26:36.080] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Emiliano1239 is 153d218b-5214-4675-8055-cd15ee0f2807
+[09Dec2024 00:26:39.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliano1239[/127.82.200.191:40749] logged in with entity id 28229 at (373.0459684448588, 64.79673560066871, -3684.111342700569)
+[09Dec2024 00:26:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 joined the game
+[09Dec2024 00:26:42.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3896ms or 77 ticks behind
+[09Dec2024 00:27:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 was incinerated by Ancient Knight
+[09Dec2024 00:27:15.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
+[09Dec2024 00:27:32.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[09Dec2024 00:27:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 has made the advancement [The Wind Darkening]
+[09Dec2024 00:28:17.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[09Dec2024 00:28:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:31:59.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 1.125400617677144,0.961924088213685,9.9868962548112
+[09Dec2024 00:34:59.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[09Dec2024 00:36:32.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [War Pigs]
+[09Dec2024 00:38:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 00:39:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:39:37.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 00:39:53.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:40:48.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 00:41:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:41:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 00:41:54.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:42:06.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 00:43:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:43:43.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[09Dec2024 00:43:45.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -0.2681986812086734,0.0,10.173993734306805
+[09Dec2024 00:44:08.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind

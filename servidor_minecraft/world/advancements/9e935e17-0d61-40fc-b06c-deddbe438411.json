@@ -109,6 +109,7 @@
       "minecraft:forest": "2024-11-23 21:54:12 +0000",
       "minecraft:lush_caves": "2024-12-01 22:14:37 +0000",
       "minecraft:deep_cold_ocean": "2024-11-23 23:43:47 +0000",
+      "minecraft:ocean": "2024-12-09 00:20:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-23 22:28:35 +0000",
       "minecraft:plains": "2024-11-23 22:14:16 +0000"
     },
@@ -3789,6 +3790,12 @@
   "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-09 00:05:18 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/harvest_salt": {
+    "criteria": {
+      "harvest_salt": "2024-12-09 00:19:42 +0000"
     },
     "done": true
   },
