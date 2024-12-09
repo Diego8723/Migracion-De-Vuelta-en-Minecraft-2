@@ -149,3 +149,41 @@
 [09Dec2024 01:05:27.470] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
 [09Dec2024 01:05:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 was mauled by The Dead King's undead
 [09Dec2024 01:05:45.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
+[09Dec2024 01:05:55.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 01:06:17.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has completed the challenge [Necronomicon]
+[09Dec2024 01:06:18.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18535ms or 370 ticks behind
+[09Dec2024 01:06:32.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 lost connection: Disconnected
+[09Dec2024 01:06:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 left the game
+[09Dec2024 01:06:33.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[09Dec2024 01:08:03.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 01:08:40.138] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Emiliano1239 is 153d218b-5214-4675-8055-cd15ee0f2807
+[09Dec2024 01:08:43.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emiliano1239[/127.82.200.191:33597] logged in with entity id 39044 at (369.7739862495318, 63.0, -3721.3503952077)
+[09Dec2024 01:08:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 joined the game
+[09Dec2024 01:08:45.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! 2.69637515295517,0.5,-9.653643057199588
+[09Dec2024 01:08:45.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Dec2024 01:09:22.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[09Dec2024 01:09:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 01:09:49.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 01:10:48.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 01:11:05.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 01:11:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 01:11:35.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 01:12:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 01:12:15.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 0.4036891727152465,-2.8529166234280225,9.67847008108538
+[09Dec2024 01:12:25.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 01:12:47.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Teleported 24 entities to Diego919]
+[09Dec2024 01:15:12.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! 0.5015105794556121,0.0,10.089639153144162
+[09Dec2024 01:17:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Summoned new Necromancer]
+[09Dec2024 01:17:51.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Summoned new Necromancer]
+[09Dec2024 01:18:00.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Summoned new Necromancer]
+[09Dec2024 01:18:01.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Summoned new Necromancer]
+[09Dec2024 01:18:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Summoned new Necromancer]
+[09Dec2024 01:18:03.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Summoned new Necromancer]
+[09Dec2024 01:18:04.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Summoned new Necromancer]
+[09Dec2024 01:18:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Summoned new Necromancer]
+[09Dec2024 01:18:53.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[09Dec2024 01:18:58.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 moved too quickly! -0.2867656082862595,5.624995842896254,-8.498803763888645
+[09Dec2024 01:19:12.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3932ms or 78 ticks behind
+[09Dec2024 01:20:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [Magery]
+[09Dec2024 01:23:11.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -0.14356635635442672,0.0,-10.13215722729592
+[09Dec2024 01:25:21.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [Bonfire Lit]
