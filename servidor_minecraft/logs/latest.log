@@ -129,3 +129,23 @@
 [09Dec2024 00:43:43.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
 [09Dec2024 00:43:45.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -0.2681986812086734,0.0,10.173993734306805
 [09Dec2024 00:44:08.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
+[09Dec2024 00:50:50.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[09Dec2024 00:51:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:52:05.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[09Dec2024 00:53:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:56:17.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[09Dec2024 00:56:23.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 01:01:25.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=62, z=-3677} BlockPos{x=372, y=61, z=-3677}
+[09Dec2024 01:03:11.259] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:catacombs took 165 ms
+[09Dec2024 01:03:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Teleported Diego919 to 1440.500000, 105.000000, -3375.500000]
+[09Dec2024 01:03:24.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8014ms or 160 ticks behind
+[09Dec2024 01:03:24.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emiliano1239 moved too quickly! -0.41327735349517525,0.0,-9.998534765907152
+[09Dec2024 01:03:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Spectator Mode]
+[09Dec2024 01:04:03.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 has made the advancement [Dungeon Delving]
+[09Dec2024 01:04:15.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Survival Mode]
+[09Dec2024 01:04:40.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[09Dec2024 01:05:12.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[09Dec2024 01:05:27.468] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[09Dec2024 01:05:27.470] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[09Dec2024 01:05:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 was mauled by The Dead King's undead
+[09Dec2024 01:05:45.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
