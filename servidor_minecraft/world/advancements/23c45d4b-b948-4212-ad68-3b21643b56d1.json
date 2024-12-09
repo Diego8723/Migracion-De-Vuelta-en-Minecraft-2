@@ -1867,6 +1867,7 @@
       "youkaishomecoming:flesh_stew": "2024-11-24 02:03:54 +0000",
       "youkaishomecoming:raw_lamprey": "2024-11-23 23:51:34 +0000",
       "youkaishomecoming:matcha_mochi": "2024-12-08 23:43:18 +0000",
+      "youkaishomecoming:sekibankiyaki": "2024-12-09 00:08:50 +0000",
       "youkaishomecoming:cooked_flesh": "2024-11-24 02:34:20 +0000"
     },
     "done": false
@@ -4852,9 +4853,57 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/chiseled_dark_stone_bricks": {
     "criteria": {
       "has_dark_stone_brick_slab": "2024-12-08 23:25:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cursed_spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/fog_diffuser": {
+    "criteria": {
+      "has_cursed_plank": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/food/kinako_dango": {
+    "criteria": {
+      "has_mochi": "2024-12-09 00:08:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_pressure_place": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
     },
     "done": true
   },
@@ -4870,6 +4919,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/cursed_spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-08 23:23:37 +0000"
@@ -4879,6 +4934,24 @@
   "vampirism:recipes/building_blocks/dark_spruce_planks": {
     "criteria": {
       "has_log": "2024-12-08 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cursed_spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/cursed_spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 00:00:00 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/food/assorted_dango": {
+    "criteria": {
+      "has_mochi": "2024-12-09 00:08:38 +0000"
     },
     "done": true
   },

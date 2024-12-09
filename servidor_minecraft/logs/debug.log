@@ -11879,3 +11879,44 @@ java.lang.Throwable: null
 [09Dec2024 00:01:34.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [09Dec2024 00:02:05.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [09Dec2024 00:02:41.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[09Dec2024 00:03:06.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9529ms or 190 ticks behind
+[09Dec2024 00:03:26.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[09Dec2024 00:03:37.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 00:03:37.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 00:05:03.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[09Dec2024 00:05:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emiliano1239 was blown up by Aqua Creeper
+[09Dec2024 00:05:09.018] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Emiliano1239 has new faction level vampirism:hunter 3
+[09Dec2024 00:05:21.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3084ms or 61 ticks behind
+[09Dec2024 00:05:38.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[09Dec2024 00:05:56.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[09Dec2024 00:06:13.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[09Dec2024 00:06:17.916] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[09Dec2024 00:06:30.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[09Dec2024 00:07:03.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3253ms or 65 ticks behind
+[09Dec2024 00:07:43.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[09Dec2024 00:07:49.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -7.812153778005268,2.419999986886978,-6.094256028756945
+[09Dec2024 00:07:59.427] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:komainu
+[09Dec2024 00:07:59.428] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:komainu
+[09Dec2024 00:08:02.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! -8.012369822330129,1.747796659746271,-5.941188127451255
+[09Dec2024 00:08:09.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11089ms or 221 ticks behind
+[09Dec2024 00:08:14.251] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[09Dec2024 00:08:26.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[09Dec2024 00:08:59.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[09Dec2024 00:09:00.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrolucaso moved too quickly! -8.36758956618678,2.176759275064228,-5.341136132002816
+[09Dec2024 00:09:14.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 00:09:14.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 00:09:18.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3692ms or 73 ticks behind
+[09Dec2024 00:09:46.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12775ms or 255 ticks behind
+[09Dec2024 00:10:10.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8878ms or 177 ticks behind
+[09Dec2024 00:10:33.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: spidycachetes moved too quickly! 3.0594909039973572,-4.464159374955443,-8.711873547128107
+[09Dec2024 00:10:38.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13325ms or 266 ticks behind
+[09Dec2024 00:11:05.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11654ms or 233 ticks behind
+[09Dec2024 00:11:31.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11383ms or 227 ticks behind
+[09Dec2024 00:11:39.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrolucaso has made the advancement [The Lighthouse]
+[09Dec2024 00:11:58.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11787ms or 235 ticks behind
+[09Dec2024 00:12:10.455] [Worker-Main-44/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 9.367s
+[09Dec2024 00:12:23.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10137ms or 202 ticks behind
+[09Dec2024 00:12:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego919: Set own game mode to Creative Mode]
+[09Dec2024 00:12:47.372] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:lightning_dragon
+[09Dec2024 00:12:47.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9639ms or 192 ticks behind
+[09Dec2024 00:13:15.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12710ms or 254 ticks behind
