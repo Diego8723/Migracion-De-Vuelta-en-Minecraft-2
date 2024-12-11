@@ -11,8 +11,10 @@
       "minecraft:taiga": "2024-11-24 00:36:52 +0000",
       "minecraft:deep_ocean": "2024-11-23 23:27:18 +0000",
       "minecraft:birch_forest": "2024-11-29 19:29:54 +0000",
+      "minecraft:savanna_plateau": "2024-12-11 21:16:48 +0000",
       "minecraft:beach": "2024-11-24 00:35:15 +0000",
       "minecraft:dark_forest": "2024-11-25 00:54:47 +0000",
+      "minecraft:mangrove_swamp": "2024-12-11 21:18:30 +0000",
       "minecraft:sparse_jungle": "2024-12-09 01:07:57 +0000",
       "minecraft:river": "2024-11-23 22:17:41 +0000",
       "minecraft:stony_shore": "2024-11-24 02:23:36 +0000",
@@ -21,9 +23,11 @@
       "minecraft:cold_ocean": "2024-11-24 00:33:23 +0000",
       "minecraft:forest": "2024-11-22 19:34:05 +0000",
       "minecraft:deep_cold_ocean": "2024-11-24 00:31:07 +0000",
+      "minecraft:flower_forest": "2024-12-11 21:17:40 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-25 00:56:05 +0000",
       "minecraft:deep_dark": "2024-11-25 00:59:32 +0000",
       "minecraft:meadow": "2024-11-23 23:27:03 +0000",
+      "minecraft:savanna": "2024-12-11 21:16:45 +0000",
       "minecraft:plains": "2024-11-22 21:01:52 +0000"
     },
     "done": false
@@ -6512,6 +6516,18 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2024-12-09 01:45:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2024-12-11 21:12:10 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:beam": {
+    "criteria": {
+      "beam": "2024-12-11 21:26:59 +0000"
     },
     "done": true
   },
