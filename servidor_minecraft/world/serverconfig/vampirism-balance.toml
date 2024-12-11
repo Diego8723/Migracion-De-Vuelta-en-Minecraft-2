@@ -350,7 +350,7 @@
 		instantKill1MaxHealth = 0.35
 		#The chunk radius a normal diffusor affects. 0 results in a one chunk area. Changing this only affects newly placed blocks
 		#Range: 0 ~ 5
-		garlicDiffuserNormalDist = 0
+		garlicDiffuserNormalDist = 3
 		#The chunk radius a normal diffusor affects. 0 results in a one chunk area. Changing this only affects newly placed blocks
 		#Range: 0 ~ 5
 		garlicDiffuserWeakDist = 2
