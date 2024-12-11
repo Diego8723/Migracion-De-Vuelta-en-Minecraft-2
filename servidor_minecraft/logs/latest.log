@@ -4146,3 +4146,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 22:24:33.591] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [11Dec2024 22:24:33.591] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [11Dec2024 22:28:44.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/26117, l='ServerLevel[world]', x=1138.52, y=290.00, z=-3850.66]
+[11Dec2024 22:40:55.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Disconnected
+[11Dec2024 22:40:55.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
+[11Dec2024 22:41:05.026] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2732449a[id=<null>,name=Diego919,properties={},legacy=false] (/127.82.200.191:37823) lost connection: Disconnected
+[11Dec2024 22:41:12.049] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego919 is f5a3bd91-ab51-4edb-937c-7867814d8d3a
+[11Dec2024 22:41:15.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego919[/127.82.200.191:39345] logged in with entity id 29067 at (1042.138378852928, 130.0, -3990.699999988079)
+[11Dec2024 22:41:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 joined the game
+[11Dec2024 22:41:20.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4975ms or 99 ticks behind
