@@ -18671,3 +18671,61 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 22:41:20.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4975ms or 99 ticks behind
 [11Dec2024 22:42:44.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 22:42:44.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 22:44:44.266] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (708 | 73 | -4604).
+[11Dec2024 22:44:44.267] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[11Dec2024 22:44:44.267] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[11Dec2024 22:44:44.267] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[11Dec2024 22:44:44.268] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[11Dec2024 22:44:44.268] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[11Dec2024 22:44:44.268] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 4(8) Nodes and 5(0) Rooms
+[11Dec2024 22:44:44.268] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[11Dec2024 22:44:44.268] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 4(0) Rooms
+[11Dec2024 22:44:44.269] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[11Dec2024 22:44:44.269] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[11Dec2024 22:44:44.965] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1087 | 60 | -4372)
+[11Dec2024 22:44:44.974] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1087 | 60 | -4372)
+[11Dec2024 22:44:44.974] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1087 | 60 | -4372)
+[11Dec2024 22:44:44.974] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1087 | 60 | -4372)
+[11Dec2024 22:44:44.974] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (1086 | 60 | -4384)
+[11Dec2024 22:44:44.974] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (1086 | 60 | -4384)
+[11Dec2024 22:44:44.974] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1086 | 60 | -4384)
+[11Dec2024 22:44:44.987] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1086 | 60 | -4384)
+[11Dec2024 22:44:45.438] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1087 | 60 | -4372)
+[11Dec2024 22:44:45.447] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1087 | 60 | -4372)
+[11Dec2024 22:44:45.447] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1087 | 60 | -4372)
+[11Dec2024 22:44:45.447] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1087 | 60 | -4372)
+[11Dec2024 22:44:45.448] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (1086 | 60 | -4384)
+[11Dec2024 22:44:45.448] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (1086 | 60 | -4384)
+[11Dec2024 22:44:45.448] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1086 | 60 | -4384)
+[11Dec2024 22:44:45.453] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1086 | 60 | -4384)
+[11Dec2024 22:44:47.220] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (987 | 60 | -4384)
+[11Dec2024 22:44:47.225] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (987 | 60 | -4384)
+[11Dec2024 22:44:47.225] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (987 | 60 | -4384)
+[11Dec2024 22:44:47.226] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (987 | 60 | -4384)
+[11Dec2024 22:44:47.720] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (987 | 60 | -4384)
+[11Dec2024 22:44:47.720] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (987 | 60 | -4384)
+[11Dec2024 22:44:47.721] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (987 | 60 | -4384)
+[11Dec2024 22:44:47.721] [Worker-Main-106/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (987 | 60 | -4384)
+[11Dec2024 22:44:49.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego919 lost connection: Disconnected
+[11Dec2024 22:44:49.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego919 left the game
+[11Dec2024 22:44:56.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Dec2024 22:44:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[11Dec2024 22:44:58.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Dec2024 22:44:58.617] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[11Dec2024 22:44:58.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 22:44:58.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 22:44:58.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Dec2024 22:44:59.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Dec2024 22:45:02.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Dec2024 22:45:02.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Dec2024 22:45:02.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[11Dec2024 22:45:02.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 22:45:02.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 22:45:02.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Dec2024 22:45:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Dec2024 22:45:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Dec2024 22:45:02.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[11Dec2024 22:45:02.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Dec2024 22:45:03.708] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[11Dec2024 22:45:03.708] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[11Dec2024 22:45:03.711] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
