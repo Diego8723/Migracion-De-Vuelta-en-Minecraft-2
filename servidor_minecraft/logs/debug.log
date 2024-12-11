@@ -18309,3 +18309,77 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 22:22:39.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 22:22:39.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Dec2024 22:23:10.277] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.12 and blood value 15 for entity irons_spellbooks:spectral_steed
+[11Dec2024 22:23:22.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.5191320897931746
+[11Dec2024 22:23:22.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.423057182160619
+[11Dec2024 22:23:22.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.3279377174119418
+[11Dec2024 22:23:23.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.2333294911009034
+[11Dec2024 22:23:23.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.1389948182850276
+[11Dec2024 22:23:24.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.41704657935633804
+[11Dec2024 22:23:24.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.31071776149656216
+[11Dec2024 22:23:24.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.2095048932053487
+[11Dec2024 22:23:24.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.1110294675272598
+[11Dec2024 22:23:24.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 2.014018792812749
+[11Dec2024 22:23:24.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 2.917791877134732
+[11Dec2024 22:23:24.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 2.8300189570770726
+[11Dec2024 22:23:24.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 3.779362567491262
+[11Dec2024 22:23:24.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved too quickly! 8.215630004369814,6.0,-4.096365567344947
+[11Dec2024 22:23:24.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.5599035702666697
+[11Dec2024 22:23:24.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.5659413655262142
+[11Dec2024 22:23:24.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.5601018754862253
+[11Dec2024 22:23:24.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.5706510357938441
+[11Dec2024 22:23:24.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.5685423668812746
+[11Dec2024 22:23:25.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.46898535552736575
+[11Dec2024 22:23:25.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.46898535552736575
+[11Dec2024 22:23:25.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.8417553960264286
+[11Dec2024 22:23:25.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.0
+[11Dec2024 22:23:25.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.0
+[11Dec2024 22:23:25.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.0
+[11Dec2024 22:23:25.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.0
+[11Dec2024 22:23:25.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.37496385275494504
+[11Dec2024 22:23:25.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.3678183465544862
+[11Dec2024 22:23:25.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.37496385275494504
+[11Dec2024 22:23:25.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.9505633871463033
+[11Dec2024 22:23:25.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.3754873634402429
+[11Dec2024 22:23:25.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.5378455221630247
+[11Dec2024 22:23:26.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.3096512252479897
+[11Dec2024 22:23:26.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.25202502421825557
+[11Dec2024 22:23:26.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.40586747309498605
+[11Dec2024 22:23:26.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.25202502421825557
+[11Dec2024 22:23:26.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.7377012951410507
+[11Dec2024 22:23:26.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.7377012951410507
+[11Dec2024 22:23:27.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.33059855475448785
+[11Dec2024 22:23:27.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.8716382628799693
+[11Dec2024 22:23:27.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.41316284774802625
+[11Dec2024 22:23:27.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.9431706393388595
+[11Dec2024 22:23:27.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.44841425744607477
+[11Dec2024 22:23:30.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 0.7936356036975667
+[11Dec2024 22:23:30.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 1.7408111416516476
+[11Dec2024 22:23:30.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 2.0
+[11Dec2024 22:23:30.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 2.0
+[11Dec2024 22:23:30.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Diego919) moved wrongly! 2.0
+[11Dec2024 22:24:33.589] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[11Dec2024 22:24:33.591] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[11Dec2024 22:24:33.591] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[11Dec2024 22:24:59.684] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [5547d286-e0fe-4e74-a1bf-f2465718862e]
+[11Dec2024 22:25:00.284] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [1e92fb47-d0b2-4a90-9b6f-9c7160d20903]
+[11Dec2024 22:25:00.685] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [0ae000e8-4f08-49c9-b8c5-9fcc4bae3734]
+[11Dec2024 22:25:01.304] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [01b01b97-e12e-437a-94ca-b529d4072e3d]
+[11Dec2024 22:25:01.433] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [280b65b2-ddc2-448c-b519-e35f11b6c0df]
+[11Dec2024 22:25:01.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [16781e77-1e05-427f-b99c-e61c00fabb2a]
+[11Dec2024 22:25:02.233] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [aa8761b0-64c9-4c69-82c7-8a8bfc64b02a]
+[11Dec2024 22:25:02.483] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [379b421c-d8a5-4b45-8fb2-3c3aa3413fdb]
+[11Dec2024 22:25:03.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [caa003bf-65d7-45b8-bf16-71017d35cf3b]
+[11Dec2024 22:25:03.432] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [271dd8f2-bef0-4b49-92e1-6cdce8071c95]
+[11Dec2024 22:25:03.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [16361c58-9939-4a2a-9a96-c4f52bb43c12]
+[11Dec2024 22:25:04.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [243369db-8008-4daf-9034-46b517e912db]
+[11Dec2024 22:25:05.531] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [7ef626a0-9430-49bb-952c-033cf711a833]
+[11Dec2024 22:25:05.681] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [e354469d-fb11-497c-afa7-b8b4c63d6756]
+[11Dec2024 22:25:06.785] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [46b87356-db54-4660-af74-1b2c8f32d7c9]
+[11Dec2024 22:25:29.012] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [73bda72c-9cbf-4b53-9c4f-725446668d48]
+[11Dec2024 22:25:30.503] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [6cd1dc75-b156-488b-8b63-10e08220d357]
+[11Dec2024 22:27:39.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 22:27:39.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 22:28:44.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/26117, l='ServerLevel[world]', x=1138.52, y=290.00, z=-3850.66]
+[11Dec2024 22:28:48.030] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.74 and blood value 0 for entity irons_spellbooks:summoned_polar_bear
+[11Dec2024 22:32:39.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 22:32:39.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
