@@ -4034,3 +4034,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Dec2024 17:33:58.765] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
 [24Dec2024 17:33:58.765] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [24Dec2024 17:34:00.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[24Dec2024 19:00:18.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 19:00:18.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 19:00:18.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 19:00:18.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 19:00:21.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 19:00:21.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 19:00:21.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 19:00:21.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[24Dec2024 19:00:22.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 19:00:22.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 19:00:22.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 19:00:22.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[24Dec2024 19:00:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 19:00:22.128] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
