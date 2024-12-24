@@ -9542,3 +9542,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Dec2024 18:14:00.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 18:19:00.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 18:19:00.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 18:24:00.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 18:24:00.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 18:29:00.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 18:29:00.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
