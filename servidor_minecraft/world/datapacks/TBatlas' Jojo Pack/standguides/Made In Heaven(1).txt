@@ -1,0 +1,166 @@
+==============================================
+============  Made In Heaven==================
+============From Stone Ocean =================
+==============================================
+
+======================================================
+============Index=====================================
+======================================================
+1.Background
+
+2.Obtaining
+
+3.Abilities
+
+4.Universe reset details
+
+=======================================================
+==============Background ==============================
+=======================================================
+	Made In Heaven is the stand of Enrico Pucci. It is the final
+form of C-moon, and has mastered he ability to control gravity.
+As discussed by Einstein in his General Theory of Relativity,
+gravity is not a 'force', but rather a bending of spacetime due
+to the mass of objects. This explains the phenomenon of gravitational lensing,
+where gravity appears to bend light despite the fact that classically
+gravity is a force that may only effect particles with mass. Made In Heaven
+uses this influence over gravity to accelerate time.
+	This acceleration is only visible for inanimate objects. Living things,
+like people, will experience everything around them happening faster, becoming
+slow relative to their surroundings. Only pucci is unaffected by this, giving himself
+an immense speed advantage over his opponants. 
+	Eventually, time accelerates to the point where the universe comes to an end, 
+unleashing Made In Heaven's true ability: to create a new universe with rules dictated by Pucci. 
+In this universe, everyone knows their fate. To Pucci, this is a perfect world, where all can
+live in peace knowing what is to happen to them. But really this just drives the world
+into a mass hysteria, so.. maybe not the best idea.
+
+In summary, Made in Heaven can go fast.
+
+===================================================
+============= Obtaining ===========================
+===================================================
+In order to obtain Made In Heaven, you must meet
+three requirements while using C-moon:
+
+1) you must find a location that places you at or above
+y=319.
+
+2)You must be at experience level 29 (a prime number) or higher
+
+3)It must be during the new moon. During this phase of the moon,
+	C-moon will have particle effects surrounding itself to let
+	the user know it is time.
+	
+	If all three of these requirements are met, and there are no
+other active Made in Heaven users, C-moon will begin flashing.
+At this point, using a Bible will turn C-moon into Made In Heaven,
+as well as summon pucci (but don't worry about him he's just there to 
+watch).
+===================================================
+=============Usage=================================
+===================================================
+Directions on how to obtain Made in Heave are given in the previous
+section. After evolving C-moon into Made in Heaven, you will be granted
+4 items:
+
+1)Made In HEaven- This miniature version of Made In Heaven is what you use to summon
+	your stand. Placing this item in the far right slot of your hotbar 
+	will summon Made In Heaven. Placing it into your off-hand (I like to use 'f' to swap them)
+	will de-summon your stand.
+
+	Right-clicking this item will allow you to 'silence' your stand. Silencing your stand
+	will prevent stand items from being placed back into your inventory after you drop them,
+	which can be useful to save inventory space. Additionally, right-clicking your stand item
+	while silenced will replace all of your items. Item's for Made In Heaven are not automatically
+	replaced every time you drop or otherwise remove them from your inventory, so it is possible
+	to simply remove all of Made In Heaven's item's from your inventory while not silenced.
+
+2)Slash / Barrage- This item works similar to other stand's punch/barrage items. 
+	Right clicking this item while it is in your mainhand will cause it to punch.
+	Made in Heaven's punches will change depending on whether or not time is currently
+	accelerated. When time is accelerated, Made in Heaven will leap further in front of the
+	player, have afterimages, and have a slightly larger hitbox.
+
+	Placing this item into your off-hand causes Made In Heaven to barrage. Made In Heaven's
+	barrage deals high damage relative to other stand's barrages. If time is not accelerated,
+	Made in heaven will simply barrage in front of the player. However, if time is acceleraed,
+	Made In Heaven will seek out nearby entities and strike them at rapid pace, leaving
+	afterimages. This seeking barrage will target mobs in front of you in a relatively broad
+	radius.
+
+3)Fly- This ability allows the made in heaven user to fly. Right clicking
+	this item will toggle Made In Heaven's user's flight. When in flying mode,
+	Holding down shift / crouching will cause the user to fly in the direction
+	they are facing. The more time has accelerated, the faster the user
+	will fly.
+
+4) Time Acceleration / Universe Reset - This is Made In Heaven's primary ability.
+	In order to reset the universe, Made in heaven must first start accelerating time.
+	There are several phases to this ability, each with different attributes. In order to advance a phase,
+	Right click this item in your main-hand. Placing this item in your off-hand will allow you to return
+	to the previous phase / cancel time acceleration. If the made in heaven user dies during any
+	stage, effects of time acceleration are removed.
+	
+	Phase one- In this phase, Made in Heaven's time altering effects are only felt near the user.
+		Nearby projectiles are sped up, while nearby mobs and players are slowed down. Additionally,
+		Made in Heaven's flight speed is increased substantially, and it's barrage and slash are replaced
+		with faster afterimage variants.
+	
+	Phase two- In this phase, time acceleration becomes global, though it is still felt stronger
+		near the made in heaven user. Projectiles now move even faster, and afterimages will appear
+		around the made in heaven user. The day/night cycle starts to move faster. This is the best
+		stage for other players to try to ki
+
+	Phase three- During this phase, it becomes clear that Made in Heaven's user intends to reset the universe.
+		Functionally it is very similar to phase two, however in this stage the MIH user is granted
+		resistance, and afterimages will kill hostile mobs. The day/night cycle will move at an increasingly
+		greater rate. If a player is killed during phase 3 while the universe is resetting, they will lose
+		their stand if the made in heaven user choses to reset the universe. The only way for them to get
+		it back is to un-reset the universe, after which they will recieve it back as a stand disc.
+		
+	Phase four- Universe reset. After a substantial cooldown during phase three, the Made In Heaven user
+		gains the ability to create a new universe. The rules of this new universe are detailed in the
+		following section. After this ability is used, MIH reverts back to phase 'zero', with no time altering
+		abilities active.
+===================================================
+=============The New Universe======================
+===================================================
+	The universe Made in Heaven creates is identical to
+the previous one, except all humans now know their fate. 
+In canon, this knowledge freaks everyone out, but in minecraft
+it may be useful to you. 
+	Upon entering the new universe, and subsequently after every death,
+non-MIH players will recieve a message detailing how they are fated to die.
+Your fate may be to get shot, or to be murdered, or to fall to your death.
+The only exceptions are that 1) the MIH user may kill you at any time, and
+2) GER may use it's Return To Zero ability to change their fate.
+	
+After respawning/the universe reset, the chances of each player
+dieing from their respective fate begin to increase. After about
+10 minutes the chances of dieing from your fate are maximized.
+	
+However, it is important to note that if you are fated to die from
+drowning, you will ONLY die from being in the water too long. This means
+that you can exploit knowledge of your fate beforehand, fighting mobs with little
+no concern of taking real damage. For real life humans, knowledge of our deaths is a 
+terrifying prospect. But to minecraft characters, it is an exploitable gameplay
+mechanic. Perhaps Pucci was right.
+
+Let's say hypothetically that you don't enjoy dieing every 10 minutes. 
+There are three ways to un-reset the universe:
+
+1) kill the Made in Heaven user
+
+2) Have the made in Heaven user store their stand
+	
+3) Disc Made in Heaven with Whitesnake
+
+When the universe is un-reset, everything goes back to normal. It is up
+to you whether or not this new reality is better than the previous.
+
+That's all, hope you enjoy the datapack. 
+Give it a diamond and all that, and have a good day ;).
+
+
+		

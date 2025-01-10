@@ -1,0 +1,287 @@
+=====================================================================================
+=================Silver Chariot For Minecraft 1.20+=================================
+=====================================================================================
+
+==================
+====Glossary======
+==================
+1.Introduction
+2.Installation
+3.Usage
+4.Chariot Requiem
+
+====================================================
+============Introduction============================
+====================================================
+Silver Chariot is the stand of Jean Pierre Polnareff.
+It's ability is kind of basic: It has a sword and is
+fast. Additionally, Silver Chariot may remove it's
+armor to gain even more speed, and can even shoot
+the blade of it's foil at an enemy if the user is in
+trouble. 
+
+Silver Chariot does, however, gain a new set of abilities
+many years after it's introduction in the form of
+Chariot Requiem. Chariot Requiem's abilities are
+ill-defined within the source material, however it
+appears able to manipulate souls, and by extension stands.
+It is a very dangerous stand, however it's potential
+is never truly realized, as it's user does not
+control it. 
+
+In this datapack, however, you will get the 
+opportunity to control Chariot Requiem- that is,
+if you can get it under control first.
+
+====================================================
+============Installation============================
+====================================================
+Instructions for installation can be found in the
+"ReadMe" file.
+===============================================
+===============usage==========================
+==============================================
+To unlock Silver Chariot, you first need a stand arrow.
+To 'craft' a stand arrow, throw a Nether star on
+the ground with a spectral arrow. The nearest player will
+then recieve a 'stand arrow'. 
+
+Afterwards, you must throw the stand arrow onto the ground,
+and then throw an iron ingot onto that. You will then
+unlock Silver Chariot forever, and recieve 4 items:
+1)A miniature Silver Chariot
+2)An Item labeled "strike"
+3)Another Item labeled "Armor"
+3)And an Item labeled "Eject Blade/Deflect"
+
+####Note: The game will give you these items back if you
+	drop them or Die.
+
+Mini SC: This item is used to summon your stand. Simply
+	Place it into your 9th inventory slot (the furthest
+	slot to the right on your hotbar) to summon Silver Chariot.
+	To De-summon, place this item into your off-hand.
+
+Strike: This item controls all of the basic sword attacks of Chariot.
+	If you click with this item, Chariot will go in front of
+	you and, after a short delay, stab with it's sword.
+	The hitboxes for most of SC's moves are smaller than
+	other stands such as Gold Experience, so you have to 
+	be precise with your aim. If this move hits, Chariot
+	will impale the target, and hold them on it's sword
+	for a couple seconds.
+
+	Putting this item into your off hand will cause Chariot 
+	to do a barrage, constantly damaging your opponent.
+	The hitbox of this move is small as well, however it can
+	be used directly after impaling an opponent. Using
+	Chariot's barrage does not cancel the impaled effect,
+	and the impaled target will be held in place for your 
+	barrage. 
+
+		I like to use 'f' to swap my main and offhand
+	items quickly.
+
+Eject Blade/Deflect: 
+		This item has two distinct uses. Clicking with this
+	item in hand will cause SC to stand in front of the user, then 
+	launch it's blade. This ejected blade does a large amount of
+	damage, however using it is slow and will disable the rest of Chariot's
+	abilities until the user retrieves the ejected blade.
+
+		Putting this item in your off-hand will cause Chariot
+	to stand in front of the user and swing it's sword in a circle,
+	deflecting all projeciles it hits, inluding fireballs, arrows,
+	snowballs, etc.. Deflected projectiles will
+	be sent in the direction the user is looking, though it is
+	not exact. This move will not deflect projectiles which are
+	aimed at the user's back.
+
+Armor:	This Item is rather simple. Clicking with this item in hand
+	will cause Silver Chariot to remove it's armor. With it's armor
+	removed, Silver chariot becomes faster, but sacrifices health.
+
+	Without it's armor, the user's max health will drop, however
+	they will gain 1.5x movement speed. Additionally, Chariot's
+	moves will trigger faster, and it's barrage will do more damage.
+	
+	In order to put it's armor back on, just put the Armor item into
+	your off-hand.
+
+
+============================================
+============Chariot Requiem=================
+============================================
+In order to unlock Chariot Requiem, you must
+craft another arrow. Unlike Gold Experience Requiem,
+you will actually get to keep the arrow after using it.
+After crafting another stand arrow, throw it on the ground, and 
+move Silver Chariot onto it. Once you do this,
+you initiate the Chariot Requiem boss fight.
+
+Since the Chariot Requiem fight is supposed to 
+be disorienting, I'll wait until the bottom
+of this document to explain each stage. 
+
+Once you defeat Chariot, you will be
+able to control Chariot Requiem yourself. Once
+you do this, you will gain 4 new items:
+
+1)Chariot Aura
+
+2)Control Stand
+
+3)Swap Body
+
+4)Chariot Requiem
+
+At this point, you may discard the remove armor item,
+silver chariot item, and eject blade item, as 
+they no longer do anything. 
+
+"Strike", however, still
+retains it's pre-requiem function. Clicking will
+cause Chariot to impale a target in front of the user,
+and placing this item in your off-hand will cause
+Chariot to do a barrage. Chariot Requiem does
+slightly more damage than Silver Chariot.
+
+The "Chariot Requiem" item replaces the "Silver Chariot"
+item, and is used to summon and de-summon your stand.
+
+New items:
+
+1)Chariot Aura
+	Clicking this item will toggle Chariot
+Requiem's sleep aura. When this aura is active,
+shadows will appear by nearby mobs, and they
+will begin to sleep. Additionally, a shadow
+will appear behind Chariot itself. Clicking this item
+again will turn the aura off. This aura is necessary
+for some of Chariot's other abilities. It should be
+noted, however, that it does not effect players.
+
+	Placing "Chariot Aura" into your
+off-hand will cause nearby players to be randomly put into nearby
+mobs. This is an effective way to ward players away,
+however if the enemy player is already possessing a mob
+they will not be teleported away. When the mob an enemy
+player is possessing dies, they will return to being
+normal players, and will not die themselves.
+
+2)Become Stand
+	This item is pretty straightforwards. Clicking
+with this item in your hand will cause you to become
+chariot requiem. While you are chariot requiem, you gain
+additional defence at the cost of speed. While you are
+Chariot, you can still use "Strike" and "Chariot Aura", however
+un-summoning your stand and Body Swap are disabled. You
+also will be invisible to mobs if you do not wear armor.
+	If you are having trouble using items while
+controlling Chariot Requiem, try walking forwards and using them.
+Minecraft doesn't like it when you use items while inside of 
+entities.
+
+3)Swap Body
+	This item allows the Chariot Requiem user to
+possess nearby mobs that have been put to sleep by
+chariot's aura. When this item is held, a marker
+will appear in front of the user. The mob that is nearest
+to this marker will begin to glow, and if the user clicks
+they will move into the selected mob. Certain mobs have
+special characteristics, most notably bats, which will
+fly if you look upwards. 
+	If the Chariot user is low health, this ability can be used to 
+quickly escape and heal. The Chariot user will gain health
+every time they use this ability, however there is a major-risk
+that the possessed mob dies. If the body you possess dies, you
+also die. Therefore, you want to be careful with low-hp mobs
+like bats or small slimes, as well as undead mobs which burn in the sun.
+	Placing the swap body item into your off-hand
+will cause the user to return to their normal body, however
+there is a 20-second cooldown after you possess a mob. This gives
+other players the opportunity to kill the mob you inhabit before
+you can escape.
+
+=============================================
+==============Chariot Requiem================
+===============Boss Fight====================
+=============================================
+	The Chariot Requiem fight begins the
+moment silver chariot touches the stand arrow.
+You can do this by using "strike" or by using
+the deflect projectile ability. 
+
+Phase 1)
+	When the fight begins, everyone on the
+server will be teleported into a random mob roughly
+50 blocks away from chariot. The first thing 
+they must do is find Chariot, which, depending
+on which mob you are put into, can be very difficult.
+	Chariot also puts mobs to sleep, meaning
+that most hostile mobs will be dormant for the duration of the fight.
+It is actually not a bad idea to initiate the fight at night, as
+more mobs on the surface of the world increases the
+probability that you will not be put into a mob within
+a cave. Phase 1 ends once Chariot takes damage.
+	Chariot Requiem also disables the use of stands 
+nearby, other than Gold Experience Requiem.
+
+Phase 2) 
+	After taking a little damage, Chariot Requiem will
+drop it's arrow, which will glow brightly. Chariot will
+attack any player who picks up this arrow, and will not
+take any damage during phase 2. The only way to end this phase
+is to give Chariot it's arrow back. Sometimes, Chariot will
+pick it up on it's own.
+	This stand arrow is a functional stand-arrow, and
+can be used to get a stand if you want to. This will, however,
+leave Chariot Requiem 
+
+Phase 3)
+	Phase 3 is similar to PHase 1. Chariot will
+wander arround, and will not attack anyone who does not attack
+it first. However, this time Chariot will have Gold Experience,
+which will server as a bodygard, and attack nearby players periodically.
+This stage is best handled by using ranged weapons, or by attacking
+Chariot when Gold Experience has already attacked recently. Bringing
+Chariot down to roughly one-half of it's total health will bring
+it into stage 4.
+
+Stage 4)
+	Same thing as stage 2.
+
+Stage 5)
+	The final stage of the Chariot requiem fight.
+Once in stage 5, Chariot requiem will place the players back
+into their original bodies. Additionally, a shadow
+will appear behind Chariot.
+	If players approach Chariot Requiem during this stage,
+two things will happen:
+
+1)nearby mobs that are put asleep by chariot will, one by one,
+get angry at players that approach Chariot and attack them.
+
+2)A soul-fire orb will appear behind the nearby player.
+
+For the first half of this stage, Chariot takes damage the
+same way it always does- by attacking it directly. However,
+once Chariot gets to roughly 30 hp, it will no longer take damage.
+
+	Canonically, the reason Chariot's shadow always appears
+on the opposite side of the observer is because it is the shadow
+of one's own soul. In order to create this shadow, an orb of
+light appears behind the nearby person. Attacking this orb does
+damage to Chariot, however, can be fatal, as attacking the orb
+attacks your own soul.
+
+	Therefore, in order to finally defeat Chariot, you
+must attack the light orb which appears behind you when nearby
+Chariot. This is particularly hard to do, especially if Chariot
+is angry at you, and if you do not have armor on it can kill you.
+Using a stronger weapon will do more damage to Chariot, however
+all attacks reflect the same amount of damage. Once Chariot is
+at 0 hp, you win, stands are re-enabled, and the Silver chariot 
+user will be able to use Chariot Requiem.
+
+=============================================================

@@ -1,0 +1,160 @@
+====================================================
+==========Wonder of u==============================
+==========From Jojolion for Minecraft 1.20+=========
+====================================================
+Also Note: This stand can be used in multiplayer,
+	but will not work properly if more than one person has
+	'Wonder of U' on a server.
+====================================================
+=================Index=============================
+====================================================
+1.Background
+2.Installing
+3.Usage
+====================================================
+=================Background=========================
+====================================================
+	"Wonder of U" is the stand of Tooru from
+Jojo's Bizzare Adventure part 8, Jojolion. 
+	Wonder of U usually takes the form of an elderly
+rock human, and takes on the persona of "Akefu Sotoru", head doctor
+of TG University Hospital. The true Akefu Sotoru died years ago,
+and 'Wonder of U' assumes his identity. His appearance seems to be that
+of a rock human, a separate 'species' of human that is silicon
+based instead of carbon based. Wonder of U appears to have
+a very long range, and can be controlled remotely from across
+the entire town of Morioh.
+
+	From what we've seen in the manga so far, The Wonder
+Of U appears to have 2 main abilities.
+
+1)Appearance change: Wonder of U can change its appearance
+	from it's normal, robotic look to that of Akefu Stotoru.
+	When The Wonder of U is in this form, it can be seen
+	by non-stand users.
+
+2)Calamity: This ability is activated whenever someone even has
+	the intent of "pursueing" the head doctor. When "calamity"
+	is activated, the pursuers will begin to be hit by a wave of bad
+	luck, bumping into objects and being severely injured by even 
+	small objects like rain drops. This ability also takes the form
+	of a manifestation of the Head doctor appearing near those affected
+	by 'calamity'. If someone does not have the intent to
+	pursue the head doctor/has not been marked personally by Tooru,
+	they will not be able to see these apparitions of the head doctor,
+	but may be 'caught up' in the calamity, and hurt.
+		The ability also appears to do damage based on your 'karma'.
+
+====================================================
+============Installation============================
+====================================================
+Instructions for installing are located
+in the ReadMe file.
+====================================================
+=================Usage==============================
+====================================================
+In order to obtain 'Wonder of U', you need to first craft
+a Stand Arrow. To do this, drop a Nether Star on the ground, then
+drop a Spectral Arrow on top of that. Be careful not to shoot
+this arrow, since it won't be recoverable. 
+
+Once you have the stand arrow, drop it on the ground, followed by an 
+Ender Pearl. You will then have 'the wonder of u', and recieve 4 items:
+
+1) 'Wonder of U'. Putting this item in your 9th inventory slot
+(the one furthest to the right in your hotbar) will summon your stand.
+To un-summon it, place this item into your off-hand. Clicking this item
+will Silence your stand. Silenced stands will have ability items turned off,
+allowing the user to free up inventory space.
+
+2)'Control Stand'. Clicking this item will swap you and your stand,
+replacing you with a model of tooru (I've uploaded the skin
+to planetminecraft if you want it to match). You will then become your
+stand, and be able to control it freely. Clicking again will put you back 
+to where you used the ability originally. You can go as far away as you
+want with this stand, and additionally you can use this to transfer
+items between yourself and your stand location. 
+	Placing this item into your off-hand will cause your stand
+to return to you. You may also use other items while controlling your
+stand directly.
+
+Note:if "tooru" is hit by any other player while the user
+	is remote controlling WOU, they will automatically
+	be brought back.
+
+3)'Change stand form'. Clicking this item will cause your stand
+to cycle through each of wonder of U's 3 forms. Each 
+form has a different ability(These are explained in the next
+ item description) These 3 forms are:
+	1)Pure Stand
+	2)Stand/Head Doctor
+	3)Head Doctor
+
+4)'Punch/Become Immaterial/Crazy Train'. This item does different
+things depending on which form your stand is in.
+
+a)Pure Stand- In WOU's base form, it functions similar to other stands.
+	While WOU was never canonically seen using physical attacks
+	against it's enemies, we can assume that the two massive
+	blades on each of it's arms would likely hurt if they hit
+	you. 
+
+	Clicking with this item will cause WOU to do a quick slash
+	in front of the user.
+
+	Placing this item in your off-hand will cause WOU to
+	move in front of you and barrage. It is not particularly
+	powerful.
+
+b)Half Stand half doctor- In this form, WOU's ability puts you into
+	spectator mode for a limited time, alowing you
+	to pass through solid objects. In order to use this ability, 
+	you must be controlling your stand. Very useful for getting around.
+
+	If you are not controlling your stand, this ability will allow
+	the user to trigger calamities to nearby mobs. More details on
+	that in the "Head Doctor" section.
+
+c) Head Doctor- 'Calamity'. This ability will mark any mob or player within a
+	small radius around the player for 'calamity'. Upon using this ability,
+	an apparition of the Head doctor will appear near the effected player, moving
+	slowly. If the effected players/mobs attempt to 'pursue' either these apparitions
+	or the Stand itself, they will be met with the effects of calamity, which will become
+	more intense if the pursuer gets closer to the head doctor.
+
+	These include:
+		-nearby hostile mobs becoming stronger and doing more damage
+		-boats and minecarts bumping into the player, doing damage
+		-rain doing damage, and lightning striking the player if they get too close
+		-falling blocks and projectiles being drawn to the player
+		-tnt minecarts exploding
+		-Items and projectiles flying at the player to do damage (if toggled on)
+
+	Additionally, hostile mobs that are near the User in this form will become weaker, and
+	creepers will 'misfire', doing no damage. 
+
+	There are also special cases for the ender dragon and wither. The
+	Wither will draw in creepers and cause them to explode, doing significant damage.
+	The Ender dragon will draw in tnt-minecarts, which will explode and do damage,
+	but not a lot. You can use this stand to kill the Ender Dragon, but it will
+	not necessarily be easy. It is mostly meant to deter other players.
+
+	In order to stop these effects, crouch and right click the Calamity
+	Item. This will remove calamity effects from the nearest calamity
+	effected entity. 
+
+	Placing this item in your off-hand allows the user to toggle
+	Item Calamity. When this option is on, items near enemies will
+	fly at them and do great damage, especially if they are near the
+	WOU user. This will also effect projectiles. This option
+	is toggleable, as keeping it on causes arrows/eggs to not
+	function normally, and I figured that you might want to be
+	able to use those items sometimes :P.
+
+
+Also, putting 24 Gold ingots in the top left inventory slot, 2 poppies in the slot to the right,
+a diamond axe one more slot to the right, controlling your stand, and crouching will be neat
+so do it :P.
+
+
+		

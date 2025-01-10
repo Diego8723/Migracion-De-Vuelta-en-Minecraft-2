@@ -1,0 +1,117 @@
+=====================================================================================
+=================Mandom For Minecraft 1.20+=================================
+=====================================================================================
+
+==================
+====Glossary======
+==================
+1.Introduction
+2.Installation
+3.Items
+====================================================
+============Introduction============================
+====================================================
+Mandom is the stand of Ringo Roadagain, a minor antagonist
+and agent of Funny Valentine in Jojo's Bizarre Adventure
+Part 7: Steel Ball Run. 
+
+Mandom has one simple ability: to rewind time near himself
+6 seconds into the pst. Ringo, an accomplished and
+skilled deulist, uses this ability to bring out the
+best in his opponants before ultimately defeating them.
+====================================================
+============Installation============================
+====================================================
+There are several youtube tutorials on how to install
+datapacks, but all you have to do is place the above
+file into the "datapack" folder located within your
+world. Upon creating a new world,
+you can click the "datapack" button. Then,
+click "add datapacks" and drag and drop this datapack
+into the folder opened by that option.
+
+Additionally, you need to install the resourcepack.
+This resourcepack is located on the Planetminecraft
+page for this datapack. The download link for the resourcepack
+is located directly below the download button for the datapack.
+To install a resourcepack, all you have to do is put the 
+resourcepack file into the resourcepack file located at
+"/%appdata%/roaming/.minecraft/resourcepacks".
+
+===============================================
+===============Items==========================
+==============================================
+There are two methods to unlock mandom:
+
+1)obtain a stand arrow by craftin a nether star or netherite
+	ingot together with a spectral arrow to obtain a 
+	stand arrow.
+
+2)stumble across a devil's palm and obtain a piece of
+	the holy corpse.
+
+Afterwards, you must throw the stand arrow/corpse part onto the ground,
+and then throw a piece of leather on top. Doing so will
+grant the nearest player "Mandom".
+
+You will be rewarded with two items:
+
+1)a Mandom item
+2)A fancy revolver
+
+####Note: The game will give you these items back if you die.
+
+Revolver: Mandom's user gets a special revolver that is
+	much more powerful than those craftable by other players.
+	To use this revolver, the user must first load it with
+	bullets. You can craft bullets by surrounding gunpowder
+	with 8 iron nuggets in a crafting table. 
+
+	Right clicking will fire a single bullet. These
+	bullets will go a long distance, and do substantial
+	damage upon landing, as well as a small amount of
+	splash damage to nearby mobs.
+
+	If the user crouches, they will fire a quicker shot
+	that goes in a straight line, does more damage, but
+	has a limited range.
+
+	Normal revolvers also have a damage buff when used
+	by mandom's user, so there's that as well!
+
+
+Mandom: Summoning this stand works differently than others
+	in this pack, as it is a stand worn by it's user
+	rather than a separate entity. Placing this item
+	into your off-hand will Summon Mandom, and allow
+	you to access it's ability. 
+
+	When used in the user's main hand, mandom will
+	cycle through 3 modes:
+		1)Terrain Rewind enabled, which allows time rewind to rewind terrain
+		2)Terrain Rewind disabled, disables terrain rewinding, which is less laggy
+		3)silenced, which prevents the stand from using abilities and clears up inventory space.
+
+	While summoned, time rewind can be accessed. Right-clicking with
+	your main hand open will select the moment to rewind to. Afterwards,
+	the user can choose to rewind earlier by clicking again. Or, they
+	can wait the full 10 seconds (I gave u guys extra time ;) ) and cancel
+	the ability. Time rewind has almost no cooldown, so it is a very easy
+	ability to spam.
+
+	Time rewind is exactly what it sounds like: returning to the original
+	time. The effects of this include:
+		>returning entities to their original locations
+		>returning entities to their original health
+		>returning surrounding terrain to it's previous state
+		>returning player's inventories to how they were
+
+	and many more. It goes pretty in depth. The one thing
+	Mandom will NOT reverse is Death, which means that the user
+	may use it to re-run a scenario with some combatant until they
+	get the upper hand. The only things it cannot rewind are
+	GER and Tusk act 4's projectiles.
+
+Overall, Mandom is a simple stand with many combat uses.
+
+um I think that's it? Yeah. Enjoy it!

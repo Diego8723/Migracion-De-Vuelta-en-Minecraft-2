@@ -1,0 +1,132 @@
+=====================================================================================
+=================Crazy Diamond For Minecraft 1.20+=================================
+=====================================================================================
+
+==================
+====Glossary======
+==================
+1.Introduction
+2.Installation
+3.Items
+4.Debris
+====================================================
+============Introduction============================
+====================================================
+Crazy Diamond is the stand of Josuke Higashikata, protagonist
+of Jojo's Bizarre Adventure Part 4: Diamond is Unbreakable.
+Crazy Diamond is a large close-ranged stand with hysical power that
+rivals even that of Star Platinum.
+
+Crazy Diamond's one and only ability
+is to restore objects and people to a previous state.
+This ability is usually used to heal injured allies or
+repair broken terrain, but can also be used to uncook
+spaghetti (It happened).
+====================================================
+============Installation============================
+====================================================
+The file above this ReadMe is the datapack itself.
+There are several youtube tutorials on how to install
+datapacks, but all you have to do is place the above
+file into the "datapack" folder located within your
+world. Upon creating a new world,
+you can click the "datapack" button. Then,
+click "add datapacks" and drag and drop this datapack
+into the folder opened by that option.
+
+Additionally, you need to install the resourcepack.
+This resourcepack is located on the Planetminecraft
+page for this datapack. The download link for the resourcepack
+is located directly below the download button for the datapack.
+To install a resourcepack, all you have to do is put the 
+resourcepack file into the resourcepack file located at
+"/%appdata%/roaming/.minecraft/resourcepacks".
+
+===============================================
+===============Items==========================
+==============================================
+To unlock Crazy Diamond(CD), you first need a stand arrow.
+To 'craft' a stand arrow, throw a Nether star or Netherite Ingot on
+the ground with a spectral arrow. The nearest player will
+then recieve a 'stand arrow'. 
+
+Afterwards, you must throw the stand arrow onto the ground,
+and then throw a diamond onto that. You will then
+unlock Crazy Diamond forever, and recieve 3 items:
+
+1)a miniature Crazy Diamond
+2)A fist labeled "Punch / Barrage"
+3)An Item labeled "Toggle Restoration Mode"
+
+####Note: The game will give you these items back if you die.
+
+Mini CD: This item is used to summon your stand. Simply
+	Place it into your 9th inventory slot (the furthest
+	slot to the right on your hotbar) to summon CD.
+	To De-summon CD, place this item into your off-hand.
+
+	Clicking this item will toggle whether or not the stand
+	is 'silenced'. Silenced stands will not have their
+	inventories constantly replenished. If you do
+	not plan on using your stand and need inventory space,
+	then silencing is a good idea.
+
+Punch / Barrage: Right clicking this item in your mainhand will
+	cause Crazy Diamond to move in front of you and throw
+	a powerful punch. This punch does a lot of damage, and
+	knocks hostile mobs back. 
+
+	If this item is placed into the user's off-hand,
+	Crazy Diamond will move in front of the user and 
+	release a barrage of punches. This can be
+	held indefinetly, and will deal less knockback
+	than the strong punch.
+
+Toggle Restoration Mode: This item has a lot of uses, and will
+	change the way Punching impacts the environment.
+
+	Right clicking with this item in your main hand will
+	toggle 'restoration mode'. When this is active,
+	Crazy Diamond will be surrounded by yellow particles.
+	While in restoration mode, Crazy diamond will HEAL
+	targets it hits instead of damaging them. Unfortunately,
+	the user cannot heal themselves. 
+
+	Restoration mode can be used to cure zombie villagers,
+	zombified piglins, turn skeleton and zombie horses into
+	normal horses, un-strip logs, turn cobblestone into stone,
+	fix cracked stone bricks, defuse tnt and creepers, fix anvils,
+	un-oxidize copper blocks, and repair lingering potions that 
+	have already been thrown onto the ground.
+
+	Right clicking while this item is in your off-hand
+	will toggle whether Crazy Diamond damages terrain objects
+	or not. If terrain damage is on, you will notice white particles
+	appear when you hold the "Punch / barrage" item. These particles
+	indicate the exact block Crazy diamond will destroy if it 
+	were to punch. While barraging, Crazy Diamond hits up to
+	4 blocks around the particles. Blocks hit will
+	become mobile 'debris', which is discussed
+	in the next section. 
+
+	Note:Blocks that usually get restored will NOT be fixed if
+		terrain damage is on, and will simply be
+		turned to debris.
+
+================================
+============Debris===============
+================================
+Debris are blocks that have been knocked away by Crazy Diamond.
+Debris objects are mobile, and can be knocked around by
+Crazy Diamond's strong punch. Hitting debris into mobs will
+damage them, but Debris will not deal damage if it is
+sitting still.
+
+If Crazy Diamond enters restoration mode, Debris within a 
+30-meter radius will be sent back to it's original position.
+Mobs too close to the restored debris will take a small amount
+of damage.
+
+
+
+um I think that's it? Yeah. Enjoy it!

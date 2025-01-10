@@ -1,0 +1,122 @@
+==============================================
+============  C - Moon========================
+============From Stone Ocean =================
+==============================================
+
+======================================================
+============Index=====================================
+======================================================
+1.Background
+
+2.Obtaining VIA Green Baby
+
+3.Using C-moon
+
+
+=======================================================
+==============Background ==============================
+=======================================================
+	C-moon is the stand of Enrico Pucci. It is comprised
+of a fusion between his original stand, Whitesnake, and the
+'Green Baby' (this is the 'Bizarre' part). C-moon's 
+abilities revolver around 'Gravity' and 'Inversion'. Primarily, 
+C-moon is able to make itself a reverse center-of-gravity, 
+repelling attackers away.
+	Additionally, due to it's inverting properties, C-moon's
+attacks are extremely powerful, able to end battles with
+only a single blow by inverting an opponant's body.
+
+
+
+===================================================
+=============Obtaining VIA Green Baby==============
+===================================================
+In order to obtain C-moon, you must first have Whitesnake.
+Then, you must obtain the "green baby". The process to
+obtain the baby is as follows:
+
+step 1: Collected 36 hostile mobs('sinners') in a
+	small area (30-block radius). It is useful
+	to disc them in order to keep them still.
+
+	I'd recommend someplace outside, or shaded,
+	as the process has the potential to destroy blocks.
+
+
+step 2: Summon pucci over. If you have collected
+	enough mobs, then pucci will begin the process.
+
+step 3: after waiting for a couple seconds, search
+	the trees that appear for the green baby. It
+	will appear in one of their trunks.
+
+step 4: approach pucci as a whitesnake user with
+	the green baby in hand. After a conversation,
+	he will grant you the ability to ascend your
+	stand into C-moon by right-clicking the baby.
+
+===================================================
+=============Usage=================================
+===================================================
+Directions on how to Obtain C-moon are given in the previous
+section. After evolving Whitesnake into C-moon, you will be granted
+4 items:
+
+1)C-moon- This miniature version of C-moon is what you use to summon
+	your stand. Placing this item in the far right slot of your hotbar 
+	will summon C-moon. Placing it into your off-hand (I like to use 'f' to swap them)
+	will de-summon your stand.
+
+	Right-clicking this item will allow you to 'silence' your stand. Silencing your stand
+	will prevent stand items from being placed back into your inventory after you drop them,
+	which can be useful to save inventory space. Additionally, right-clicking your stand item
+	while silenced will replace all of your items. Item's for C-moon are not automatically
+	replaced every time you drop or otherwise remove them from your inventory, so it is possible
+	to simply remove all of C-moon's item's from your inventory while not silenced.
+
+2)Punch / Barrage- This item works similar to other stand's punch/barrage items. 
+	Right clicking this item while it is in your mainhand will cause it to punch.
+	Cmoon's punches are powerful, and have a special ability where they 'invert' the 
+	target if it is a player, crippling them and causing their max health to decrease.
+	Punching an inverted player will un-invert them, but a two-hit combo with this
+	attack can be lethal. For mobs, this attack deals substantial knockback.
+
+	Placing this item into your off-hand causes C-moon to barrage. C-moon's
+	barrage deals high damage relative to other stand's barrages, and may
+	be used remotely. C-moon's strong punch also can be used remotely
+
+3)Remote control- Holding right click with this item in your main-hand will cause Whitesnake
+	to fly in the direction you are facing. Shift-right clicking with this item will
+	cause C-moon to move opposite the direction the user is facing.
+
+	Placing this item in your off-hand will return C-moon back to you. If C-moon goes too
+	far, it will automatically return.
+
+4) Gravity Manipulation- This item is C-moon's most powerful ability in
+	terms of battlefield manipulation. It has 3 functions:
+
+	a) Right-clicking this item in your main-hand will toggle C-moon's
+		repelling ability. Mobs within a wide range will be repelled
+		from C-moon, and any players who get close will also be pushed
+		back. This effect is stronger the closer entities get to C-moon.
+		Only the user, non-living objects, and GER are immune to this effect.
+
+	b) Shift-right clicking this item will enable low-gravity
+		movement to the C-moon user. This allows them to jump
+		high and fall slowly, mitigating any fall damage.
+
+	c) Right clicking this item while it is in your off-hand allows
+		the user to select mobs to be excluded from C-moon's
+		gravity. You can use this to prevent dogs, livestock,
+		or anything you don't want to get sent away from being launched.
+		
+		Using this item on a mob that has already been excluded will cause
+		them to be un-excluded, and once again effected by C-moon's repelling
+		ability.
+
+
+That's all, hope you enjoy the datapack. 
+Give it a diamond and all that, and have a good day ;).
+
+
+		

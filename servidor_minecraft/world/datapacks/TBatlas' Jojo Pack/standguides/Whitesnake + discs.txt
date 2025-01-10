@@ -1,0 +1,145 @@
+==============================================
+============Whitesnake========================
+============From Stone Ocean =================
+==============================================
+
+======================================================
+============Index=====================================
+======================================================
+1.Background
+2.Using Whitesnake
+3.Discs
+=======================================================
+==============Background===============================
+=======================================================
+	Whitesnake is the stand of Enrico Pucci, a priest
+who was corrupted by Dio. From Dio, Pucci learned of
+something called 'Heaven', but not in the traditional sense;
+To Pucci, heaven was being able to know your fate, and live
+peacefully with this knowledge. 
+	The process of attaining 'Heaven' led Pucci to obtain 
+many stands; However, Whitesnake was the stand he originally
+recieved from the arrow. Whitesnake's ability is to steal
+parts of other's souls in the form of CDs, disks. While simple,
+this ability is incredibly powerful. It allows pucci to take
+senses, memories, and most importantly, stands. 
+
+===================================================
+=============Usage=================================
+===================================================
+In order to obtain Whitesnake, you need to first craft
+a Stand Arrow. To do this, drop a Nether Star on the ground, then
+drop a Spectral Arrow on top of that. Be careful not to shoot
+this arrow, since it won't be recoverable. 
+
+Once you have the stand arrow, drop it on the ground, followed by black dye
+. You will then have Whitesnake, and recieve 3 items:
+
+1)Whitesnake- This miniature version of whitesnake is what you use to summon
+	your stand. Placing this item in the far right slot of your hotbar 
+	will summon Whitesnake. Placing it into your off-hand (I like to use 'f' to swap them)
+	will de-summon your stand.
+
+	Right-clicking this item will allow you to 'silence' your stand. Silencing your stand
+	will prevent stand items from being placed back into your inventory after you drop them,
+	which can be useful to save inventory space. Additionally, right-clicking your stand item
+	while silenced will replace all of your items. Item's for Whitesnake are not automatically
+	replaced every time you drop or otherwise remove them from your inventory, so it is possible
+	to simply remove all of whitesnakes item's from your inventory while not silenced.
+
+2)Punch / Disc- This item is whitesnake's main ability. Right clicking this item while holding
+	it in your main-hand will cause whitesnake to punch. This punch does a low amount of damage,
+	but does knock mobs away. 
+
+	Right clicking this item while it is in your off-hand (make sure you don't have any
+	tools in your main-hand) will cause Whitesnake to steal a disc from mobs and even players
+	in front of you. The type of disc you recieve depends on the type of mob you take it from.
+	Particles will appear above mobs nearby to indicate the type of disc they will give you.
+	
+	When mobs get disc'd, they lose their 'souls', and remain dormant until they recieve another
+	disc of either their type or another type.
+
+3)Remote control- Holding right click with this item in your main-hand will cause Whitesnake
+	to fly in the direction you are facing. Whitesnake's punch, disc, as well as it's acid ability
+	can all be used remotely.
+
+	Placing this item in your off-hand will return Whitesnake back to you. If whitesnake goes too
+	far, it will automatically return as well.
+
+
+===================================================
+=============Discs=================================
+===================================================
+	This section will detail the kinds of discs you can get
+and what they do. Discs are their own items which can be used by any player.
+Most discs are thrown, meaning you can disc things at range (though this
+feature is a tad bit glitchy- I'd recommend discing things at close range
+to be safe). However, some discs are instant-effect, and will be used by
+the player.
+
+Water Disc- This disc is obtained by mobs that are aquatic. Placing
+	this disc into another mob will cause them to believe they
+	are aquatic. Mobs under this effect will take damage unless they
+	submerge themselves in water.
+
+Passive Mob Disc- This disc is taken from mobs that don't typically
+	attack players, like cows. Hostile mobs hit by the passive mob
+	disc will become 'pacified', and no longer seek to kill players
+	and/or villagers.
+
+	Players hit by the passive mob disc will lose the ability to 
+	seriously harm other creatures.
+
+	Passive mob discs may even be used to un-steal villagers,
+	though they won't get their original trades back.
+
+Hostile Mob Disc- This disc comes from mobs that are hostile. Placing
+	this disc into a passive mob will cause them to attack players
+	and villagers, however mobs made hostile by whitesnake will NOT
+	attack the whitesnake user.
+
+	As per usual, if a hostile mob that has had it's disc stolen
+	is hit with a hostile mob disc, it will return to normal.
+
+Creeper Disc- Mobs hit by the creeper disc will take on the properties
+	of creepers and explode if players get too close. It doesn't
+	make a lot of sense, but Pucci made a frog explode for no reason
+	in the show, so I figured this is a smaller leap in logic than that scene.
+
+Acid Disc- Acid discs can be obtained by discing a slime. These discs give
+	Whitesnake the ability to, upon use, release a cloud of acid which poisons
+	and slows all mobs and players nearby. This ability is particularly useful
+	when remote-controlling whitesnake, as it has a broad hitbox, and prevents
+	targets from escaping.
+
+Vision Disc- Vision discs are stolen from players. When a player is disced, they lose
+	their sight temporarily. If they are not a stand user, the story ends here. But...
+
+Stand Disc-Players who are stand users AND who have had their vision stolen with become
+	vulnerable to having their stand stolen for a short window. If whitesnake
+	successfully discs a blinded player, their stand will be turned into a disc. However,
+	unlike other discs, this one will be given to the player who had their stand stolen rather
+	than the whitesnake user themself. What this means is that in order to actually steal
+	another player's stand, Whitesnake must not only steal their stand disc, but also
+	kill them so that they drop it (or simply ask politely IDK). Stealing stands is an
+	incredibly powerful ability, so I wanted to make sure that it was balanced in some way.
+	I think this is a fair middle-ground.
+
+Villager disc- The final and potentially most useful disc is the villager disc. 
+	When you Disc a villager, you will recieve a disc containing all of their trades.
+	This disc may then be used on any other villager, essentially allowing you to
+	bring your favorite trades wherever you go!
+
+	Just make sure to keep track of which villager's disc is which. It is important
+	to supply your villagers with the correct workstations- even disked villagers-
+	because they may otherwise lose their profession.
+
+	Also, Villager discs are dropped at the feet of villagers instead of automatically
+	give to the WS user. 
+	
+
+That's all, hope you enjoy the datapack. 
+Give it a diamond and all that, and have a good day ;).
+
+
+		

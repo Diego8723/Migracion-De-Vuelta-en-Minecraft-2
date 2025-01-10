@@ -1,0 +1,503 @@
+============================================
+==========D 4 C Datapack for================
+===========Minecraft 1.20+==================
+============================================
+
+Contents:
+	Overview and background information
+	Install istructions
+	Revolver mini-guide
+	Usage and abilities guide
+	Clone Guide
+	Tips
+
+--------------------------------------------
+Overview and background information
+--------------------------------------------
+Dirty Deeds Done Dirt Cheap, or 'D4C', is the
+stand of the President of the United States,
+Funny Valentine. D4C's ability is to access
+parrallel dimensions. He uses this ability to
+summon clones of himself, who all work in concort
+to pursue Valentine's ultimate goal of collecting
+the holy corpse, which consists of 13 pieces
+spread across America.
+
+Eventually, all pieces are collected. They take
+a girl named Lucy Steel as their host, giving her
+the stand "ticket to ride", which grants Valentine
+the ability "Love Train".
+
+
+----------------------------------------------
+	Installation istructions
+----------------------------------------------
+Installation instructions can be found in the
+included "ReadMe" file.
+-----------------------------------------------
+	Revolver guide
+-----------------------------------------------
+An important part of this datapack is a new revolver
+item. You know, like what cowboys have. This gun
+is a pretty neat weapon, and is mostly useful against
+groups of mobs due to it's small amount of splash damage.
+
+Revolver's can be crafted using a crafting table. The
+crafting recipe looks as follows:
+	0 0 0
+	i i i
+	0 t l
+i=iron
+t=tripwire hook
+l=leather
+
+You must then stand on top of the dropper in
+order to recieve the revolver. 
+
+Once crafted, your revolver will come free
+with 6 bullets. Revolvers may be shot in either
+your main hand or off-hand, however you cannot
+fire two revolvers at once (sorry :( ).
+
+After exhausting your 6 rounds, you will require
+more bullets. In order to craft bullets, you require
+iron nuggets and gunpowder. Then, you can craft
+bullets by dropping gunpowder and iron nuggets on the ground,
+however this will only work if specific amounts of
+each are dropped.
+
+1 gunpowder + 8 iron nuggets = 8 bullets
+8 gunpowder + 64 iron nuggets = 64 bullets
+
+If done correctly, you will recieve these items directly into your inventory.
+In order to reload, place bullets into your off-hand, and right click with
+the empty revolver. The max amount of ammo you may reload into the revolver
+is 6, however you may also puts 5,4,3,2, or even 1 singular bullet into
+your revolver at a time, too.
+
+You may also craft bullets in a crafting table
+by surrounding a piece of gunpowder with iron nuggets.
+
+Revolver bullets do a little bit of damage, and can be fired rapidly.
+Additionally, revolver bullets can destroy blocks, and shrapnel 
+from the bullets does a little bit of splash damage. 
+
+Revolvers are important, as they are a crucial item for clones,
+and also have special properties when used with love train.
+
+-----------------------------------------------
+	Usage and abilities guide
+-----------------------------------------------
+Obtaining:
+
+To obtain D4C, you must first craft a stand arrow.
+Crafting a stand arrow is as simple as dropping a 
+Nether star and a spectral arrow on the ground.
+
+After obtaining the stand arrow, drop the stand arrow
+on the ground, then drop a single diamond. If done
+correctly, you will recieve a D 4 C item, as well as
+2 ability items.
+
+D4C's 3rd ability "Love Train" is obtained after
+collecting 2 corpse parts from Devil's palms,
+which will spawn periodically around the world.
+
+
+Abilities Guide:
+
+summoning:
+In order to use your abilities, you must first summon your stand.
+To summon D4c, you must place the "D 4 C" item into your
+9th inventory slot (furthest right on your hotbar). To de-summon
+D4c, place this item into your off-hand. You can still summon
+D4c even when your stand is "silenced".
+
+To 'silence' D4C, click on the D4c Item. This will
+stop you from recieving D4c related items after you drop them, 
+with the exception of the D4C item itself. This frees up Inventory
+space when D4c is not in use.
+
+======================================================
+=================Abilities:===========================
+======================================================
+Passive:Stand armor. 
+	When below 3 hearts, D4C will appear missing some
+	of it's armor. This ability doesn't have any function,
+	but is still neat I think.
+
+
+Chop / Barrage: This item has 2 uses. When clicked in your main-hand,
+	D4C will move in front of the user before advancing forwards
+	for a short period, then choppping. During the period where
+	D4C is advancing, you may click again to cause it to chop
+	before reaching the maximum range. This can be difficult,
+	as Minecraft thinks you are trying to interact with your stand.
+	Turning slightly such that your cursor is not over D4C will allow
+	you to avoid this. Additionally, clicking twice will cause D4C to
+	immediately chop. Chopped mobs will be knocked back. It is best
+	to aim for a mob's feet with this attack.
+
+	Placing this item into your off-hand will cause D4C to stand
+	in front of you and barrage. This barrage is slow, but does
+	decent damage, and deflects projectiles. It is particularly
+	useful when Love Train is active, as the knockback from
+	Love Train's wall places hostile mobs right in D4C's barrage
+	range, and you won't accidentally click Love Train's walls
+	instead of the Chop item.
+===============================================================
+Clones: This item has several functions depending on which
+	hand the item is in and whether or not you are crouching.
+	I'll summarize quickly here:
+	
+	mainhand- summon clone
+	mainhand+crouching- become clone
+	offhand-select target for clones
+	offhand+crouching-un-select target for clones
+
+Summoning Clones:
+	This ability summons clones. For this ability, the cooldown
+	is dependant on how many clones you already have summoned
+	in loaded chunks. This prevents you from spamming clones,
+	while allowing you to summon enough if far away from home
+	in a combat situation. Clones are initially summoned
+	in a following state, and will follow you around.
+	to make a clone stand in place, right click their feet.
+	Clones that are made to hold their position will have particles
+	appear above their heads when holding the Clone Item.
+	More information on clone professions will be provided in the
+	dedicated clones section.
+
+Becoming a Clone:
+	Crouching while holding the clone item in your mainhand 
+	will create particles ~10 blocks in front of you in
+	the direction you are looking. The nearest clone to this
+	selector will begin to glow, indicating which clone you
+	have selected to swap. Clicking this item while crouching
+	will cause you to swap positions with the selected clone.
+	
+	Additionally, the health of the summoned clone will become 
+	your max health, and you will gain their profession.
+	You can use this property to heal by swapping with a 
+	new clone after taking damage, and the profession
+	property to move a clone to a specific spot where
+	it's profession will be helpful (I.E., to move a farmer
+	clone on to a hopper in the middle of a field).
+
+	If you are being barraged by Tusk, then this ability will
+	cause tusk to barrage the clone you swapped with instead of
+	yourself. In this manner it can be used to escape Tusk's
+	barrage, however the infinite rotation cannot be avoided.
+
+	This ability has a very short cooldown, so feel free to abuse it.
+
+Select Target: Clones that are given a revolver will
+	automatically target certain hostile mobs. However, you may
+	sometimes want your clones to target a specific mob or player.
+	Placing the clone item into your offhand will allow you to 
+	mark a player to be automatically targeted by clones as indicated
+	by angry particles. After targeting a mob, fire particles will
+	appear above the targeted player's head whilst this item is
+	in your offhand.
+
+De-select target: crouching while holding this item in your off-hand
+	will do the opposite of the Select target function. Green
+	particles will appear near who you are selecting, and once clicked
+	they will no longer be targeted by clones.
+
+-----------------------------------------
+		Dimension Hop
+-----------------------------------------
+D4C has the ability to access alternate dimensions, giving the user
+unique access to resources, a quick way to trap opponents, and a
+convenient escape if the user is in trouble. D4C's movement between
+dimensions requires the user to be between two objects, typically
+an american flag.
+
+note: Initially, the Dimension item will need time to set up an
+	area for the dimension to exist. This process takes ~ 4 minutes,
+	so don't worry if you don't have the item initially- just give
+	it some time.
+
+
+Dimension set Basis: D4C's dimension manifests as a 3x3 chunk area,
+	which correlates to an area in the overworld designated by
+	the D4C user. Initially, this basis must be set by the user.
+	When a basis is ready to be set, you will get a notification
+	above your taskbar. Right clicking while holding this item
+	will begin creating your dimension, which will be centered
+	where you are standing, and will be complete after
+	~20 seconds. After you set a basis, you will be able to freely
+	enter and exit your dimension.
+
+Entering Dimension: Once a basis is set, right clicking the 'dimension hop'
+	ability will cause D4C to lunge in front of you with an american flag.
+	for ~4 seconds, D4C will transport anything it touches to your dimension,
+	teleporting them to the center. While D4C is in this state, it will
+	stand still, allowing the user to walk into it and themselves be transported
+	into their dimension. This will not work on the Ender Dragon- they need to
+	stay in the End.
+
+	Summoned clones will all stand still when this item is used, and cannot
+	be sent to your dimension. Additionally, clones summoned within your dimension will
+	always count towards your clone total, meaning the cooldown for the "summon clone"
+	item will depend on how many are within your dimension. This means that while
+	it is possible to set up a firing squad within your dimension, your ability
+	to summon more clones while on the go will be greatly diminished.
+
+Exiting Dimension: Other players who are sent into D4C's dimension will automatically
+	leave after a couple seconds. The D4C user, however, may stay inside of their
+	dimension for as long as they want. The 'Dimension Hop' item works much the
+	same way that it did while not in dimension; however, when something leaves
+	D4C's dimension in a certain spot it appears in the correlating spot
+	where the dimension's basis was set, instead of the center of the basis.
+	For example, if your dimension is centered in the door of a house, and while
+	in the dimension you leave near your bed, you will reappear in the overworld
+	at your bed.
+
+	This means that you may access your dimension several thousand blocks away
+	from where it is based, then exit back at home. This essentially is a form
+	of teleportation, which can be used to travel long distances fast, as well
+	as escape confrontations.
+
+Re-setting Basis: Setting a basis begins a very long timer. Once this timer is done,
+	you will be able to re-set the basis of your dimension to some other location.
+	To do this, place the 'Dimension Hop' item into your off-hand. If the timer is done,
+	text will apear above your hotbar letting you know that you are able to set a new basis.
+	Right clicking while holding this item in your off-hand will cause the "Dimension Hop'
+	item to behave the same way it did when initially obtained.
+
+note- You cannot find Corpse Parts in other dimensions- You still need to find 2 devil's palms in order to
+	gain Love Train. Nice try though ;).
+	
+
+=========================================
+		Love Train:
+========================================
+Love Train is D4C's most powerful ability.
+When Love train is active, D4C's user is 
+completely invulnerable, has increased mobility,
+and has stronger attacks.
+
+In order to Obtain Love Train, you must find two devil's palms, and
+collect the corpse parts from them (cannonically you need 13, but
+I wouldn't do that to you ;) ). Devil's palms spawn periodically,
+but will only appear if you are >1000 blocks away from the nearest
+devil's palm. To collect the corpse part, simply walk into
+the middle of the palm and stand on the stone block.
+
+After collecting the part, the devil's palm will collapse and become
+inactive.
+
+(Note: Superflat worlds, or worlds where the terrain is <20 blocks
+high will likely have devil's palms whose bottoms are missing. If you're
+in creative mode, you can still collect the corpse part by
+flying over to the glowing piece, then flying directly downwards.)
+
+Once you collect 2 corpse parts, you may obtain love train by dropping the 
+two parts on the ground next to eachother.
+
+As a sidenote, you may also
+turn one of these corpse parts into a "Tusk Corpse Part" by dropping
+one corpse part on the ground and two netherite scrap on top of that
+(assuming you also have the tusk datapack installed). A Tusk Corpse Part
+can be clicked to give you Tusk.
+
+When you obtain Love Train, you will recieve a Love Train item. Love train
+is an ability that requires a host, which is something most fighting
+games do not acknowledge. Therefore, this ability has 3 settings:
+
+1.Host- Initially, Love Train will require a host. Setting a host
+	works the same way that swapping with another clone works.
+	Particles will appear in front of you, indicating where you
+	are selecting, and mobs will glow when your curser hovers
+	over them. Right clicking while a mob is highlighted will
+	set them as the "holy host" for Love Train. (hehe)
+
+	Players, clones, and boss mobs may not be chosen as hosts.
+
+	After setting a host, Love train becomes toggleable with no
+	cooldown. However, if the host is killed, or if you manually
+	unset a mob as host (by Placing Love Train in your off-hand and
+	right clicking), love train will have a 1 minute cooldown.
+	Though you are invincible while love train is active (with 
+	the exception of Tusk act 4 and Gold Experience Requiem's
+	'Return To Zero'), the host is not, and other players will
+	seek out this host in order to defeat you. You'll want
+	to choose a host that will be either easy to hide, or
+	has enough health that it will not be able to be killed
+	before you can return to defend it.
+
+2.Standby-After setting a host, Love Train is available. You
+	can activate this ability by right clicking, and you may turn
+	it off by right clicking as well with the Love train
+	item selected.
+
+3.Active-When Active, Love Train manifests as a golden wall
+	of light. This wall of light will be centered around
+	the D4C user, and will point towards wherever the host is.
+	
+	When active, the user becomes completely immune to damage.
+	They gain increased speed and jump power, and water + lava
+	will disappear around you when Love Train is active, allowing
+	you to part the sea and run along the bottom.
+
+	Love Train has special properties for certain types of mobs.
+	Enderman, other players, and hostile mobs will all be knocked
+	away if they come into contact with Love Train's wall. This does
+	not do any damage, however it is a property that can be used
+	to crush mobs in nearby terrain (which does happen to a character
+	in canon). 
+
+	Love Train's main ability is to deflect 'bad fortune' (attacks)
+	to a random person someone in the world. But, for your sake,
+	this love train will deflect damage towards the nearest mob.
+	This means that projectiles, like arrows and fireballs, will be
+	redirected towards the nearest enemy if they hit Love train. 
+	Additionally, most projectiles will become stronger after being deflected.
+	This includes revolver shots from Clones, which is a property that
+	can be used fully by firing your clones' shots into love train.
+	
+
+	Love Train will not send projectiles at your clones, so don't worry
+	about that. Clones can still take damage, though. Only the user
+	is protected by Love Train.
+
+	As a final note, Creepers and exploding TNT will all be teleported
+	away if they come into contact with Love Train, and creepers will
+	explode on a random nearby mob. Tusk's projectiles will also
+	be teleported away, excluding act 4's main nail shot and the
+	infinite rotation. Return to Zero will disable Love Train and
+	de-activate it for the duration of RTZ. If caught in a RTZ, you'll
+	want to swap to a clone outside of RTZ's range, and run away (lol).
+
+
+IMPORTANT NOTE: At the time of making this pack,
+custom dimensions are not working properly. As
+time progresses, I am planning on adding a fourth
+ability which will allow the D4C user to enter
+a parrallel dimension/send other players to it, but for
+now there is a lot of stuff you can do already.
+-------------------------------------------------------
+		Clones
+-------------------------------------------------------
+Clones are a feature of this pack that have many uses
+outside of pure combat. These uses will allow you to 
+automate certain farms, as well as give you access to certain
+trades that you could not get in vanilla minecraft.
+
+basic clone commands: When summoned, clones do not initially have any
+	special abilities. They will follow the user around,
+	and can be made to sit in place by right clicking their feet.
+	Again, you can tell if a clone is set to sit in place by holding
+	the Clone item, and checking to see if the clone has particles above it.
+	Clones Don't like to use portals correctly, so you will not be able
+	to go through a nether portal until all clones are made to stay still
+	or killed.
+
+Profession: Clones can be given certain items which will give
+	them special abilities and trades. If a clone already has a profession,
+	they can be given another item, and they will drop their previous item on
+	the ground. Clones also drop their item when killed. These items are:
+
+Revolver- Giving clones a revolver will give them a trade
+	for gunpowder, as well as a trade for an empty revolver.
+	Clones with revolvers will attack nearby hostile mobs within a
+	15 - block radius, and will also target mobs marked by
+	the user as hostile. 
+
+	Additionally, if the D4C user is within 5 blocks of a clone,
+	the clone will fire a round every time the user fires a revolver
+	in roughly the same direction like a firing squad. This can be used to hit targets
+	at long range, or just to overwhelm another player with the sheer
+	number of shots being fired. This property is particularly useful when
+	Love Train is active.
+
+Compass- This is one of the most useful clones to have around if you
+	do not have love train. When a clone is given a compass, they give
+	access to a trade which gives you a book listing all available trades
+	that each type of clone will have. Additionally, the "tracker" clone,
+	when set to stand still, will face towards the nearest active devil's palm,
+	producing green particles in a line facing the direction of the palm.
+
+Pickaxes-Pickaxe clones are probably the most important clone in terms of
+	automating farms. Pickaxe clones will break nearby mineable blocks in
+	a 3x3x3 cube centered around them, and drop the mined blocks
+	at their feet. Clones may be given any tier of pickaxe except netherite,
+	and will give trades based on the tier of the pickaxe.
+
+	Information on the pickaxe trades is availible from the compass clones'
+	guide book.
+	
+Axe-Axe clones function similar to Pickaxe clones, but will instead
+	automatically mine blocks that a player would typically mine with
+	an axe.
+	
+	Diamond Axe clones sell "Valentine's Brew", and golden axe clones
+	sell haste potions to make your own mining easier.
+
+Hoes-	Farmer clones work much the same way as pickaxe clones do, except instead
+	of mining blocks in a 3x3x3 radius it will break and re-plant certain crops in a 14x14 area,
+	as long as these crops are on the same y-level as the clone. These crops are
+	wheat, carrots, potatoes, pumpkins, and watermelon. (you don't need beetroot- it's unhealthy)
+
+	Farmers will also have different trades based off of the tier of tool given,
+	except for Netherite, which they do not accept.
+
+Fishing Rod- Fishing villagers will give useful trades for you when you're fishing.
+
+
+	When you swap with a clone that has a certain profession, you will then have
+	whatever profession they have. This does not give you any special properties,
+	but it makes sense, and makes it easy to finely position a particular clone
+	type. Swapping with a clone that is currently still will not cause
+	the clone to become mobile.
+----------------------------------------------------
+		Tips
+----------------------------------------------------
+-Love Train is strong against the Ender Dragon, so are clones.
+	Setting up several clones near the fountain is a good way
+	to deal high damage to the ender dragon when it is landed.
+
+-Another way to deal damage to the ender dragon is to summon a clone 
+	in the fountain, tell it to hold position, then swap to
+	the clone once the dragon lands. This allows you to get
+	close without being hit by the dragon's wings and knocked away.
+
+-Sometimes it is hard to get a clone to stand still. In this case,
+	I'd recommend waiting a bit, or simply kill the clone. There
+	is no downside to killing clones, as messed up as it is.
+
+-Teleporting long distances while a clone is not on hold position can
+	cause the clone to be left in unloaded chunks, which traps you
+	in whichever dimension you are in currently. I'd recommend
+	not teleporting while there are clone that aren't on hold position.
+	
+	If you do teleport and unload a moving clone's chunk, you can fix this problem
+	simply by going back to wherever you left the clone.
+
+-Technically, you cannot swim while love train is active, but water tends to
+	refill behind you as you run along the sea floor. This is useful as an escape
+	mechanism, or to traverse the Nether. But, you want to be careful at home
+	if you have some smaller water source nearby.
+
+-A good host for love train is something that has a lot of health, like an iron golem.
+	Hosts have a small amount of extra resistance, but also become immobile.
+	Love Train has no range limit, so it isn't a terrible idea to make some secure
+	place for your host far away from wherever you anticipate fighting someone.
+	
+-Small hosts can also be a good idea, but the host particles will likely give them away.
+
+-you can make tnt a host, but that's stupid so don't lol.
+
+============================================================
+In the future, I plan on adding a custom dimension to
+this pack once that feature of datapacks is made workable again.
+Until then, feel free to leave feedback on the planetminecraft page
+as well as on my youtube channel. 
+
+If you have any questions on the pack, you can watch the youtube
+video, or leave a comment if you still aren't sure about some aspect.
+
+
+Thanks for reading all of this, have a good day :)

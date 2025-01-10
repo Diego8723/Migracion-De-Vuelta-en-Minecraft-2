@@ -1,0 +1,188 @@
+=====================================================================================
+=================Gold Experience For Minecraft 1.20+=================================
+=====================================================================================
+
+==================
+====Glossary======
+==================
+1.Introduction
+2.Installation
+3.usage
+4.List of special cases with Life Create
+5.Plans
+
+====================================================
+============Introduction============================
+====================================================
+Gold Experience is the stand of Giorno Giovanna,
+protagonist of Jojo's Bizzare Adventure Part 5:Vento Aureo.
+A stand is the manifestation of a persons fighting spirit, which 
+will manifest as some entity outside of the user, and have
+some ability. Gold Experience has the ability to 'create life',
+granting life to inanimate objects. There are a couple rules
+to this ability:
+1)GE creates life using it's hands
+2)The life created will reflect damage taken
+3)Giorno can use this ability to heal himself and others
+	by creating new body parts.
+
+Although versatile enough in its own merit, Gold Experience
+gains a new, almost unstoppable ability after being pierced by
+the requiem arrow, transforming into Gold Experience Requiem.
+Gold Experience Requiem's ability is simply to undo anything
+it wants. Known as 'Return to Zero', this ability
+has almost no limits, and makes GER a nigh unstoppable being.
+It can unshoot a bullet, undo another stand's ability, and
+even undo someone's death, causing them to be stuck in an
+infinite loop of death unless the user chooses otherwise.
+
+====================================================
+============Installation============================
+====================================================
+Instructions for installing are located
+in the ReadMe file.
+===============================================
+===============usage==========================
+==============================================
+To unlock Gold Experience, you first need a stand arrow.
+To 'craft' a stand arrow, throw a Nether star on
+the ground with a spectral arrow. The nearest player will
+then recieve a 'stand arrow'. 
+
+Afterwards, you must throw the stand arrow onto the ground,
+and then throw a gold ingot onto that. You will then
+unlock Gold Experience forever, and recieve 3 items:
+1)a miniature GE
+2)A fist labeled "muda"
+3)A rose labeled "life Create"
+
+####Note: The game will give you these items back if you
+	drop them or Die.
+
+Mini GE: This item is used to summon your stand. Simply
+	Place it into your 9th inventory slot (the furthest
+	slot to the right on your hotbar) to summon GE.
+	To De-summon GE, place this item into your off-hand.
+
+Muda: This item controls all of the punch attacks of GE.
+	If you click with this item, GE will go in front of
+	you and punch once, giving your opponent slowness
+	as well as damaging them. 
+
+	Putting this item into your off hand will cause GE 
+	to do a barrage, constantly damaging your opponent,
+	but without giving the slowness effect (unless you
+	have Gold Experience Requiem, in which case the
+	barrage WILL apply the slowness effect).
+
+Life Create: This item is GE's main ability. It is used
+	by right clicking with the item in hand. It works in
+	two ways:
+	1)If it hits a mob (including the player), it will
+	give them regeneration for a short period of time.
+	GE will turn around and hit the user with this ability
+	if it does not hit a mob or block in a given amount
+	of time.
+
+	2)If this ability hits a block, or a special entity
+	such as a fireball or lit tnt, it will turn that
+	entity into a 'lifeform'. The lifeform created by this
+	ability is dependant on which block GE hits.
+	For example, if GE hits a dirt block, it will turn
+	the dirt block into a pig. If it hits stone, it
+	will turn it into a bat. All mobs created by GE
+	will have a thorns effect and regeneration, which
+	causes them to be hard to kill while reflecting
+	damage. 
+
+	To undo this ability, simply place the "life create"
+	item into your off-hand. This will cause all life created
+	to turn back into its original form.
+
+==============================================
+======Gold Experience Requiem=================
+==============================================
+In order to unlock Gold Experience Requiem (GER), you need
+to create another stand arrow. Then, you must throw
+this stand arrow at GE , or otherwise have it come into contact with
+GE. An easy way to do this is by using the life-create ability,
+or barraging. 
+
+GER has a couple of unique properties outside of gaining
+a new item. First, you will have passive resistance as well as
+fire resistance. Second, all negative potion effects will automatically
+be cleared from you. Thirdly, your stand barrage will now do
+twice as much damage, as well as apply the slowness effect GE
+basic punches did. GER has all the same abilities as GE,
+as well as one new- very powerful- one.
+
+Return To Zero: This item is very powerful, and works on a 
+	two-stage trigger which is activated by clicking.
+
+	The first time you use this item, it will create a 
+	"zero point" for mobs that are within a medium-sized
+	radius around you. The text "Return To Zero Ready"
+	will appear right above your hotbar as well, letting you
+	know that the second stage of RTZ is ready. Additionally,
+	a tiny green particle will be displayed on top of any mob
+	that was hit by RTZ's first stage.
+
+	Upon clicking RTZ again, a voiceline will play and
+	all mobs originally hit by RTZ will be teleported back
+	to their "zero" point, as well as inflicted with a
+	glowing and weakness effect. Once 'returned to zero,'
+	these mobs will be held there for 10 seconds. Also,
+	any projectiles thrown at the GER user during RTZ will be
+	deleted immediately upon getting within 5 blocks of them.
+	RTZ itself does not do any damage, but it does give the 
+	GER user plenty of time to do enough damage to kill anyone.
+
+	The final quirk of RTZ is that any player who is killed while under
+	the influence of RTZ will begin to experience an 'infinite death loop'.
+	This loop manifests itself by setting the affected player's max health
+	to 1 half heart, by setting their gamemode to adventure, by giving
+	that player slowness and also by constantly summoning threats to that 
+	player nearby, such as lightning or zombies. This player will not 
+	be able to exit their infinite death loop until the GER user places
+	the 'return to zero' item into their off-hand.
+
+=============================================================
+=================special cases in life create===============
+=============================================================
+Life create will turn certain blocks into certain mobs. Not every
+block in the game is accounted for, but I'd encourage you to test the ability
+out on a bunch of them. This list is meant to cover the special cases
+of when an entity can be effected by Life create, as well as some special
+blocks that I'm sure you want to know about.
+
+lit tnt- Turns into a bat. Upon undoing life create, they will immediately explode
+tnt minecart- same as lit tnt, but instead turns into a cat. This can be
+	used to set traps
+arrow- turns into a chicken. upon turning back into an arrow, it will shoot straight upwards.
+fireball+dragon fireball- turns into a chicken. Upon turning back into a normal fireball,
+	it can be hit back at the dragon or ghast that fired it at you.
+
+wheat,potatoes, and beetroot- will immediately grow these crops to full.
+
+dragon egg-creates an ender dragon
+beacon-creates a wither
+mob heads-creates whichever mob they belong to (except the player head lol)
+wool- creates a sheep with the same kind of wool
+
+Stone item - turns into a beam that fires at the nearest mob/player, poisoning
+	them and summoning a cave spider.
+================================
+============plans===============
+================================
+My main plans for the future are to
+keep adding support for more and more blocks.
+I don't know which stands I'll be making in the future,
+but I will make sure that the textures for all of them
+are compatible. So, if you want to use the tusk datapack
+and this datapack in the same world, you can. 
+
+Don't have much else to say. Hope you enjoy the datapack,
+and if you do, make sure to leave a diamond or a like
+on the youtube video. 
+
+Have good day :).
